@@ -1,0 +1,122 @@
+{
+  "chi_prime": {
+    "concept": "Projective Force",
+    "totalGematria": 0,
+    "wordCount": 0,
+    "averageGematria": 0
+  },
+  "A": {
+    "concept": "Adeptship",
+    "totalGematria": 4572,
+    "wordCount": 19,
+    "averageGematria": 240.6315789473684
+  },
+  "alpha": {
+    "concept": "Skill Constant",
+    "totalGematria": 3832,
+    "wordCount": 12,
+    "averageGematria": 319.3333333333333
+  },
+  "kappa": {
+    "concept": "Efficiency Constant",
+    "totalGematria": 1869,
+    "wordCount": 7,
+    "averageGematria": 267
+  },
+  "N": {
+    "concept": "Collective Force",
+    "totalGematria": 1647,
+    "wordCount": 12,
+    "averageGematria": 137.25
+  },
+  "k": {
+    "concept": "To Know",
+    "totalGematria": 2960,
+    "wordCount": 12,
+    "averageGematria": 246.66666666666666
+  },
+  "d": {
+    "concept": "To Dare",
+    "totalGematria": 1027,
+    "wordCount": 10,
+    "averageGematria": 102.7
+  },
+  "w": {
+    "concept": "To Will",
+    "totalGematria": 2311,
+    "wordCount": 9,
+    "averageGematria": 256.77777777777777
+  },
+  "s": {
+    "concept": "To Keep Silent",
+    "totalGematria": 2471,
+    "wordCount": 7,
+    "averageGematria": 353
+  },
+  "I": {
+    "concept": "Imagination",
+    "totalGematria": 2841,
+    "wordCount": 10,
+    "averageGematria": 284.1
+  },
+  "F": {
+    "concept": "Faith",
+    "totalGematria": 1302,
+    "wordCount": 8,
+    "averageGematria": 162.75
+  },
+  "D": {
+    "concept": "Disturbance",
+    "totalGematria": 2504,
+    "wordCount": 11,
+    "averageGematria": 227.63636363636363
+  },
+  "D_opt": {
+    "concept": "Optimal Disturbance",
+    "totalGematria": 0,
+    "wordCount": 0,
+    "averageGematria": 0
+  },
+  "sigma": {
+    "concept": "Equilibrium Bandwidth",
+    "totalGematria": 0,
+    "wordCount": 0,
+    "averageGematria": 0
+  },
+  "Psi": {
+    "concept": "Perceptive Fidelity",
+    "totalGematria": 0,
+    "wordCount": 0,
+    "averageGematria": 0
+  },
+  "Delta": {
+    "concept": "Diaphane",
+    "totalGematria": 1451,
+    "wordCount": 10,
+    "averageGematria": 145.1
+  },
+  "R": {
+    "concept": "Resonance",
+    "totalGematria": 2459,
+    "wordCount": 9,
+    "averageGematria": 273.22222222222223
+  },
+  "Sigma": {
+    "concept": "Signal Integrity",
+    "totalGematria": 2771,
+    "wordCount": 10,
+    "averageGematria": 277.1
+  },
+  "Lambda": {
+    "concept": "Astral Noise",
+    "totalGematria": 2023,
+    "wordCount": 8,
+    "averageGematria": 252.875
+  },
+  "beta": {
+    "concept": "Sensitivity Exponent",
+    "totalGematria": 1533,
+    "wordCount": 7,
+    "averageGematria": 219
+  }
+}
