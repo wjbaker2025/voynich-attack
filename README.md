@@ -19,6 +19,30 @@ pip install -r requirements.txt
 
 This repository serves as the analytical engine for the "word discovery" phase of the `Conscious-Relativity` project. Its primary purpose is to analyze the Hebrew Tanach and identify thematically relevant words to populate the various gematria libraries.
 
+#### Populating Gematria Libraries
+
+The gematria libraries have been populated with comprehensive word lists from the Hebrew Tanach. To regenerate or update these libraries:
+
+```bash
+python3 populate_gematria_libraries.py
+```
+
+This script:
+1. Extracts all Hebrew words from the 39 books of the Tanach
+2. Calculates standard gematria values for each word
+3. Categorizes words by thematic concepts (Adeptship, Skill, Knowledge, Faith, etc.)
+4. Generates JSON library files in `gematria_libraries/`
+
+To validate the populated libraries:
+
+```bash
+python3 validate_gematria_libraries.py
+```
+
+See `gematria_libraries/POPULATION_REPORT.md` for detailed statistics and methodology.
+
+#### Integration with Conscious-Relativity
+
 The workflow is managed from the parent `Conscious-Relativity` repository.
 
 **Step 1: Generate the Corpus**
