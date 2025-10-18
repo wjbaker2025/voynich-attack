@@ -103,118 +103,179 @@ def extract_words_from_tanach(books: Dict) -> List[Dict]:
     return list(words_dict.values())
 
 # Thematic keyword sets for each library (based on AGENTS.md)
+# Expanded with more comprehensive semantic coverage
 THEMATIC_KEYWORDS = {
-    'A_library': {  # Adeptship
+    'A_library': {  # Adeptship - mastery, skill, expertise
         'keywords': [
             'master', 'expert', 'chief', 'head', 'skilled', 'wise', 'wisdom',
             'understanding', 'knowledge', 'skill', 'cunning', 'craftsman',
             'artisan', 'excellent', 'prince', 'leader', 'mastery', 'intelligent',
-            'discerning', 'prudent', 'sage'
+            'discerning', 'prudent', 'sage', 'elder', 'teacher', 'instructor',
+            'captain', 'ruler', 'governor', 'overseer', 'superintendent',
+            'wise-hearted', 'skilled worker', 'competent', 'ability', 'able',
+            'proficient', 'adept', 'learned', 'enlightened', 'scholar'
         ]
     },
-    'alpha_library': {  # Skill Constant
+    'alpha_library': {  # Skill Constant - skill, craft, workmanship
         'keywords': [
             'skill', 'work', 'deed', 'craft', 'workmanship', 'craftsmanship',
             'handiwork', 'labor', 'service', 'device', 'instrument', 'tool',
-            'vessel', 'make', 'build', 'create', 'form', 'fashion', 'design'
+            'vessel', 'make', 'build', 'create', 'form', 'fashion', 'design',
+            'doing', 'practice', 'operation', 'production', 'construction',
+            'fabricate', 'manufacture', 'artisan', 'wrought', 'made', 'works',
+            'cunning work', 'skillful work', 'occupation', 'task', 'business',
+            'craft', 'art', 'handicraft', 'technique', 'method'
         ]
     },
-    'kappa_library': {  # Efficiency Constant
+    'kappa_library': {  # Efficiency Constant - speed, directness, effectiveness
         'keywords': [
             'swift', 'quick', 'haste', 'speed', 'diligent', 'straight', 'upright',
             'right', 'success', 'prosper', 'flourish', 'advance', 'direct',
-            'accomplish', 'complete', 'finish', 'perfect', 'effective'
+            'accomplish', 'complete', 'finish', 'perfect', 'effective',
+            'hasten', 'hurry', 'rapid', 'expedite', 'immediate', 'prompt',
+            'forthwith', 'speedily', 'suddenly', 'at once', 'straightway',
+            'efficient', 'productive', 'fruitful', 'thrive', 'prevail',
+            'succeed', 'achieve', 'attain', 'fulfill', 'realize'
         ]
     },
-    'N_library': {  # Collective Force
+    'N_library': {  # Collective Force - groups, assemblies, collectives
         'keywords': [
             'nation', 'people', 'assembly', 'congregation', 'multitude', 'host',
             'army', 'troop', 'company', 'tribe', 'family', 'community', 'all',
-            'together', 'gather', 'unite', 'unity', 'whole', 'entire'
+            'together', 'gather', 'unite', 'unity', 'whole', 'entire',
+            'peoples', 'nations', 'tribes', 'families', 'kindred', 'clan',
+            'band', 'group', 'gathering', 'council', 'meeting', 'throng',
+            'crowd', 'mass', 'collection', 'body', 'force', 'legion',
+            'assembled', 'united', 'collective', 'common', 'general'
         ]
     },
-    'k_library': {  # To Know
+    'k_library': {  # To Know - knowledge, understanding, wisdom
         'keywords': [
             'know', 'knowledge', 'wisdom', 'understanding', 'perceive', 'see',
             'discern', 'insight', 'learn', 'teach', 'instruct', 'aware',
-            'recognize', 'comprehend', 'realize', 'consider', 'regard'
+            'recognize', 'comprehend', 'realize', 'consider', 'regard',
+            'known', 'knew', 'knowing', 'acquainted', 'familiar', 'informed',
+            'conscious', 'cognizant', 'enlightened', 'educated', 'learned',
+            'discovered', 'revealed', 'understood', 'grasped', 'apprehended',
+            'perceived', 'observed', 'noted', 'marked', 'distinguished'
         ]
     },
-    'd_library': {  # To Dare
+    'd_library': {  # To Dare - courage, bravery, boldness
         'keywords': [
             'courage', 'strong', 'mighty', 'bold', 'brave', 'valiant', 'warrior',
             'hero', 'fearless', 'not afraid', 'fear not', 'strengthen', 'power',
-            'force', 'valor', 'fortitude'
+            'force', 'valor', 'fortitude', 'courageous', 'daring', 'intrepid',
+            'dauntless', 'undaunted', 'heroic', 'gallant', 'stalwart', 'stout',
+            'resolute', 'determined', 'steadfast', 'unwavering', 'firm',
+            'venture', 'risk', 'challenge', 'confront', 'face', 'defy'
         ]
     },
-    'w_library': {  # To Will
+    'w_library': {  # To Will - will, desire, volition, purpose
         'keywords': [
             'will', 'desire', 'choose', 'willing', 'consent', 'purpose', 'intent',
             'heart', 'delight', 'pleasure', 'wish', 'want', 'incline', 'favor',
-            'goodwill', 'accept'
+            'goodwill', 'accept', 'choice', 'elect', 'select', 'prefer',
+            'determination', 'resolve', 'decision', 'mind', 'soul', 'spirit',
+            'longing', 'yearning', 'craving', 'appetite', 'aspiration',
+            'volition', 'intention', 'aim', 'goal', 'plan', 'design'
         ]
     },
-    's_library': {  # To Keep Silent
+    's_library': {  # To Keep Silent - silence, quiet, stillness, secrecy
         'keywords': [
             'silence', 'silent', 'quiet', 'still', 'stillness', 'peace', 'rest',
             'calm', 'hush', 'secret', 'hide', 'conceal', 'restrain', 'cease',
-            'keep silence', 'hold peace'
+            'keep silence', 'hold peace', 'speechless', 'mute', 'dumb',
+            'tacit', 'unspoken', 'wordless', 'soundless', 'noiseless',
+            'tranquil', 'serene', 'placid', 'peaceful', 'composed',
+            'hidden', 'veiled', 'covered', 'obscured', 'clandestine',
+            'covert', 'private', 'confidential', 'undisclosed'
         ]
     },
-    'I_library': {  # Imagination
+    'I_library': {  # Imagination - forming mental images, devising, planning
         'keywords': [
             'imagination', 'imagine', 'form', 'device', 'thought', 'think',
             'vision', 'dream', 'devise', 'plan', 'purpose', 'intent', 'frame',
-            'inclination', 'meditation', 'consider', 'ponder', 'contrive'
+            'inclination', 'meditation', 'consider', 'ponder', 'contrive',
+            'conceive', 'envision', 'visualize', 'picture', 'fancy',
+            'invent', 'create', 'fabricate', 'construct', 'design',
+            'scheme', 'plot', 'project', 'blueprint', 'conception',
+            'idea', 'notion', 'concept', 'mental', 'mind', 'heart'
         ]
     },
-    'F_library': {  # Faith
+    'F_library': {  # Faith - belief, trust, faithfulness
         'keywords': [
             'faith', 'believe', 'trust', 'faithful', 'faithfulness', 'hope',
             'confidence', 'rely', 'depend', 'sure', 'firm', 'steadfast', 'amen',
-            'truth', 'true', 'establish', 'certain'
+            'truth', 'true', 'establish', 'certain', 'belief', 'believing',
+            'trustworthy', 'reliable', 'dependable', 'loyal', 'devoted',
+            'committed', 'dedicated', 'constant', 'stable', 'secure',
+            'assurance', 'conviction', 'certitude', 'credence', 'reliance'
         ]
     },
-    'D_library': {  # Disturbance
+    'D_library': {  # Disturbance - chaos, turmoil, confusion
         'keywords': [
             'trouble', 'tremble', 'shake', 'quake', 'rage', 'noise', 'tumult',
             'storm', 'tempest', 'whirlwind', 'terror', 'confusion', 'chaos',
-            'turmoil', 'uproar', 'commotion', 'disturb', 'dismay', 'distress'
+            'turmoil', 'uproar', 'commotion', 'disturb', 'dismay', 'distress',
+            'agitate', 'perturb', 'disquiet', 'unsettle', 'upset', 'disorder',
+            'disarray', 'turbulence', 'upheaval', 'convulsion', '震', '震動',
+            'raging', 'roar', 'thunder', 'earthquake', 'trembling', 'shaking',
+            'fear', 'dread', 'panic', 'alarm', 'fright', 'horror'
         ]
     },
-    'Delta_library': {  # Diaphane (clarity/purity)
+    'Delta_library': {  # Diaphane - clarity, purity, transparency, brightness
         'keywords': [
             'clear', 'pure', 'light', 'bright', 'shine', 'shining', 'crystal',
             'clean', 'clarity', 'transparent', 'radiant', 'brilliant', 'splendor',
-            'glory', 'luminous', 'white', 'purify', 'refine'
+            'glory', 'luminous', 'white', 'purify', 'refine', 'gleam', 'glitter',
+            'sparkle', 'glisten', 'shimmer', 'glow', 'illuminate', 'brighten',
+            'enlighten', 'lucid', 'limpid', 'pellucid', 'translucent',
+            'unclouded', 'unblemished', 'spotless', 'stainless', 'immaculate',
+            'pristine', 'cleanse', 'wash', 'purge', 'lustrous', 'resplendent'
         ]
     },
-    'R_library': {  # Resonance
+    'R_library': {  # Resonance - response, connection, vibration
         'keywords': [
             'answer', 'voice', 'sound', 'call', 'respond', 'echo', 'shout',
             'song', 'sing', 'cry', 'hear', 'listen', 'heart', 'proclaim',
-            'declare', 'speak', 'utter', 'resound'
+            'declare', 'speak', 'utter', 'resound', 'reply', 'response',
+            'music', 'melody', 'harmony', 'tune', 'tone', 'pitch', 'note',
+            'chorus', 'chant', 'hymn', 'psalm', 'praise', 'worship',
+            'exclaim', 'announce', 'pronounce', 'vocalize', 'articulate',
+            'verbal', 'oral', 'acoustic', 'audible', 'sonic'
         ]
     },
-    'Sigma_library': {  # Signal Integrity
+    'Sigma_library': {  # Signal Integrity - truth, wholeness, perfection
         'keywords': [
             'truth', 'faithful', 'perfect', 'whole', 'complete', 'upright',
             'just', 'right', 'righteous', 'integrity', 'honest', 'sincere',
-            'genuine', 'reliable', 'trustworthy', 'blameless'
+            'genuine', 'reliable', 'trustworthy', 'blameless', 'true',
+            'verity', 'veracity', 'authenticity', 'accuracy', 'correctness',
+            'exactness', 'precision', 'fidelity', 'honesty', 'candor',
+            'straightforward', 'forthright', 'guileless', 'artless',
+            'undefiled', 'uncorrupted', 'pure', 'sound', 'solid', 'firm'
         ]
     },
-    'Lambda_library': {  # Astral Noise
+    'Lambda_library': {  # Astral Noise - falsehood, deception, interference
         'keywords': [
             'lie', 'false', 'falsehood', 'vanity', 'vain', 'idol', 'deceit',
             'deceive', 'sorcery', 'divination', 'worthless', 'empty', 'deception',
-            'delusion', 'error', 'corrupt', 'pervert'
+            'delusion', 'error', 'corrupt', 'pervert', 'lying', 'liar',
+            'mendacity', 'untruth', 'fabrication', 'fiction', 'counterfeit',
+            'fake', 'fraud', 'sham', 'pretense', 'guile', 'duplicity',
+            'treachery', 'betrayal', 'trickery', 'cunning', 'craft',
+            'magic', 'enchantment', 'witchcraft', 'spell', 'charm', 'curse'
         ]
     },
-    'beta_library': {  # Sensitivity Exponent
+    'beta_library': {  # Sensitivity Exponent - receptiveness, listening, feeling
         'keywords': [
             'listen', 'hear', 'hearken', 'heart', 'tender', 'soft', 'gentle',
             'perceive', 'sense', 'feel', 'receive', 'attentive', 'incline',
-            'ear', 'sensitive', 'responsive'
+            'ear', 'sensitive', 'responsive', 'hearing', 'heed', 'obey',
+            'attend', 'regard', 'notice', 'observe', 'aware', 'conscious',
+            'mindful', 'alert', 'watchful', 'vigilant', 'receptive',
+            'open', 'accepting', 'welcoming', 'understanding', 'sympathetic',
+            'compassionate', 'empathetic', 'caring', 'kind', 'merciful'
         ]
     }
 }
@@ -267,7 +328,8 @@ def populate_library(library_name: str, all_words: List[Dict]) -> List[Dict]:
         entry = {
             'hebrew': word['clean_hebrew'],
             'transliteration': create_transliteration(word['clean_hebrew']),
-            'gematria': word['gematria']
+            'gematria': word['gematria'],
+            'english': word.get('english', '')
         }
         library_entries.append(entry)
     

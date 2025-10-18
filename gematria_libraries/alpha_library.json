@@ -2,3636 +2,7387 @@
   {
     "hebrew": "הבוא",
     "transliteration": "הבוא",
-    "gematria": 14
+    "gematria": 14,
+    "english": "shall indeed"
   },
   {
     "hebrew": "ובגד",
     "transliteration": "ובגד",
-    "gematria": 15
+    "gematria": 15,
+    "english": "and indeed very"
   },
   {
     "hebrew": "יגדו",
     "transliteration": "יגדו",
-    "gematria": 23
+    "gematria": 23,
+    "english": "they should inform"
   },
   {
     "hebrew": "וגחי",
     "transliteration": "וגחי",
-    "gematria": 27
+    "gematria": 27,
+    "english": "and labor to bring forth"
   },
   {
     "hebrew": "יבטח",
     "transliteration": "יבטח",
-    "gematria": 29
+    "gematria": 29,
+    "english": "let make trust"
   },
   {
     "hebrew": "וזבחו",
     "transliteration": "וזבחו",
-    "gematria": 29
+    "gematria": 29,
+    "english": "and make sacrifice"
   },
   {
     "hebrew": "ייטב",
     "transliteration": "ייטב",
-    "gematria": 31
+    "gematria": 31,
+    "english": "May make better"
+  },
+  {
+    "hebrew": "לב",
+    "transliteration": "לב",
+    "gematria": 32,
+    "english": "the heart"
+  },
+  {
+    "hebrew": "החטיא",
+    "transliteration": "החטיא",
+    "gematria": 33,
+    "english": "made sin"
+  },
+  {
+    "hebrew": "לבב",
+    "transliteration": "לבב",
+    "gematria": 34,
+    "english": "heart"
+  },
+  {
+    "hebrew": "בלב",
+    "transliteration": "בלב",
+    "gematria": 34,
+    "english": "in the heart"
+  },
+  {
+    "hebrew": "בלבב",
+    "transliteration": "בלבב",
+    "gematria": 36,
+    "english": "Into the heart"
+  },
+  {
+    "hebrew": "לבה",
+    "transliteration": "לבה",
+    "gematria": 37,
+    "english": "her heart"
+  },
+  {
+    "hebrew": "אכביד",
+    "transliteration": "אכביד",
+    "gematria": 37,
+    "english": "My father made heavy"
+  },
+  {
+    "hebrew": "הלב",
+    "transliteration": "הלב",
+    "gematria": 37,
+    "english": "the heart"
   },
   {
     "hebrew": "הזכו",
     "transliteration": "הזכו",
-    "gematria": 38
+    "gematria": 38,
+    "english": "make yourselves clean"
+  },
+  {
+    "hebrew": "לבו",
+    "transliteration": "לבו",
+    "gematria": 38,
+    "english": "his heart"
+  },
+  {
+    "hebrew": "חל",
+    "transliteration": "חל",
+    "gematria": 38,
+    "english": "the rampart"
+  },
+  {
+    "hebrew": "ולב",
+    "transliteration": "ולב",
+    "gematria": 38,
+    "english": "and heart [was]"
+  },
+  {
+    "hebrew": "לבבה",
+    "transliteration": "לבבה",
+    "gematria": 39,
+    "english": "her heart"
+  },
+  {
+    "hebrew": "החטיאו",
+    "transliteration": "החטיאו",
+    "gematria": 39,
+    "english": "they had made sin"
+  },
+  {
+    "hebrew": "ויזבחו",
+    "transliteration": "ויזבחו",
+    "gematria": 39,
+    "english": "and made"
+  },
+  {
+    "hebrew": "הלבב",
+    "transliteration": "הלבב",
+    "gematria": 39,
+    "english": "fainthearted"
+  },
+  {
+    "hebrew": "בלבה",
+    "transliteration": "בלבה",
+    "gematria": 39,
+    "english": "in her heart"
   },
   {
     "hebrew": "לדה",
     "transliteration": "לדה",
-    "gematria": 39
+    "gematria": 39,
+    "english": "in labor"
+  },
+  {
+    "hebrew": "לבבו",
+    "transliteration": "לבבו",
+    "gematria": 40,
+    "english": "his heart"
+  },
+  {
+    "hebrew": "ולבב",
+    "transliteration": "ולבב",
+    "gematria": 40,
+    "english": "and the heart"
+  },
+  {
+    "hebrew": "ובלב",
+    "transliteration": "ובלב",
+    "gematria": 40,
+    "english": "and with a heart"
+  },
+  {
+    "hebrew": "בלבו",
+    "transliteration": "בלבו",
+    "gematria": 40,
+    "english": "in his heart"
+  },
+  {
+    "hebrew": "בלבבה",
+    "transliteration": "בלבבה",
+    "gematria": 41,
+    "english": "in your heart"
+  },
+  {
+    "hebrew": "בלבבו",
+    "transliteration": "בלבבו",
+    "gematria": 42,
+    "english": "[it is] in his heart"
+  },
+  {
+    "hebrew": "לבי",
+    "transliteration": "לבי",
+    "gematria": 42,
+    "english": "My heart"
+  },
+  {
+    "hebrew": "ובלבב",
+    "transliteration": "ובלבב",
+    "gematria": 42,
+    "english": "and with a heart"
+  },
+  {
+    "hebrew": "לבבי",
+    "transliteration": "לבבי",
+    "gematria": 44,
+    "english": "My heart"
+  },
+  {
+    "hebrew": "ולבו",
+    "transliteration": "ולבו",
+    "gematria": 44,
+    "english": "but their hearts"
+  },
+  {
+    "hebrew": "בלבי",
+    "transliteration": "בלבי",
+    "gematria": 44,
+    "english": "[is] in My heart"
   },
   {
     "hebrew": "יחטיאו",
     "transliteration": "יחטיאו",
-    "gematria": 44
+    "gematria": 44,
+    "english": "they make sin"
+  },
+  {
+    "hebrew": "ולבבה",
+    "transliteration": "ולבבה",
+    "gematria": 45,
+    "english": "and his heart"
+  },
+  {
+    "hebrew": "ולבבו",
+    "transliteration": "ולבבו",
+    "gematria": 46,
+    "english": "and with their heart"
   },
   {
     "hebrew": "היטיבי",
     "transliteration": "היטיבי",
-    "gematria": 46
+    "gematria": 46,
+    "english": "Make sweet"
+  },
+  {
+    "hebrew": "בלבבי",
+    "transliteration": "בלבבי",
+    "gematria": 46,
+    "english": "in My heart"
   },
   {
     "hebrew": "בטלו",
     "transliteration": "בטלו",
-    "gematria": 47
+    "gematria": 47,
+    "english": "they could make cease"
+  },
+  {
+    "hebrew": "ולבי",
+    "transliteration": "ולבי",
+    "gematria": 48,
+    "english": "and my heart [is]"
+  },
+  {
+    "hebrew": "ובלבבו",
+    "transliteration": "ובלבבו",
+    "gematria": 48,
+    "english": "and in his heart"
   },
   {
     "hebrew": "אגדיל",
     "transliteration": "אגדיל",
-    "gematria": 48
+    "gematria": 48,
+    "english": "will make great"
   },
   {
     "hebrew": "והיטיבו",
     "transliteration": "והיטיבו",
-    "gematria": 48
+    "gematria": 48,
+    "english": "and make good"
   },
   {
     "hebrew": "הדם",
     "transliteration": "הדם",
-    "gematria": 49
+    "gematria": 49,
+    "english": "my footstool"
   },
   {
     "hebrew": "ואגדלה",
     "transliteration": "ואגדלה",
-    "gematria": 49
+    "gematria": 49,
+    "english": "and make great"
+  },
+  {
+    "hebrew": "ולבבי",
+    "transliteration": "ולבבי",
+    "gematria": 50,
+    "english": "and my heart"
+  },
+  {
+    "hebrew": "לבך",
+    "transliteration": "לבך",
+    "gematria": 52,
+    "english": "Your heart"
+  },
+  {
+    "hebrew": "ילזו",
+    "transliteration": "ילזו",
+    "gematria": 53,
+    "english": "let them depart"
+  },
+  {
+    "hebrew": "ובטלו",
+    "transliteration": "ובטלו",
+    "gematria": 53,
+    "english": "and made cease"
+  },
+  {
+    "hebrew": "בלבך",
+    "transliteration": "בלבך",
+    "gematria": 54,
+    "english": "in your heart"
+  },
+  {
+    "hebrew": "לבבך",
+    "transliteration": "לבבך",
+    "gematria": 54,
+    "english": "your heart"
+  },
+  {
+    "hebrew": "כלבב",
+    "transliteration": "כלבב",
+    "gematria": 54,
+    "english": "as [was] the heart"
+  },
+  {
+    "hebrew": "גדלוהו",
+    "transliteration": "גדלוהו",
+    "gematria": 54,
+    "english": "made it grow"
   },
   {
     "hebrew": "יולדה",
     "transliteration": "יולדה",
-    "gematria": 55
+    "gematria": 55,
+    "english": "of a woman in labor"
+  },
+  {
+    "hebrew": "גבלך",
+    "transliteration": "גבלך",
+    "gematria": 55,
+    "english": "your quarters"
+  },
+  {
+    "hebrew": "בלבבך",
+    "transliteration": "בלבבך",
+    "gematria": 56,
+    "english": "in your heart"
+  },
+  {
+    "hebrew": "יבדיל",
+    "transliteration": "יבדיל",
+    "gematria": 56,
+    "english": "set apart"
+  },
+  {
+    "hebrew": "ולבך",
+    "transliteration": "ולבך",
+    "gematria": 58,
+    "english": "and your heart"
+  },
+  {
+    "hebrew": "היוחל",
+    "transliteration": "היוחל",
+    "gematria": 59,
+    "english": "shall be made to give birth"
+  },
+  {
+    "hebrew": "ויגדלו",
+    "transliteration": "ויגדלו",
+    "gematria": 59,
+    "english": "and made arrogant threats"
   },
   {
     "hebrew": "כלי",
     "transliteration": "כלי",
-    "gematria": 60
+    "gematria": 60,
+    "english": "vessels"
+  },
+  {
+    "hebrew": "כלבבו",
+    "transliteration": "כלבבו",
+    "gematria": 60,
+    "english": "after His own heart"
+  },
+  {
+    "hebrew": "הולך",
+    "transliteration": "הולך",
+    "gematria": 61,
+    "english": "as soon as you depart"
   },
   {
     "hebrew": "הנו",
     "transliteration": "הנו",
-    "gematria": 61
+    "gematria": 61,
+    "english": "indeed"
   },
   {
     "hebrew": "בכלי",
     "transliteration": "בכלי",
-    "gematria": 62
+    "gematria": 62,
+    "english": "in a vessel"
+  },
+  {
+    "hebrew": "ובלבבך",
+    "transliteration": "ובלבבך",
+    "gematria": 62,
+    "english": "and in your heart"
+  },
+  {
+    "hebrew": "יבדילו",
+    "transliteration": "יבדילו",
+    "gematria": 62,
+    "english": "they will set apart"
   },
   {
     "hebrew": "להחטיא",
     "transliteration": "להחטיא",
-    "gematria": 63
+    "gematria": 63,
+    "english": "to make sin"
   },
   {
     "hebrew": "ובנה",
     "transliteration": "ובנה",
-    "gematria": 63
+    "gematria": 63,
+    "english": "and builds"
   },
   {
     "hebrew": "ויבמה",
     "transliteration": "ויבמה",
-    "gematria": 63
+    "gematria": 63,
+    "english": "and perform the duty of a brother-in-law to her"
   },
   {
     "hebrew": "בונה",
     "transliteration": "בונה",
-    "gematria": 63
+    "gematria": 63,
+    "english": "am building"
+  },
+  {
+    "hebrew": "יליזו",
+    "transliteration": "יליזו",
+    "gematria": 63,
+    "english": "do let them depart"
   },
   {
     "hebrew": "ובנו",
     "transliteration": "ובנו",
-    "gematria": 64
+    "gematria": 64,
+    "english": "And shall build"
+  },
+  {
+    "hebrew": "ללבב",
+    "transliteration": "ללבב",
+    "gematria": 64,
+    "english": "at the heart"
   },
   {
     "hebrew": "יגאלך",
     "transliteration": "יגאלך",
-    "gematria": 64
+    "gematria": 64,
+    "english": "he will perform the duty of a close relative for you"
   },
   {
     "hebrew": "חמודו",
     "transliteration": "חמודו",
-    "gematria": 64
+    "gematria": 64,
+    "english": "You make his beauty"
   },
   {
     "hebrew": "והולידה",
     "transliteration": "והולידה",
-    "gematria": 66
+    "gematria": 66,
+    "english": "and make it bring forth"
   },
   {
     "hebrew": "לגדל",
     "transliteration": "לגדל",
-    "gematria": 67
+    "gematria": 67,
+    "english": "to make great"
   },
   {
     "hebrew": "ובכלי",
     "transliteration": "ובכלי",
-    "gematria": 68
+    "gematria": 68,
+    "english": "and Even in vessels"
   },
   {
     "hebrew": "יבנו",
     "transliteration": "יבנו",
-    "gematria": 68
+    "gematria": 68,
+    "english": "they shall build"
   },
   {
     "hebrew": "הבונה",
     "transliteration": "הבונה",
-    "gematria": 68
+    "gematria": 68,
+    "english": "He who builds"
   },
   {
     "hebrew": "ומחיה",
     "transliteration": "ומחיה",
-    "gematria": 69
+    "gematria": 69,
+    "english": "and makes alive"
+  },
+  {
+    "hebrew": "ויגדילו",
+    "transliteration": "ויגדילו",
+    "gematria": 69,
+    "english": "and made arrogant threats"
   },
   {
     "hebrew": "כחולה",
     "transliteration": "כחולה",
-    "gematria": 69
+    "gematria": 69,
+    "english": "as of a woman in labor"
   },
   {
     "hebrew": "כילדה",
     "transliteration": "כילדה",
-    "gematria": 69
+    "gematria": 69,
+    "english": "Like of a woman in labor"
   },
   {
     "hebrew": "ינובב",
     "transliteration": "ינובב",
-    "gematria": 70
+    "gematria": 70,
+    "english": "shall make thrive"
+  },
+  {
+    "hebrew": "מלב",
+    "transliteration": "מלב",
+    "gematria": 72,
+    "english": "from the heart"
+  },
+  {
+    "hebrew": "לבם",
+    "transliteration": "לבם",
+    "gematria": 72,
+    "english": "their heart"
+  },
+  {
+    "hebrew": "ויכלו",
+    "transliteration": "ויכלו",
+    "gematria": 72,
+    "english": "And when they had made an end"
   },
   {
     "hebrew": "לבטלא",
     "transliteration": "לבטלא",
-    "gematria": 72
+    "gematria": 72,
+    "english": "to make cease"
   },
   {
     "hebrew": "אבנך",
     "transliteration": "אבנך",
-    "gematria": 73
+    "gematria": 73,
+    "english": "I will build you"
   },
   {
     "hebrew": "יבנהו",
     "transliteration": "יבנהו",
-    "gematria": 73
+    "gematria": 73,
+    "english": "which He did build"
+  },
+  {
+    "hebrew": "בלבם",
+    "transliteration": "בלבם",
+    "gematria": 74,
+    "english": "in whose heart"
+  },
+  {
+    "hebrew": "לבבם",
+    "transliteration": "לבבם",
+    "gematria": 74,
+    "english": "their heart"
+  },
+  {
+    "hebrew": "כלבבך",
+    "transliteration": "כלבבך",
+    "gematria": 74,
+    "english": "according to your heart"
   },
   {
     "hebrew": "בוניו",
     "transliteration": "בוניו",
-    "gematria": 74
+    "gematria": 74,
+    "english": "who build"
   },
   {
     "hebrew": "לחול",
     "transliteration": "לחול",
-    "gematria": 74
+    "gematria": 74,
+    "english": "to perform"
+  },
+  {
+    "hebrew": "עבד",
+    "transliteration": "עבד",
+    "gematria": 76,
+    "english": "were made to serve"
+  },
+  {
+    "hebrew": "בלבבם",
+    "transliteration": "בלבבם",
+    "gematria": 76,
+    "english": "in their heart"
+  },
+  {
+    "hebrew": "להיטיבי",
+    "transliteration": "להיטיבי",
+    "gematria": 76,
+    "english": "doing good"
   },
   {
     "hebrew": "מחטיאי",
     "transliteration": "מחטיאי",
-    "gematria": 78
+    "gematria": 78,
+    "english": "Who make an offender"
+  },
+  {
+    "hebrew": "וכלבך",
+    "transliteration": "וכלבך",
+    "gematria": 78,
+    "english": "and according to Your own heart"
   },
   {
     "hebrew": "והבניה",
     "transliteration": "והבניה",
-    "gematria": 78
+    "gematria": 78,
+    "english": "and the with building"
+  },
+  {
+    "hebrew": "ולבם",
+    "transliteration": "ולבם",
+    "gematria": 78,
+    "english": "For their heart"
   },
   {
     "hebrew": "ויבנהו",
     "transliteration": "ויבנהו",
-    "gematria": 79
+    "gematria": 79,
+    "english": "so he was in building it"
+  },
+  {
+    "hebrew": "מבטיחי",
+    "transliteration": "מבטיחי",
+    "gematria": 79,
+    "english": "You made Me trust"
+  },
+  {
+    "hebrew": "והחטיאם",
+    "transliteration": "והחטיאם",
+    "gematria": 79,
+    "english": "and made them commit"
   },
   {
     "hebrew": "ככלי",
     "transliteration": "ככלי",
-    "gematria": 80
+    "gematria": 80,
+    "english": "Like a vessel"
+  },
+  {
+    "hebrew": "לאדמה",
+    "transliteration": "לאדמה",
+    "gematria": 80,
+    "english": "on the earth"
+  },
+  {
+    "hebrew": "עוה",
+    "transliteration": "עוה",
+    "gematria": 81,
+    "english": "He has made crooked"
   },
   {
     "hebrew": "גלמי",
     "transliteration": "גלמי",
-    "gematria": 83
+    "gematria": 83,
+    "english": "My [substance being] yet unformed"
   },
   {
     "hebrew": "לבנא",
     "transliteration": "לבנא",
-    "gematria": 83
+    "gematria": 83,
+    "english": "to build"
   },
   {
     "hebrew": "לגאלך",
     "transliteration": "לגאלך",
-    "gematria": 84
+    "gematria": 84,
+    "english": "to perform the duty for you"
   },
   {
     "hebrew": "וחכמי",
     "transliteration": "וחכמי",
-    "gematria": 84
+    "gematria": 84,
+    "english": "and with the skillful men"
   },
   {
     "hebrew": "יחולל",
     "transliteration": "יחולל",
-    "gematria": 84
+    "gematria": 84,
+    "english": "makes give birth"
   },
   {
     "hebrew": "בנבל",
     "transliteration": "בנבל",
-    "gematria": 84
+    "gematria": 84,
+    "english": "with an instrument"
   },
   {
     "hebrew": "איגע",
     "transliteration": "איגע",
-    "gematria": 84
+    "gematria": 84,
+    "english": "I labor"
+  },
+  {
+    "hebrew": "הודע",
+    "transliteration": "הודע",
+    "gematria": 85,
+    "english": "made known"
   },
   {
     "hebrew": "עבדי",
     "transliteration": "עבדי",
-    "gematria": 86
+    "gematria": 86,
+    "english": "Those who work"
   },
   {
     "hebrew": "אכינה",
     "transliteration": "אכינה",
-    "gematria": 86
+    "gematria": 86,
+    "english": "I will make preparation"
+  },
+  {
+    "hebrew": "חלבמו",
+    "transliteration": "חלבמו",
+    "gematria": 86,
+    "english": "Their fat [hearts]"
   },
   {
     "hebrew": "הנבל",
     "transliteration": "הנבל",
-    "gematria": 87
+    "gematria": 87,
+    "english": "of stringed instruments"
   },
   {
     "hebrew": "ועבדה",
     "transliteration": "ועבדה",
-    "gematria": 87
+    "gematria": 87,
+    "english": "but work"
+  },
+  {
+    "hebrew": "ואודע",
+    "transliteration": "ואודע",
+    "gematria": 87,
+    "english": "and made Myself known"
   },
   {
     "hebrew": "והעבד",
     "transliteration": "והעבד",
-    "gematria": 87
+    "gematria": 87,
+    "english": "And the workers of"
   },
   {
     "hebrew": "ועבדו",
     "transliteration": "ועבדו",
-    "gematria": 88
+    "gematria": 88,
+    "english": "and will make"
   },
   {
     "hebrew": "והחיני",
     "transliteration": "והחיני",
-    "gematria": 89
+    "gematria": 89,
+    "english": "and make me live"
+  },
+  {
+    "hebrew": "לבבנו",
+    "transliteration": "לבבנו",
+    "gematria": 90,
+    "english": "our hearts"
+  },
+  {
+    "hebrew": "והועד",
+    "transliteration": "והועד",
+    "gematria": 91,
+    "english": "and it has been made known"
   },
   {
     "hebrew": "ועטו",
     "transliteration": "ועטו",
-    "gematria": 91
+    "gematria": 91,
+    "english": "and indeed they shall cover"
+  },
+  {
+    "hebrew": "והודע",
+    "transliteration": "והודע",
+    "gematria": 91,
+    "english": "and He has made known"
+  },
+  {
+    "hebrew": "והכין",
+    "transliteration": "והכין",
+    "gematria": 91,
+    "english": "and made ready"
   },
   {
     "hebrew": "העביד",
     "transliteration": "העביד",
-    "gematria": 91
+    "gematria": 91,
+    "english": "caused to labor"
   },
   {
     "hebrew": "אודיע",
     "transliteration": "אודיע",
-    "gematria": 91
+    "gematria": 91,
+    "english": "I will make known"
+  },
+  {
+    "hebrew": "לבכם",
+    "transliteration": "לבכם",
+    "gematria": 92,
+    "english": "your heart"
   },
   {
     "hebrew": "העבודה",
     "transliteration": "העבודה",
-    "gematria": 92
+    "gematria": 92,
+    "english": "the service"
+  },
+  {
+    "hebrew": "מלבך",
+    "transliteration": "מלבך",
+    "gematria": 92,
+    "english": "in your own heart"
   },
   {
     "hebrew": "ועבודה",
     "transliteration": "ועבודה",
-    "gematria": 93
+    "gematria": 93,
+    "english": "and [any kind] of service"
+  },
+  {
+    "hebrew": "לבבכם",
+    "transliteration": "לבבכם",
+    "gematria": 94,
+    "english": "your heart"
+  },
+  {
+    "hebrew": "מלבבך",
+    "transliteration": "מלבבך",
+    "gematria": 94,
+    "english": "from your heart"
   },
   {
     "hebrew": "יהודע",
     "transliteration": "יהודע",
-    "gematria": 95
+    "gematria": 95,
+    "english": "will make known"
   },
   {
     "hebrew": "מלאכה",
     "transliteration": "מלאכה",
-    "gematria": 96
+    "gematria": 96,
+    "english": "of work"
   },
   {
     "hebrew": "אמנה",
     "transliteration": "אמנה",
-    "gematria": 96
+    "gematria": 96,
+    "english": "indeed"
   },
   {
     "hebrew": "ולמודי",
     "transliteration": "ולמודי",
-    "gematria": 96
+    "gematria": 96,
+    "english": "and skillful"
+  },
+  {
+    "hebrew": "בלבבכם",
+    "transliteration": "בלבבכם",
+    "gematria": 96,
+    "english": "within your heart"
   },
   {
     "hebrew": "הסבל",
     "transliteration": "הסבל",
-    "gematria": 97
+    "gematria": 97,
+    "english": "of the laborers"
   },
   {
     "hebrew": "במלאכה",
     "transliteration": "במלאכה",
-    "gematria": 98
+    "gematria": 98,
+    "english": "in the work"
+  },
+  {
+    "hebrew": "נמגו",
+    "transliteration": "נמגו",
+    "gematria": 99,
+    "english": "are fainthearted"
+  },
+  {
+    "hebrew": "פדיה",
+    "transliteration": "פדיה",
+    "gematria": 99,
+    "english": "Pedaiah [made repairs]"
+  },
+  {
+    "hebrew": "חצב",
+    "transliteration": "חצב",
+    "gematria": 100,
+    "english": "made"
   },
   {
     "hebrew": "יודיע",
     "transliteration": "יודיע",
-    "gematria": 100
+    "gematria": 100,
+    "english": "shall make known"
   },
   {
     "hebrew": "מס",
     "transliteration": "מס",
-    "gematria": 100
+    "gematria": 100,
+    "english": "a labor force"
   },
   {
     "hebrew": "יודעי",
     "transliteration": "יודעי",
-    "gematria": 100
+    "gematria": 100,
+    "english": "skillful"
   },
   {
     "hebrew": "יהילילו",
     "transliteration": "יהילילו",
-    "gematria": 101
+    "gematria": 101,
+    "english": "Make them wail"
   },
   {
     "hebrew": "המלאכה",
     "transliteration": "המלאכה",
-    "gematria": 101
+    "gematria": 101,
+    "english": "the work"
+  },
+  {
+    "hebrew": "ומנה",
+    "transliteration": "ומנה",
+    "gematria": 101,
+    "english": "and partly"
   },
   {
     "hebrew": "מאני",
     "transliteration": "מאני",
-    "gematria": 101
+    "gematria": 101,
+    "english": "vessels"
+  },
+  {
+    "hebrew": "בחפזה",
+    "transliteration": "בחפזה",
+    "gematria": 102,
+    "english": "as she made haste"
   },
   {
     "hebrew": "בכלים",
     "transliteration": "בכלים",
-    "gematria": 102
+    "gematria": 102,
+    "english": "with [musical] instruments"
   },
   {
     "hebrew": "יבנם",
     "transliteration": "יבנם",
-    "gematria": 102
+    "gematria": 102,
+    "english": "build them up"
+  },
+  {
+    "hebrew": "מאניא",
+    "transliteration": "מאניא",
+    "gematria": 102,
+    "english": "articles the"
   },
   {
     "hebrew": "האמון",
     "transliteration": "האמון",
-    "gematria": 102
+    "gematria": 102,
+    "english": "of the craftsmen"
   },
   {
     "hebrew": "יגיעי",
     "transliteration": "יגיעי",
-    "gematria": 103
+    "gematria": 103,
+    "english": "my labors"
+  },
+  {
+    "hebrew": "הלבינו",
+    "transliteration": "הלבינו",
+    "gematria": 103,
+    "english": "are made white"
   },
   {
     "hebrew": "צבאי",
     "transliteration": "צבאי",
-    "gematria": 103
+    "gematria": 103,
+    "english": "of my hard service"
+  },
+  {
+    "hebrew": "ללבבם",
+    "transliteration": "ללבבם",
+    "gematria": 104,
+    "english": "in their hearts"
+  },
+  {
+    "hebrew": "קד",
+    "transliteration": "קד",
+    "gematria": 104,
+    "english": "a hearth"
   },
   {
     "hebrew": "כליהם",
     "transliteration": "כליהם",
-    "gematria": 105
+    "gematria": 105,
+    "english": "is [in] their vessels"
+  },
+  {
+    "hebrew": "המליך",
+    "transliteration": "המליך",
+    "gematria": 105,
+    "english": "has made king"
   },
   {
     "hebrew": "המס",
     "transliteration": "המס",
-    "gematria": 105
+    "gematria": 105,
+    "english": "the labor force"
+  },
+  {
+    "hebrew": "הכלים",
+    "transliteration": "הכלים",
+    "gematria": 105,
+    "english": "articles"
   },
   {
     "hebrew": "הודעך",
     "transliteration": "הודעך",
-    "gematria": 105
+    "gematria": 105,
+    "english": "He might make you know"
   },
   {
     "hebrew": "וייגעו",
     "transliteration": "וייגעו",
-    "gematria": 105
+    "gematria": 105,
+    "english": "that labor"
+  },
+  {
+    "hebrew": "ומכלי",
+    "transliteration": "ומכלי",
+    "gematria": 106,
+    "english": "And [some] of the articles from"
   },
   {
     "hebrew": "נבנה",
     "transliteration": "נבנה",
-    "gematria": 107
+    "gematria": 107,
+    "english": "we will rebuild"
+  },
+  {
+    "hebrew": "ואמליך",
+    "transliteration": "ואמליך",
+    "gematria": 107,
+    "english": "and have made"
+  },
+  {
+    "hebrew": "הפחיד",
+    "transliteration": "הפחיד",
+    "gematria": 107,
+    "english": "made shake"
+  },
+  {
+    "hebrew": "עגלה",
+    "transliteration": "עגלה",
+    "gematria": 108,
+    "english": "of a cart"
   },
   {
     "hebrew": "בונים",
     "transliteration": "בונים",
-    "gematria": 108
+    "gematria": 108,
+    "english": "were rebuilding"
   },
   {
     "hebrew": "מחכם",
     "transliteration": "מחכם",
-    "gematria": 108
+    "gematria": 108,
+    "english": "ever so skillfully"
+  },
+  {
+    "hebrew": "ומאניא",
+    "transliteration": "ומאניא",
+    "gematria": 108,
+    "english": "And articles the"
+  },
+  {
+    "hebrew": "דמינו",
+    "transliteration": "דמינו",
+    "gematria": 110,
+    "english": "we would have been made"
+  },
+  {
+    "hebrew": "בעגלה",
+    "transliteration": "בעגלה",
+    "gematria": 110,
+    "english": "to the cart"
   },
   {
     "hebrew": "לעבדה",
     "transliteration": "לעבדה",
-    "gematria": 111
+    "gematria": 111,
+    "english": "for work"
+  },
+  {
+    "hebrew": "והכלים",
+    "transliteration": "והכלים",
+    "gematria": 111,
+    "english": "and the articles"
   },
   {
     "hebrew": "כנמא",
     "transliteration": "כנמא",
-    "gematria": 111
+    "gematria": 111,
+    "english": "in this fashion"
   },
   {
     "hebrew": "נבליך",
     "transliteration": "נבליך",
-    "gematria": 112
+    "gematria": 112,
+    "english": "of your stringed instruments"
   },
   {
     "hebrew": "ללבן",
     "transliteration": "ללבן",
-    "gematria": 112
+    "gematria": 112,
+    "english": "to make"
+  },
+  {
+    "hebrew": "מלבם",
+    "transliteration": "מלבם",
+    "gematria": 112,
+    "english": "out of their own heart"
   },
   {
     "hebrew": "בנין",
     "transliteration": "בנין",
-    "gematria": 112
+    "gematria": 112,
+    "english": "of the building"
   },
   {
     "hebrew": "ויסלו",
     "transliteration": "ויסלו",
-    "gematria": 112
+    "gematria": 112,
+    "english": "and build up"
+  },
+  {
+    "hebrew": "העגלה",
+    "transliteration": "העגלה",
+    "gematria": 113,
+    "english": "cart"
   },
   {
     "hebrew": "יגיעך",
     "transliteration": "יגיעך",
-    "gematria": 113
+    "gematria": 113,
+    "english": "the produce of your labor"
   },
   {
     "hebrew": "ונבנה",
     "transliteration": "ונבנה",
-    "gematria": 113
+    "gematria": 113,
+    "english": "and let us build"
   },
   {
     "hebrew": "הבונים",
     "transliteration": "הבונים",
-    "gematria": 113
+    "gematria": 113,
+    "english": "the builders"
   },
   {
     "hebrew": "בנינא",
     "transliteration": "בנינא",
-    "gematria": 113
+    "gematria": 113,
+    "english": "building"
   },
   {
     "hebrew": "ואבננה",
     "transliteration": "ואבננה",
-    "gematria": 114
+    "gematria": 114,
+    "english": "that I may rebuild it"
   },
   {
     "hebrew": "מחולל",
     "transliteration": "מחולל",
-    "gematria": 114
+    "gematria": 114,
+    "english": "who formed"
+  },
+  {
+    "hebrew": "והדק",
+    "transliteration": "והדק",
+    "gematria": 115,
+    "english": "and made dust of them"
   },
   {
     "hebrew": "הפלא",
     "transliteration": "הפלא",
-    "gematria": 116
+    "gematria": 116,
+    "english": "a marvelous work"
+  },
+  {
+    "hebrew": "כלוני",
+    "transliteration": "כלוני",
+    "gematria": 116,
+    "english": "they made an end of me"
+  },
+  {
+    "hebrew": "וימלכהו",
+    "transliteration": "וימלכהו",
+    "gematria": 117,
+    "english": "and he made him king"
   },
   {
     "hebrew": "להבינך",
     "transliteration": "להבינך",
-    "gematria": 117
+    "gematria": 117,
+    "english": "to make you understand"
   },
   {
     "hebrew": "אדביק",
     "transliteration": "אדביק",
-    "gematria": 117
+    "gematria": 117,
+    "english": "I will make cling"
   },
   {
     "hebrew": "ובנין",
     "transliteration": "ובנין",
-    "gematria": 118
+    "gematria": 118,
+    "english": "and we are rebuilding"
   },
   {
     "hebrew": "יבנון",
     "transliteration": "יבנון",
-    "gematria": 118
+    "gematria": 118,
+    "english": "let build"
+  },
+  {
+    "hebrew": "ומלבם",
+    "transliteration": "ומלבם",
+    "gematria": 118,
+    "english": "and from their heart"
+  },
+  {
+    "hebrew": "והעגלה",
+    "transliteration": "והעגלה",
+    "gematria": 119,
+    "english": "And the cart"
   },
   {
     "hebrew": "והבונים",
     "transliteration": "והבונים",
-    "gematria": 119
+    "gematria": 119,
+    "english": "And of the builders"
+  },
+  {
+    "hebrew": "מעי",
+    "transliteration": "מעי",
+    "gematria": 120,
+    "english": "my heart"
+  },
+  {
+    "hebrew": "המכנה",
+    "transliteration": "המכנה",
+    "gematria": 120,
+    "english": "of cart"
   },
   {
     "hebrew": "להודעה",
     "transliteration": "להודעה",
-    "gematria": 120
+    "gematria": 120,
+    "english": "make known"
+  },
+  {
+    "hebrew": "המסיו",
+    "transliteration": "המסיו",
+    "gematria": 121,
+    "english": "made melt"
+  },
+  {
+    "hebrew": "וימליכה",
+    "transliteration": "וימליכה",
+    "gematria": 121,
+    "english": "and made her queen"
   },
   {
     "hebrew": "להעביד",
     "transliteration": "להעביד",
-    "gematria": 121
+    "gematria": 121,
+    "english": "to make work"
+  },
+  {
+    "hebrew": "וימליכו",
+    "transliteration": "וימליכו",
+    "gematria": 122,
+    "english": "and made king"
   },
   {
     "hebrew": "בכליכם",
     "transliteration": "בכליכם",
-    "gematria": 122
+    "gematria": 122,
+    "english": "in your vessels"
+  },
+  {
+    "hebrew": "במכונה",
+    "transliteration": "במכונה",
+    "gematria": 123,
+    "english": "to the cart"
   },
   {
     "hebrew": "החכמים",
     "transliteration": "החכמים",
-    "gematria": 123
+    "gematria": 123,
+    "english": "the craftsmen"
   },
   {
     "hebrew": "והבנין",
     "transliteration": "והבנין",
-    "gematria": 123
+    "gematria": 123,
+    "english": "And the building"
   },
   {
     "hebrew": "למבנא",
     "transliteration": "למבנא",
-    "gematria": 123
+    "gematria": 123,
+    "english": "to build"
   },
   {
     "hebrew": "במלבן",
     "transliteration": "במלבן",
-    "gematria": 124
+    "gematria": 124,
+    "english": "to the brick works"
+  },
+  {
+    "hebrew": "ונסוג",
+    "transliteration": "ונסוג",
+    "gematria": 125,
+    "english": "and departing"
   },
   {
     "hebrew": "להודיע",
     "transliteration": "להודיע",
-    "gematria": 125
+    "gematria": 125,
+    "english": "to make known"
+  },
+  {
+    "hebrew": "הניס",
+    "transliteration": "הניס",
+    "gematria": 125,
+    "english": "made flee"
   },
   {
     "hebrew": "יפלה",
     "transliteration": "יפלה",
-    "gematria": 125
+    "gematria": 125,
+    "english": "does make a difference"
+  },
+  {
+    "hebrew": "המכונה",
+    "transliteration": "המכונה",
+    "gematria": 126,
+    "english": "of cart"
   },
   {
     "hebrew": "והפלה",
     "transliteration": "והפלה",
-    "gematria": 126
+    "gematria": 126,
+    "english": "And will make a difference"
   },
   {
     "hebrew": "למלאכה",
     "transliteration": "למלאכה",
-    "gematria": 126
+    "gematria": 126,
+    "english": "of the work"
+  },
+  {
+    "hebrew": "ומעי",
+    "transliteration": "ומעי",
+    "gematria": 126,
+    "english": "and my heart"
   },
   {
     "hebrew": "לבהלני",
     "transliteration": "לבהלני",
-    "gematria": 127
+    "gematria": 127,
+    "english": "me to make haste"
+  },
+  {
+    "hebrew": "וימליכהו",
+    "transliteration": "וימליכהו",
+    "gematria": 127,
+    "english": "and made him king"
+  },
+  {
+    "hebrew": "מלבהן",
+    "transliteration": "מלבהן",
+    "gematria": 127,
+    "english": "out of their own heart"
   },
   {
     "hebrew": "הבינני",
     "transliteration": "הבינני",
-    "gematria": 127
+    "gematria": 127,
+    "english": "Make me understand"
   },
   {
     "hebrew": "מהבלים",
     "transliteration": "מהבלים",
-    "gematria": 127
+    "gematria": 127,
+    "english": "make worthless"
+  },
+  {
+    "hebrew": "נגדע",
+    "transliteration": "נגדע",
+    "gematria": 127,
+    "english": "has been cut apart"
+  },
+  {
+    "hebrew": "חיקי",
+    "transliteration": "חיקי",
+    "gematria": 128,
+    "english": "my own heart"
   },
   {
     "hebrew": "למס",
     "transliteration": "למס",
-    "gematria": 130
+    "gematria": 130,
+    "english": "forced labor"
+  },
+  {
+    "hebrew": "לכלכל",
+    "transliteration": "לכלכל",
+    "gematria": 130,
+    "english": "made provision"
+  },
+  {
+    "hebrew": "יחזקו",
+    "transliteration": "יחזקו",
+    "gematria": 131,
+    "english": "be made strong"
   },
   {
     "hebrew": "למאני",
     "transliteration": "למאני",
-    "gematria": 131
+    "gematria": 131,
+    "english": "vessels"
   },
   {
     "hebrew": "נבלים",
     "transliteration": "נבלים",
-    "gematria": 132
+    "gematria": 132,
+    "english": "and stringed instruments"
   },
   {
     "hebrew": "נלחמו",
     "transliteration": "נלחמו",
-    "gematria": 134
+    "gematria": 134,
+    "english": "they did make war"
   },
   {
     "hebrew": "בנבלים",
     "transliteration": "בנבלים",
-    "gematria": 134
+    "gematria": 134,
+    "english": "with stringed instruments"
   },
   {
     "hebrew": "יחכמנו",
     "transliteration": "יחכמנו",
-    "gematria": 134
+    "gematria": 134,
+    "english": "makes us wiser"
   },
   {
     "hebrew": "להמליך",
     "transliteration": "להמליך",
-    "gematria": 135
+    "gematria": 135,
+    "english": "to make king"
   },
   {
     "hebrew": "הודיעם",
     "transliteration": "הודיעם",
-    "gematria": 135
+    "gematria": 135,
+    "english": "then make known to them"
   },
   {
     "hebrew": "האמנם",
     "transliteration": "האמנם",
-    "gematria": 136
+    "gematria": 136,
+    "english": "will indeed"
+  },
+  {
+    "hebrew": "החזיקו",
+    "transliteration": "החזיקו",
+    "gematria": 136,
+    "english": "made repairs"
   },
   {
     "hebrew": "אמצו",
     "transliteration": "אמצו",
-    "gematria": 137
+    "gematria": 137,
+    "english": "make firm"
   },
   {
     "hebrew": "נלבנה",
     "transliteration": "נלבנה",
-    "gematria": 137
+    "gematria": 137,
+    "english": "let us make"
   },
   {
     "hebrew": "מעבדוהי",
     "transliteration": "מעבדוהי",
-    "gematria": 137
+    "gematria": 137,
+    "english": "of works"
   },
   {
     "hebrew": "למבניה",
     "transliteration": "למבניה",
-    "gematria": 137
+    "gematria": 137,
+    "english": "to build"
   },
   {
     "hebrew": "ועבדיהם",
     "transliteration": "ועבדיהם",
-    "gematria": 137
+    "gematria": 137,
+    "english": "and their works [are]"
   },
   {
     "hebrew": "ונבלים",
     "transliteration": "ונבלים",
-    "gematria": 138
+    "gematria": 138,
+    "english": "and stringed instruments"
+  },
+  {
+    "hebrew": "לחצי",
+    "transliteration": "לחצי",
+    "gematria": 138,
+    "english": "into two parts"
   },
   {
     "hebrew": "ינחלם",
     "transliteration": "ינחלם",
-    "gematria": 138
+    "gematria": 138,
+    "english": "make them inherit"
   },
   {
     "hebrew": "ולמאניא",
     "transliteration": "ולמאניא",
-    "gematria": 138
+    "gematria": 138,
+    "english": "and vessels the"
   },
   {
     "hebrew": "כחללים",
     "transliteration": "כחללים",
-    "gematria": 138
+    "gematria": 138,
+    "english": "and the players on instruments [say]"
   },
   {
     "hebrew": "יגענו",
     "transliteration": "יגענו",
-    "gematria": 139
+    "gematria": 139,
+    "english": "we labor"
   },
   {
     "hebrew": "ויגיעם",
     "transliteration": "ויגיעם",
-    "gematria": 139
+    "gematria": 139,
+    "english": "and their labor"
   },
   {
     "hebrew": "ובנבלים",
     "transliteration": "ובנבלים",
-    "gematria": 140
+    "gematria": 140,
+    "english": "and on stringed instruments"
+  },
+  {
+    "hebrew": "פס",
+    "transliteration": "פס",
+    "gematria": 140,
+    "english": "the part"
+  },
+  {
+    "hebrew": "פלל",
+    "transliteration": "פלל",
+    "gematria": 140,
+    "english": "Palal [made repairs]"
   },
   {
     "hebrew": "להמליכו",
     "transliteration": "להמליכו",
-    "gematria": 141
+    "gematria": 141,
+    "english": "to make him king"
   },
   {
     "hebrew": "אהודענה",
     "transliteration": "אהודענה",
-    "gematria": 141
+    "gematria": 141,
+    "english": "make known to him"
+  },
+  {
+    "hebrew": "ובלעדיך",
+    "transliteration": "ובלעדיך",
+    "gematria": 142,
+    "english": "and apart from you"
   },
   {
     "hebrew": "במנים",
     "transliteration": "במנים",
-    "gematria": 142
+    "gematria": 142,
+    "english": "with stringed instruments"
   },
   {
     "hebrew": "והודענא",
     "transliteration": "והודענא",
-    "gematria": 142
+    "gematria": 142,
+    "english": "and informed"
   },
   {
     "hebrew": "ויכננו",
     "transliteration": "ויכננו",
-    "gematria": 142
+    "gematria": 142,
+    "english": "and did not fashion us"
+  },
+  {
+    "hebrew": "חלקה",
+    "transliteration": "חלקה",
+    "gematria": 143,
+    "english": "part"
+  },
+  {
+    "hebrew": "וחמץ",
+    "transliteration": "וחמץ",
+    "gematria": 144,
+    "english": "nor vinegar made from"
+  },
+  {
+    "hebrew": "חולק",
+    "transliteration": "חולק",
+    "gematria": 144,
+    "english": "Whoever is a partner"
+  },
+  {
+    "hebrew": "וינגעו",
+    "transliteration": "וינגעו",
+    "gematria": 145,
+    "english": "And made as if they were beaten"
+  },
+  {
+    "hebrew": "מנהן",
+    "transliteration": "מנהן",
+    "gematria": 145,
+    "english": "partly"
   },
   {
     "hebrew": "והמעיטה",
     "transliteration": "והמעיטה",
-    "gematria": 145
+    "gematria": 145,
+    "english": "and make few in number"
   },
   {
     "hebrew": "עמלה",
     "transliteration": "עמלה",
-    "gematria": 145
+    "gematria": 145,
+    "english": "labors"
   },
   {
     "hebrew": "להודיעך",
     "transliteration": "להודיעך",
-    "gematria": 145
+    "gematria": 145,
+    "english": "that I may make you know"
+  },
+  {
+    "hebrew": "הממליך",
+    "transliteration": "הממליך",
+    "gematria": 145,
+    "english": "who made king"
   },
   {
     "hebrew": "עלילה",
     "transliteration": "עלילה",
-    "gematria": 145
+    "gematria": 145,
+    "english": "works"
   },
   {
     "hebrew": "העמל",
     "transliteration": "העמל",
-    "gematria": 145
+    "gematria": 145,
+    "english": "the labor"
+  },
+  {
+    "hebrew": "ויסע",
+    "transliteration": "ויסע",
+    "gematria": 146,
+    "english": "So departed"
   },
   {
     "hebrew": "ויכוננה",
     "transliteration": "ויכוננה",
-    "gematria": 147
+    "gematria": 147,
+    "english": "and makes it ready"
+  },
+  {
+    "hebrew": "ההצליח",
+    "transliteration": "ההצליח",
+    "gematria": 148,
+    "english": "whether had made prosperous"
   },
   {
     "hebrew": "ובעמל",
     "transliteration": "ובעמל",
-    "gematria": 148
+    "gematria": 148,
+    "english": "and on the labor"
   },
   {
     "hebrew": "בעמלו",
     "transliteration": "בעמלו",
-    "gematria": 148
+    "gematria": 148,
+    "english": "in his labor"
   },
   {
     "hebrew": "ובולקה",
     "transliteration": "ובולקה",
-    "gematria": 149
+    "gematria": 149,
+    "english": "and makes it waste"
+  },
+  {
+    "hebrew": "וחלקה",
+    "transliteration": "וחלקה",
+    "gematria": 149,
+    "english": "and the part"
+  },
+  {
+    "hebrew": "הצליחו",
+    "transliteration": "הצליחו",
+    "gematria": 149,
+    "english": "made him prosper"
   },
   {
     "hebrew": "הדיעני",
     "transliteration": "הדיעני",
-    "gematria": 149
+    "gematria": 149,
+    "english": "Make me know"
+  },
+  {
+    "hebrew": "מסים",
+    "transliteration": "מסים",
+    "gematria": 150,
+    "english": "taskmasters"
   },
   {
     "hebrew": "לחזקה",
     "transliteration": "לחזקה",
-    "gematria": 150
+    "gematria": 150,
+    "english": "to make it strong enough"
   },
   {
     "hebrew": "נמליך",
     "transliteration": "נמליך",
-    "gematria": 150
+    "gematria": 150,
+    "english": "we will make king"
   },
   {
     "hebrew": "יעמל",
     "transliteration": "יעמל",
-    "gematria": 150
+    "gematria": 150,
+    "english": "labors"
+  },
+  {
+    "hebrew": "למכונה",
+    "transliteration": "למכונה",
+    "gematria": 151,
+    "english": "had cart"
   },
   {
     "hebrew": "אקים",
     "transliteration": "אקים",
-    "gematria": 151
+    "gematria": 151,
+    "english": "I will perform"
   },
   {
     "hebrew": "אניעך",
     "transliteration": "אניעך",
-    "gematria": 151
+    "gematria": 151,
+    "english": "Should I make you"
   },
   {
     "hebrew": "יהודעון",
     "transliteration": "יהודעון",
-    "gematria": 151
+    "gematria": 151,
+    "english": "who make known"
   },
   {
     "hebrew": "למלחמה",
     "transliteration": "למלחמה",
-    "gematria": 153
+    "gematria": 153,
+    "english": "to [make] war"
+  },
+  {
+    "hebrew": "ויאמצו",
+    "transliteration": "ויאמצו",
+    "gematria": 153,
+    "english": "and made strong"
   },
   {
     "hebrew": "נגנים",
     "transliteration": "נגנים",
-    "gematria": 153
+    "gematria": 153,
+    "english": "the players on instruments"
+  },
+  {
+    "hebrew": "ויצמח",
+    "transliteration": "ויצמח",
+    "gematria": 154,
+    "english": "And made grow"
+  },
+  {
+    "hebrew": "ואוציאם",
+    "transliteration": "ואוציאם",
+    "gematria": 154,
+    "english": "And therefore I made them go"
   },
   {
     "hebrew": "להפיל",
     "transliteration": "להפיל",
-    "gematria": 155
+    "gematria": 155,
+    "english": "to make fall"
+  },
+  {
+    "hebrew": "מנהין",
+    "transliteration": "מנהין",
+    "gematria": 155,
+    "english": "partly"
+  },
+  {
+    "hebrew": "מוקדה",
+    "transliteration": "מוקדה",
+    "gematria": 155,
+    "english": "the hearth"
   },
   {
     "hebrew": "להפליא",
     "transliteration": "להפליא",
-    "gematria": 156
+    "gematria": 156,
+    "english": "do a marvelous work"
   },
   {
     "hebrew": "מכלינו",
     "transliteration": "מכלינו",
-    "gematria": 156
+    "gematria": 156,
+    "english": "in our vessels"
   },
   {
     "hebrew": "המחקה",
     "transliteration": "המחקה",
-    "gematria": 158
+    "gematria": 158,
+    "english": "the carved work"
+  },
+  {
+    "hebrew": "כחלק",
+    "transliteration": "כחלק",
+    "gematria": 158,
+    "english": "as his part [is]"
+  },
+  {
+    "hebrew": "מיקוד",
+    "transliteration": "מיקוד",
+    "gematria": 160,
+    "english": "from the hearth"
   },
   {
     "hebrew": "ומעמד",
     "transliteration": "ומעמד",
-    "gematria": 160
+    "gematria": 160,
+    "english": "and the service"
+  },
+  {
+    "hebrew": "הקימה",
+    "transliteration": "הקימה",
+    "gematria": 160,
+    "english": "made him"
   },
   {
     "hebrew": "העליליה",
     "transliteration": "העליליה",
-    "gematria": 160
+    "gematria": 160,
+    "english": "in work"
+  },
+  {
+    "hebrew": "ומנהין",
+    "transliteration": "ומנהין",
+    "gematria": 161,
+    "english": "and partly"
+  },
+  {
+    "hebrew": "וכחלק",
+    "transliteration": "וכחלק",
+    "gematria": 164,
+    "english": "so [shall] his part [be]"
+  },
+  {
+    "hebrew": "נחמסו",
+    "transliteration": "נחמסו",
+    "gematria": 164,
+    "english": "made bare"
+  },
+  {
+    "hebrew": "והצגני",
+    "transliteration": "והצגני",
+    "gematria": 164,
+    "english": "But He has made me"
   },
   {
     "hebrew": "לידעים",
     "transliteration": "לידעים",
-    "gematria": 164
+    "gematria": 164,
+    "english": "to men of skill"
+  },
+  {
+    "hebrew": "חקכם",
+    "transliteration": "חקכם",
+    "gematria": 168,
+    "english": "your task"
+  },
+  {
+    "hebrew": "וידחלנני",
+    "transliteration": "וידחלנני",
+    "gematria": 168,
+    "english": "which made me afraid"
+  },
+  {
+    "hebrew": "החיצנה",
+    "transliteration": "החיצנה",
+    "gematria": 168,
+    "english": "of the [business] outside"
+  },
+  {
+    "hebrew": "הציגני",
+    "transliteration": "הציגני",
+    "gematria": 168,
+    "english": "He has made me"
   },
   {
     "hebrew": "ובעמלך",
     "transliteration": "ובעמלך",
-    "gematria": 168
+    "gematria": 168,
+    "english": "and in the labor"
   },
   {
     "hebrew": "מלינם",
     "transliteration": "מלינם",
-    "gematria": 170
+    "gematria": 170,
+    "english": "make"
   },
   {
     "hebrew": "להצהיל",
     "transliteration": "להצהיל",
-    "gematria": 170
+    "gematria": 170,
+    "english": "to make shine"
+  },
+  {
+    "hebrew": "ויחזקם",
+    "transliteration": "ויחזקם",
+    "gematria": 171,
+    "english": "and made them strong"
   },
   {
     "hebrew": "מעבדיהם",
     "transliteration": "מעבדיהם",
-    "gematria": 171
+    "gematria": 171,
+    "english": "their works"
   },
   {
     "hebrew": "יבצע",
     "transliteration": "יבצע",
-    "gematria": 172
+    "gematria": 172,
+    "english": "has performed"
+  },
+  {
+    "hebrew": "יפגיע",
+    "transliteration": "יפגיע",
+    "gematria": 173,
+    "english": "made intercession"
+  },
+  {
+    "hebrew": "יינקו",
+    "transliteration": "יינקו",
+    "gematria": 176,
+    "english": "they shall partake [of]"
+  },
+  {
+    "hebrew": "וינעם",
+    "transliteration": "וינעם",
+    "gematria": 176,
+    "english": "and He made them wander"
+  },
+  {
+    "hebrew": "וינקהו",
+    "transliteration": "וינקהו",
+    "gematria": 177,
+    "english": "and He made him draw"
   },
   {
     "hebrew": "פעל",
     "transliteration": "פעל",
-    "gematria": 180
+    "gematria": 180,
+    "english": "the work"
+  },
+  {
+    "hebrew": "נסע",
+    "transliteration": "נסע",
+    "gematria": 180,
+    "english": "he had departed"
   },
   {
     "hebrew": "מעמל",
     "transliteration": "מעמל",
-    "gematria": 180
+    "gematria": 180,
+    "english": "The labor"
   },
   {
     "hebrew": "מעללי",
     "transliteration": "מעללי",
-    "gematria": 180
+    "gematria": 180,
+    "english": "the works"
+  },
+  {
+    "hebrew": "יפלס",
+    "transliteration": "יפלס",
+    "gematria": 180,
+    "english": "He made"
   },
   {
     "hebrew": "אפעל",
     "transliteration": "אפעל",
-    "gematria": 181
+    "gematria": 181,
+    "english": "I work"
+  },
+  {
+    "hebrew": "והעמדנו",
+    "transliteration": "והעמדנו",
+    "gematria": 181,
+    "english": "And we made"
+  },
+  {
+    "hebrew": "ועונן",
+    "transliteration": "ועונן",
+    "gematria": 182,
+    "english": "and he practiced soothsaying"
   },
   {
     "hebrew": "בפעל",
     "transliteration": "בפעל",
-    "gematria": 182
+    "gematria": 182,
+    "english": "in the work"
   },
   {
     "hebrew": "ואציעה",
     "transliteration": "ואציעה",
-    "gematria": 182
+    "gematria": 182,
+    "english": "and if I make my bed"
   },
   {
     "hebrew": "נקבל",
     "transliteration": "נקבל",
-    "gematria": 182
+    "gematria": 182,
+    "english": "shall we indeed accept"
   },
   {
     "hebrew": "בעמלם",
     "transliteration": "בעמלם",
-    "gematria": 182
+    "gematria": 182,
+    "english": "for their labor"
+  },
+  {
+    "hebrew": "הציף",
+    "transliteration": "הציף",
+    "gematria": 185,
+    "english": "He made overflow"
   },
   {
     "hebrew": "מהודעין",
     "transliteration": "מהודעין",
-    "gematria": 185
+    "gematria": 185,
+    "english": "they did make known"
   },
   {
     "hebrew": "יטעמון",
     "transliteration": "יטעמון",
-    "gematria": 185
+    "gematria": 185,
+    "english": "they shall make eat"
+  },
+  {
+    "hebrew": "הענין",
+    "transliteration": "הענין",
+    "gematria": 185,
+    "english": "the task"
   },
   {
     "hebrew": "ופעל",
     "transliteration": "ופעל",
-    "gematria": 186
+    "gematria": 186,
+    "english": "and works one"
+  },
+  {
+    "hebrew": "ונסע",
+    "transliteration": "ונסע",
+    "gematria": 186,
+    "english": "So we departed"
+  },
+  {
+    "hebrew": "מעלליו",
+    "transliteration": "מעלליו",
+    "gematria": 186,
+    "english": "His doings"
+  },
+  {
+    "hebrew": "חלקים",
+    "transliteration": "חלקים",
+    "gematria": 188,
+    "english": "parts"
   },
   {
     "hebrew": "במעלליו",
     "transliteration": "במעלליו",
-    "gematria": 188
+    "gematria": 188,
+    "english": "by his deeds"
   },
   {
     "hebrew": "פעלי",
     "transliteration": "פעלי",
-    "gematria": 190
+    "gematria": 190,
+    "english": "of those who work"
   },
   {
     "hebrew": "יפעל",
     "transliteration": "יפעל",
-    "gematria": 190
+    "gematria": 190,
+    "english": "he makes"
   },
   {
     "hebrew": "עמלים",
     "transliteration": "עמלים",
-    "gematria": 190
+    "gematria": 190,
+    "english": "of workmen"
+  },
+  {
+    "hebrew": "ונסעה",
+    "transliteration": "ונסעה",
+    "gematria": 191,
+    "english": "And we departed"
   },
   {
     "hebrew": "ופעלו",
     "transliteration": "ופעלו",
-    "gematria": 192
+    "gematria": 192,
+    "english": "and the work of it"
+  },
+  {
+    "hebrew": "ומאציליה",
+    "transliteration": "ומאציליה",
+    "gematria": 192,
+    "english": "and from its farthest regions"
   },
   {
     "hebrew": "ומקום",
     "transliteration": "ומקום",
-    "gematria": 192
+    "gematria": 192,
+    "english": "and I will make the place"
   },
   {
     "hebrew": "ומעלליו",
     "transliteration": "ומעלליו",
-    "gematria": 192
+    "gematria": 192,
+    "english": "and for their deeds"
+  },
+  {
+    "hebrew": "מוצאיהם",
+    "transliteration": "מוצאיהם",
+    "gematria": 192,
+    "english": "the starting points"
   },
   {
     "hebrew": "המצמיח",
     "transliteration": "המצמיח",
-    "gematria": 193
+    "gematria": 193,
+    "english": "who makes to grow"
+  },
+  {
+    "hebrew": "קצו",
+    "transliteration": "קצו",
+    "gematria": 196,
+    "english": "its farthest"
   },
   {
     "hebrew": "ופקדו",
     "transliteration": "ופקדו",
-    "gematria": 196
+    "gematria": 196,
+    "english": "that they shall make"
   },
   {
     "hebrew": "ופעלי",
     "transliteration": "ופעלי",
-    "gematria": 196
+    "gematria": 196,
+    "english": "and work out"
+  },
+  {
+    "hebrew": "בקצה",
+    "transliteration": "בקצה",
+    "gematria": 197,
+    "english": "in the farthest part"
   },
   {
     "hebrew": "ועצביך",
     "transliteration": "ועצביך",
-    "gematria": 198
+    "gematria": 198,
+    "english": "and your labors [go]"
   },
   {
     "hebrew": "לפלחן",
     "transliteration": "לפלחן",
-    "gematria": 198
+    "gematria": 198,
+    "english": "for the service"
+  },
+  {
+    "hebrew": "הפקיד",
+    "transliteration": "הפקיד",
+    "gematria": 199,
+    "english": "he made overseer"
+  },
+  {
+    "hebrew": "ויפקד",
+    "transliteration": "ויפקד",
+    "gematria": 200,
+    "english": "and made the officer"
   },
   {
     "hebrew": "קסם",
     "transliteration": "קסם",
-    "gematria": 200
+    "gematria": 200,
+    "english": "of witchcraft"
   },
   {
     "hebrew": "פעלך",
     "transliteration": "פעלך",
-    "gematria": 200
+    "gematria": 200,
+    "english": "your work"
+  },
+  {
+    "hebrew": "מעלליך",
+    "transliteration": "מעלליך",
+    "gematria": 200,
+    "english": "of your doings"
+  },
+  {
+    "hebrew": "קצהו",
+    "transliteration": "קצהו",
+    "gematria": 201,
+    "english": "part of them"
   },
   {
     "hebrew": "בפעלך",
     "transliteration": "בפעלך",
-    "gematria": 202
+    "gematria": 202,
+    "english": "through Your work"
   },
   {
     "hebrew": "ברא",
     "transliteration": "ברא",
-    "gematria": 203
+    "gematria": 203,
+    "english": "has created"
   },
   {
     "hebrew": "קננה",
     "transliteration": "קננה",
-    "gematria": 205
+    "gematria": 205,
+    "english": "shall make her nest"
   },
   {
     "hebrew": "יהודענני",
     "transliteration": "יהודענני",
-    "gematria": 205
+    "gematria": 205,
+    "english": "they might make known to me"
   },
   {
     "hebrew": "כפעלה",
     "transliteration": "כפעלה",
-    "gematria": 205
+    "gematria": 205,
+    "english": "according to her work"
   },
   {
     "hebrew": "ופעלך",
     "transliteration": "ופעלך",
-    "gematria": 206
+    "gematria": 206,
+    "english": "Or shall your handiwork [say]"
   },
   {
     "hebrew": "כמעלליו",
     "transliteration": "כמעלליו",
-    "gematria": 206
+    "gematria": 206,
+    "english": "According to his deeds"
   },
   {
     "hebrew": "כפעלו",
     "transliteration": "כפעלו",
-    "gematria": 206
+    "gematria": 206,
+    "english": "according to his deeds"
+  },
+  {
+    "hebrew": "קננו",
+    "transliteration": "קננו",
+    "gematria": 206,
+    "english": "made their nests"
+  },
+  {
+    "hebrew": "ומעלליך",
+    "transliteration": "ומעלליך",
+    "gematria": 206,
+    "english": "and your doings"
   },
   {
     "hebrew": "ויפעלהו",
     "transliteration": "ויפעלהו",
-    "gematria": 207
+    "gematria": 207,
+    "english": "and works it"
   },
   {
     "hebrew": "בוקק",
     "transliteration": "בוקק",
-    "gematria": 208
+    "gematria": 208,
+    "english": "makes empty"
   },
   {
     "hebrew": "ויכוננוני",
     "transliteration": "ויכוננוני",
-    "gematria": 208
+    "gematria": 208,
+    "english": "and fashioned me"
   },
   {
     "hebrew": "וברא",
     "transliteration": "וברא",
-    "gematria": 209
+    "gematria": 209,
+    "english": "Then will create"
   },
   {
     "hebrew": "עצים",
     "transliteration": "עצים",
-    "gematria": 210
+    "gematria": 210,
+    "english": "the craftsman"
   },
   {
     "hebrew": "לפנים",
     "transliteration": "לפנים",
-    "gematria": 210
+    "gematria": 210,
+    "english": "Formerly"
   },
   {
     "hebrew": "צעים",
     "transliteration": "צעים",
-    "gematria": 210
+    "gematria": 210,
+    "english": "wine-workers"
+  },
+  {
+    "hebrew": "ויפקדהו",
+    "transliteration": "ויפקדהו",
+    "gematria": 211,
+    "english": "and he made him overseer"
   },
   {
     "hebrew": "ארזה",
     "transliteration": "ארזה",
-    "gematria": 213
+    "gematria": 213,
+    "english": "the cedar work"
   },
   {
     "hebrew": "יברא",
     "transliteration": "יברא",
-    "gematria": 213
+    "gematria": 213,
+    "english": "creates"
   },
   {
     "hebrew": "ובורא",
     "transliteration": "ובורא",
-    "gematria": 215
+    "gematria": 215,
+    "english": "and create"
   },
   {
     "hebrew": "יקימנה",
     "transliteration": "יקימנה",
-    "gematria": 215
+    "gematria": 215,
+    "english": "will He make it good"
   },
   {
     "hebrew": "יקננו",
     "transliteration": "יקננו",
-    "gematria": 216
+    "gematria": 216,
+    "english": "make their nests"
   },
   {
     "hebrew": "לפעלו",
     "transliteration": "לפעלו",
-    "gematria": 216
+    "gematria": 216,
+    "english": "to his work"
   },
   {
     "hebrew": "ורוה",
     "transliteration": "ורוה",
-    "gematria": 217
+    "gematria": 217,
+    "english": "and its form"
   },
   {
     "hebrew": "ויברא",
     "transliteration": "ויברא",
-    "gematria": 219
+    "gematria": 219,
+    "english": "So created"
+  },
+  {
+    "hebrew": "מעללים",
+    "transliteration": "מעללים",
+    "gematria": 220,
+    "english": "in [his] doings"
+  },
+  {
+    "hebrew": "וידר",
+    "transliteration": "וידר",
+    "gematria": 220,
+    "english": "So made"
   },
   {
     "hebrew": "לפעלי",
     "transliteration": "לפעלי",
-    "gematria": 220
+    "gematria": 220,
+    "english": "to the workers"
   },
   {
     "hebrew": "פעלם",
     "transliteration": "פעלם",
-    "gematria": 220
+    "gematria": 220,
+    "english": "their work"
+  },
+  {
+    "hebrew": "למוצאיהם",
+    "transliteration": "למוצאיהם",
+    "gematria": 222,
+    "english": "according to their starting points"
+  },
+  {
+    "hebrew": "ויקסמו",
+    "transliteration": "ויקסמו",
+    "gematria": 222,
+    "english": "and practiced"
   },
   {
     "hebrew": "בפעלם",
     "transliteration": "בפעלם",
-    "gematria": 222
+    "gematria": 222,
+    "english": "to their work"
   },
   {
     "hebrew": "הירבה",
     "transliteration": "הירבה",
-    "gematria": 222
+    "gematria": 222,
+    "english": "Will he make many"
   },
   {
     "hebrew": "בראך",
     "transliteration": "בראך",
-    "gematria": 223
+    "gematria": 223,
+    "english": "who created you"
+  },
+  {
+    "hebrew": "מעלליהם",
+    "transliteration": "מעלליהם",
+    "gematria": 225,
+    "english": "of their doings"
+  },
+  {
+    "hebrew": "העמיק",
+    "transliteration": "העמיק",
+    "gematria": 225,
+    "english": "He has made [it] deep"
+  },
+  {
+    "hebrew": "כרה",
+    "transliteration": "כרה",
+    "gematria": 225,
+    "english": "he had made"
   },
   {
     "hebrew": "ולפעלי",
     "transliteration": "ולפעלי",
-    "gematria": 226
+    "gematria": 226,
+    "english": "and to my Maker"
+  },
+  {
+    "hebrew": "ויעצמהו",
+    "transliteration": "ויעצמהו",
+    "gematria": 227,
+    "english": "and made them stronger"
   },
   {
     "hebrew": "במעלליהם",
     "transliteration": "במעלליהם",
-    "gematria": 227
+    "gematria": 227,
+    "english": "with their deeds"
   },
   {
     "hebrew": "הבראך",
     "transliteration": "הבראך",
-    "gematria": 228
+    "gematria": 228,
+    "english": "you were created"
+  },
+  {
+    "hebrew": "עצבוני",
+    "transliteration": "עצבוני",
+    "gematria": 228,
+    "english": "have made me"
+  },
+  {
+    "hebrew": "ירך",
+    "transliteration": "ירך",
+    "gematria": 230,
+    "english": "be fainthearted"
   },
   {
     "hebrew": "פעלים",
     "transliteration": "פעלים",
-    "gematria": 230
+    "gematria": 230,
+    "english": "who had done deeds"
   },
   {
     "hebrew": "מפעלי",
     "transliteration": "מפעלי",
-    "gematria": 230
+    "gematria": 230,
+    "english": "from the workers"
+  },
+  {
+    "hebrew": "ומעלליהם",
+    "transliteration": "ומעלליהם",
+    "gematria": 231,
+    "english": "and their doings"
   },
   {
     "hebrew": "ויאדיר",
     "transliteration": "ויאדיר",
-    "gematria": 231
+    "gematria": 231,
+    "english": "and make [it] honorable"
   },
   {
     "hebrew": "והטהרו",
     "transliteration": "והטהרו",
-    "gematria": 231
+    "gematria": 231,
+    "english": "and [so] make themselves clean"
   },
   {
     "hebrew": "עצביכם",
     "transliteration": "עצביכם",
-    "gematria": 232
+    "gematria": 232,
+    "english": "your laborers"
   },
   {
     "hebrew": "ארכיב",
     "transliteration": "ארכיב",
-    "gematria": 233
+    "gematria": 233,
+    "english": "I will make pull [a plow]"
   },
   {
     "hebrew": "מפעליו",
     "transliteration": "מפעליו",
-    "gematria": 236
+    "gematria": 236,
+    "english": "His works"
   },
   {
     "hebrew": "האריך",
     "transliteration": "האריך",
-    "gematria": 236
+    "gematria": 236,
+    "english": "makes him slow"
   },
   {
     "hebrew": "יכרו",
     "transliteration": "יכרו",
-    "gematria": 236
+    "gematria": 236,
+    "english": "will make a banquet"
+  },
+  {
+    "hebrew": "מעלליכם",
+    "transliteration": "מעלליכם",
+    "gematria": 240,
+    "english": "of your doings"
   },
   {
     "hebrew": "כפעלם",
     "transliteration": "כפעלם",
-    "gematria": 240
+    "gematria": 240,
+    "english": "according to their deeds"
+  },
+  {
+    "hebrew": "הזכיר",
+    "transliteration": "הזכיר",
+    "gematria": 242,
+    "english": "He has made mention"
+  },
+  {
+    "hebrew": "ירכבהו",
+    "transliteration": "ירכבהו",
+    "gematria": 243,
+    "english": "He made him ride"
   },
   {
     "hebrew": "בראם",
     "transliteration": "בראם",
-    "gematria": 243
+    "gematria": 243,
+    "english": "He created them"
   },
   {
     "hebrew": "אזכירה",
     "transliteration": "אזכירה",
-    "gematria": 243
+    "gematria": 243,
+    "english": "I will make to be remembered"
+  },
+  {
+    "hebrew": "והכרזו",
+    "transliteration": "והכרזו",
+    "gematria": 244,
+    "english": "and made a proclamation"
   },
   {
     "hebrew": "והדריך",
     "transliteration": "והדריך",
-    "gematria": 245
+    "gematria": 245,
+    "english": "and make [men] cross over"
   },
   {
     "hebrew": "ופעלכם",
     "transliteration": "ופעלכם",
-    "gematria": 246
+    "gematria": 246,
+    "english": "and your work [is]"
   },
   {
     "hebrew": "ומעלליכם",
     "transliteration": "ומעלליכם",
-    "gematria": 246
+    "gematria": 246,
+    "english": "and your deeds"
   },
   {
     "hebrew": "יזכיר",
     "transliteration": "יזכיר",
-    "gematria": 247
+    "gematria": 247,
+    "english": "makes mention"
   },
   {
     "hebrew": "אמור",
     "transliteration": "אמור",
-    "gematria": 247
+    "gematria": 247,
+    "english": "indeed"
+  },
+  {
+    "hebrew": "וההראל",
+    "transliteration": "וההראל",
+    "gematria": 247,
+    "english": "And the altar [hearth] [is]"
   },
   {
     "hebrew": "הזכירו",
     "transliteration": "הזכירו",
-    "gematria": 248
+    "gematria": 248,
+    "english": "Make mention"
   },
   {
     "hebrew": "הבראם",
     "transliteration": "הבראם",
-    "gematria": 248
+    "gematria": 248,
+    "english": "they were created"
+  },
+  {
+    "hebrew": "מקללים",
+    "transliteration": "מקללים",
+    "gematria": 250,
+    "english": "made vile"
   },
   {
     "hebrew": "קסמים",
     "transliteration": "קסמים",
-    "gematria": 250
+    "gematria": 250,
+    "english": "witchcraft"
   },
   {
     "hebrew": "בהבראם",
     "transliteration": "בהבראם",
-    "gematria": 250
+    "gematria": 250,
+    "english": "when they were created"
+  },
+  {
+    "hebrew": "ויפקידם",
+    "transliteration": "ויפקידם",
+    "gematria": 250,
+    "english": "and whom made officials"
   },
   {
     "hebrew": "קדמונים",
     "transliteration": "קדמונים",
-    "gematria": 250
+    "gematria": 250,
+    "english": "former"
   },
   {
     "hebrew": "מהרו",
     "transliteration": "מהרו",
-    "gematria": 251
+    "gematria": 251,
+    "english": "Shall make haste"
   },
   {
     "hebrew": "יזכירו",
     "transliteration": "יזכירו",
-    "gematria": 253
+    "gematria": 253,
+    "english": "make mention"
+  },
+  {
+    "hebrew": "והאריאל",
+    "transliteration": "והאריאל",
+    "gematria": 253,
+    "english": "The altar [hearth] [is]"
   },
   {
     "hebrew": "נברא",
     "transliteration": "נברא",
-    "gematria": 253
+    "gematria": 253,
+    "english": "yet to be created"
   },
   {
     "hebrew": "ימהר",
     "transliteration": "ימהר",
-    "gematria": 255
+    "gematria": 255,
+    "english": "let Him make speed"
   },
   {
     "hebrew": "ומלפנים",
     "transliteration": "ומלפנים",
-    "gematria": 256
+    "gematria": 256,
+    "english": "and former times"
   },
   {
     "hebrew": "המורה",
     "transliteration": "המורה",
-    "gematria": 256
+    "gematria": 256,
+    "english": "the former rain"
   },
   {
     "hebrew": "להחריד",
     "transliteration": "להחריד",
-    "gematria": 257
+    "gematria": 257,
+    "english": "to make afraid"
   },
   {
     "hebrew": "נבראו",
     "transliteration": "נבראו",
-    "gematria": 259
+    "gematria": 259,
+    "english": "they are created"
   },
   {
     "hebrew": "בראנו",
     "transliteration": "בראנו",
-    "gematria": 259
+    "gematria": 259,
+    "english": "created us"
+  },
+  {
+    "hebrew": "מרגיז",
+    "transliteration": "מרגיז",
+    "gematria": 260,
+    "english": "who made tremble"
   },
   {
     "hebrew": "ימהרו",
     "transliteration": "ימהרו",
-    "gematria": 261
+    "gematria": 261,
+    "english": "they make haste"
   },
   {
     "hebrew": "מחריד",
     "transliteration": "מחריד",
-    "gematria": 262
+    "gematria": 262,
+    "english": "will make [them] afraid"
   },
   {
     "hebrew": "וכמעללינו",
     "transliteration": "וכמעללינו",
-    "gematria": 262
+    "gematria": 262,
+    "english": "and according to our deeds"
+  },
+  {
+    "hebrew": "אחריהם",
+    "transliteration": "אחריהם",
+    "gematria": 264,
+    "english": "their back parts [pointed]"
   },
   {
     "hebrew": "ממעלליהם",
     "transliteration": "ממעלליהם",
-    "gematria": 265
+    "gematria": 265,
+    "english": "from their works"
   },
   {
     "hebrew": "ונבראו",
     "transliteration": "ונבראו",
-    "gematria": 265
+    "gematria": 265,
+    "english": "and they were created"
+  },
+  {
+    "hebrew": "סור",
+    "transliteration": "סור",
+    "gematria": 266,
+    "english": "that departed"
   },
   {
     "hebrew": "ונדרו",
     "transliteration": "ונדרו",
-    "gematria": 266
+    "gematria": 266,
+    "english": "and yes they will make"
   },
   {
     "hebrew": "וימהרו",
     "transliteration": "וימהרו",
-    "gematria": 267
+    "gematria": 267,
+    "english": "and they make haste"
   },
   {
     "hebrew": "זכרם",
     "transliteration": "זכרם",
-    "gematria": 267
+    "gematria": 267,
+    "english": "I will make the memory of them"
+  },
+  {
+    "hebrew": "כהזכירו",
+    "transliteration": "כהזכירו",
+    "gematria": 268,
+    "english": "when he made mention"
   },
   {
     "hebrew": "יבראון",
     "transliteration": "יבראון",
-    "gematria": 269
+    "gematria": 269,
+    "english": "they are created"
+  },
+  {
+    "hebrew": "וסרה",
+    "transliteration": "וסרה",
+    "gematria": 271,
+    "english": "And shall depart"
+  },
+  {
+    "hebrew": "הרוני",
+    "transliteration": "הרוני",
+    "gematria": 271,
+    "english": "He has made me drink"
+  },
+  {
+    "hebrew": "וסרו",
+    "transliteration": "וסרו",
+    "gematria": 272,
+    "english": "And shall depart"
+  },
+  {
+    "hebrew": "ארעא",
+    "transliteration": "ארעא",
+    "gematria": 272,
+    "english": "earth the"
+  },
+  {
+    "hebrew": "וסור",
+    "transliteration": "וסור",
+    "gematria": 272,
+    "english": "and even by departing"
+  },
+  {
+    "hebrew": "ריחנו",
+    "transliteration": "ריחנו",
+    "gematria": 274,
+    "english": "[you have made] our savor"
+  },
+  {
+    "hebrew": "בארעא",
+    "transliteration": "בארעא",
+    "gematria": 274,
+    "english": "in earth the"
+  },
+  {
+    "hebrew": "ויאסר",
+    "transliteration": "ויאסר",
+    "gematria": 277,
+    "english": "So he made ready"
+  },
+  {
+    "hebrew": "וארעא",
+    "transliteration": "וארעא",
+    "gematria": 278,
+    "english": "and earth"
+  },
+  {
+    "hebrew": "ובארעא",
+    "transliteration": "ובארעא",
+    "gematria": 280,
+    "english": "and on earth"
   },
   {
     "hebrew": "וערה",
     "transliteration": "וערה",
-    "gematria": 281
+    "gematria": 281,
+    "english": "and make yourselves bare"
+  },
+  {
+    "hebrew": "וסורי",
+    "transliteration": "וסורי",
+    "gematria": 282,
+    "english": "Those who depart from Me"
   },
   {
     "hebrew": "ונבקענה",
     "transliteration": "ונבקענה",
-    "gematria": 283
+    "gematria": 283,
+    "english": "and let us make a gap in its wall"
   },
   {
     "hebrew": "אעביר",
     "transliteration": "אעביר",
-    "gematria": 283
+    "gematria": 283,
+    "english": "will make pass"
   },
   {
     "hebrew": "לחורם",
     "transliteration": "לחורם",
-    "gematria": 284
+    "gematria": 284,
+    "english": "Huram my master [craftsman]"
   },
   {
     "hebrew": "אזכרנו",
     "transliteration": "אזכרנו",
-    "gematria": 284
+    "gematria": 284,
+    "english": "I will make mention of Him"
   },
   {
     "hebrew": "יבריחנו",
     "transliteration": "יבריחנו",
-    "gematria": 286
+    "gematria": 286,
+    "english": "make him flee"
   },
   {
     "hebrew": "נזכיר",
     "transliteration": "נזכיר",
-    "gematria": 287
+    "gematria": 287,
+    "english": "we make mention"
   },
   {
     "hebrew": "יבערו",
     "transliteration": "יבערו",
-    "gematria": 288
+    "gematria": 288,
+    "english": "they will make"
   },
   {
     "hebrew": "לצעק",
     "transliteration": "לצעק",
-    "gematria": 290
+    "gematria": 290,
+    "english": "to make an appeal"
+  },
+  {
+    "hebrew": "ארץ",
+    "transliteration": "ארץ",
+    "gematria": 291,
+    "english": "earth"
+  },
+  {
+    "hebrew": "הזכרכם",
+    "transliteration": "הזכרכם",
+    "gematria": 292,
+    "english": "you have made to be remembered"
+  },
+  {
+    "hebrew": "וינכרו",
+    "transliteration": "וינכרו",
+    "gematria": 292,
+    "english": "and made a sojourner"
+  },
+  {
+    "hebrew": "והעביר",
+    "transliteration": "והעביר",
+    "gematria": 293,
+    "english": "and made cross over"
   },
   {
     "hebrew": "פגרי",
     "transliteration": "פגרי",
-    "gematria": 293
+    "gematria": 293,
+    "english": "the lifeless forms"
   },
   {
     "hebrew": "לרגליך",
     "transliteration": "לרגליך",
-    "gematria": 293
+    "gematria": 293,
+    "english": "Your footstool"
+  },
+  {
+    "hebrew": "יפרד",
+    "transliteration": "יפרד",
+    "gematria": 294,
+    "english": "it parted"
   },
   {
     "hebrew": "ידרכני",
     "transliteration": "ידרכני",
-    "gematria": 294
+    "gematria": 294,
+    "english": "He will make me walk"
+  },
+  {
+    "hebrew": "קצוצי",
+    "transliteration": "קצוצי",
+    "gematria": 296,
+    "english": "farthest"
+  },
+  {
+    "hebrew": "וארץ",
+    "transliteration": "וארץ",
+    "gematria": 297,
+    "english": "and the earth"
+  },
+  {
+    "hebrew": "ויעברהו",
+    "transliteration": "ויעברהו",
+    "gematria": 299,
+    "english": "and made him pass"
+  },
+  {
+    "hebrew": "ובארץ",
+    "transliteration": "ובארץ",
+    "gematria": 299,
+    "english": "and right to the earth"
+  },
+  {
+    "hebrew": "יפרדו",
+    "transliteration": "יפרדו",
+    "gematria": 300,
+    "english": "[the men] go apart"
   },
   {
     "hebrew": "אכפר",
     "transliteration": "אכפר",
-    "gematria": 301
+    "gematria": 301,
+    "english": "shall I make the atonement"
   },
   {
     "hebrew": "מיראים",
     "transliteration": "מיראים",
-    "gematria": 301
+    "gematria": 301,
+    "english": "[were trying to] make afraid"
+  },
+  {
+    "hebrew": "והארץ",
+    "transliteration": "והארץ",
+    "gematria": 302,
+    "english": "And the earth"
+  },
+  {
+    "hebrew": "יפריד",
+    "transliteration": "יפריד",
+    "gematria": 304,
+    "english": "parts"
   },
   {
     "hebrew": "יצרה",
     "transliteration": "יצרה",
-    "gematria": 305
+    "gematria": 305,
+    "english": "who formed it"
   },
   {
     "hebrew": "ויצר",
     "transliteration": "ויצר",
-    "gematria": 306
+    "gematria": 306,
+    "english": "Or the thing formed"
   },
   {
     "hebrew": "יצרו",
     "transliteration": "יצרו",
-    "gematria": 306
+    "gematria": 306,
+    "english": "his Maker"
+  },
+  {
+    "hebrew": "הקרא",
+    "transliteration": "הקרא",
+    "gematria": 306,
+    "english": "a partridge"
   },
   {
     "hebrew": "אכפרה",
     "transliteration": "אכפרה",
-    "gematria": 306
+    "gematria": 306,
+    "english": "I can make atonement"
+  },
+  {
+    "hebrew": "לעברו",
+    "transliteration": "לעברו",
+    "gematria": 308,
+    "english": "to his quarter"
   },
   {
     "hebrew": "להבריאכם",
     "transliteration": "להבריאכם",
-    "gematria": 308
+    "gematria": 308,
+    "english": "to make yourselves fat"
+  },
+  {
+    "hebrew": "בדבש",
+    "transliteration": "בדבש",
+    "gematria": 308,
+    "english": "[made] with honey"
+  },
+  {
+    "hebrew": "וארקא",
+    "transliteration": "וארקא",
+    "gematria": 308,
+    "english": "and the earth"
   },
   {
     "hebrew": "יצרי",
     "transliteration": "יצרי",
-    "gematria": 310
+    "gematria": 310,
+    "english": "Those who make"
+  },
+  {
+    "hebrew": "ובקרב",
+    "transliteration": "ובקרב",
+    "gematria": 310,
+    "english": "but [what is] in the heart"
+  },
+  {
+    "hebrew": "נדרנו",
+    "transliteration": "נדרנו",
+    "gematria": 310,
+    "english": "we have made"
   },
   {
     "hebrew": "ויצרה",
     "transliteration": "ויצרה",
-    "gematria": 311
+    "gematria": 311,
+    "english": "for Him who fashioned it"
   },
   {
     "hebrew": "יצרהו",
     "transliteration": "יצרהו",
-    "gematria": 311
+    "gematria": 311,
+    "english": "Fashions it"
+  },
+  {
+    "hebrew": "אשי",
+    "transliteration": "אשי",
+    "gematria": 311,
+    "english": "the offerings made by fire of"
   },
   {
     "hebrew": "אצרך",
     "transliteration": "אצרך",
-    "gematria": 311
+    "gematria": 311,
+    "english": "I formed you"
   },
   {
     "hebrew": "ויצרו",
     "transliteration": "ויצרו",
-    "gematria": 312
+    "gematria": 312,
+    "english": "and He who formed them"
+  },
+  {
+    "hebrew": "מארעא",
+    "transliteration": "מארעא",
+    "gematria": 312,
+    "english": "from the earth"
   },
   {
     "hebrew": "אשחה",
     "transliteration": "אשחה",
-    "gematria": 314
+    "gematria": 314,
+    "english": "I make swim"
+  },
+  {
+    "hebrew": "ובקרו",
+    "transliteration": "ובקרו",
+    "gematria": 314,
+    "english": "and a search has been made"
+  },
+  {
+    "hebrew": "ויכפר",
+    "transliteration": "ויכפר",
+    "gematria": 316,
+    "english": "And made atonement"
   },
   {
     "hebrew": "וייצר",
     "transliteration": "וייצר",
-    "gematria": 316
+    "gematria": 316,
+    "english": "And formed"
   },
   {
     "hebrew": "ויפרך",
     "transliteration": "ויפרך",
-    "gematria": 316
+    "gematria": 316,
+    "english": "and make you fruitful"
   },
   {
     "hebrew": "חושב",
     "transliteration": "חושב",
-    "gematria": 316
+    "gematria": 316,
+    "english": "skillful men"
   },
   {
     "hebrew": "יכפרו",
     "transliteration": "יכפרו",
-    "gematria": 316
+    "gematria": 316,
+    "english": "they shall make atonement"
   },
   {
     "hebrew": "אוקיר",
     "transliteration": "אוקיר",
-    "gematria": 317
+    "gematria": 317,
+    "english": "I will make more rare"
   },
   {
     "hebrew": "בערמה",
     "transliteration": "בערמה",
-    "gematria": 317
+    "gematria": 317,
+    "english": "craftily"
+  },
+  {
+    "hebrew": "הבאיש",
+    "transliteration": "הבאיש",
+    "gematria": 318,
+    "english": "He has made abhor him"
   },
   {
     "hebrew": "קרחי",
     "transliteration": "קרחי",
-    "gematria": 318
+    "gematria": 318,
+    "english": "Make yourself bald"
+  },
+  {
+    "hebrew": "רקחי",
+    "transliteration": "רקחי",
+    "gematria": 318,
+    "english": "made"
   },
   {
     "hebrew": "יקרח",
     "transliteration": "יקרח",
-    "gematria": 318
+    "gematria": 318,
+    "english": "make themselves bald"
   },
   {
     "hebrew": "חושה",
     "transliteration": "חושה",
-    "gematria": 319
+    "gematria": 319,
+    "english": "Make haste"
   },
   {
     "hebrew": "הרעמה",
     "transliteration": "הרעמה",
-    "gematria": 320
+    "gematria": 320,
+    "english": "make her miserable"
   },
   {
     "hebrew": "יערם",
     "transliteration": "יערם",
-    "gematria": 320
+    "gematria": 320,
+    "english": "is crafty"
+  },
+  {
+    "hebrew": "וגביש",
+    "transliteration": "וגביש",
+    "gematria": 321,
+    "english": "or quartz"
   },
   {
     "hebrew": "המזכרים",
     "transliteration": "המזכרים",
-    "gematria": 322
+    "gematria": 322,
+    "english": "You who make mention"
   },
   {
     "hebrew": "בכפרך",
     "transliteration": "בכפרך",
-    "gematria": 322
+    "gematria": 322,
+    "english": "when you make atonement"
   },
   {
     "hebrew": "מעביר",
     "transliteration": "מעביר",
-    "gematria": 322
+    "gematria": 322,
+    "english": "[anyone] who makes pass through"
+  },
+  {
+    "hebrew": "שויו",
+    "transliteration": "שויו",
+    "gematria": 322,
+    "english": "was made"
+  },
+  {
+    "hebrew": "נבער",
+    "transliteration": "נבער",
+    "gematria": 322,
+    "english": "Is dull-hearted"
   },
   {
     "hebrew": "יקרחו",
     "transliteration": "יקרחו",
-    "gematria": 324
+    "gematria": 324,
+    "english": "they shall make"
   },
   {
     "hebrew": "יחקרו",
     "transliteration": "יחקרו",
-    "gematria": 324
+    "gematria": 324,
+    "english": "they will make a search"
+  },
+  {
+    "hebrew": "הפרם",
+    "transliteration": "הפרם",
+    "gematria": 325,
+    "english": "has made them void"
   },
   {
     "hebrew": "ויצרך",
     "transliteration": "ויצרך",
-    "gematria": 326
+    "gematria": 326,
+    "english": "and He who formed you"
   },
   {
     "hebrew": "וחשבי",
     "transliteration": "וחשבי",
-    "gematria": 326
+    "gematria": 326,
+    "english": "and those who design"
   },
   {
     "hebrew": "וכבש",
     "transliteration": "וכבש",
-    "gematria": 328
+    "gematria": 328,
+    "english": "and with a footstool"
+  },
+  {
+    "hebrew": "נבערו",
+    "transliteration": "נבערו",
+    "gematria": 328,
+    "english": "have become dull-hearted"
   },
   {
     "hebrew": "ויבשהו",
     "transliteration": "ויבשהו",
-    "gematria": 329
+    "gematria": 329,
+    "english": "and makes it dry"
   },
   {
     "hebrew": "לכפר",
     "transliteration": "לכפר",
-    "gematria": 330
+    "gematria": 330,
+    "english": "to make atonement"
   },
   {
     "hebrew": "השבכה",
     "transliteration": "השבכה",
-    "gematria": 332
+    "gematria": 332,
+    "english": "the network"
   },
   {
     "hebrew": "ושבכה",
     "transliteration": "ושבכה",
-    "gematria": 333
+    "gematria": 333,
+    "english": "and the network"
   },
   {
     "hebrew": "יושיבו",
     "transliteration": "יושיבו",
-    "gematria": 334
+    "gematria": 334,
+    "english": "make inhabited"
+  },
+  {
+    "hebrew": "ויקריבו",
+    "transliteration": "ויקריבו",
+    "gematria": 334,
+    "english": "And made an offering"
   },
   {
     "hebrew": "ליצרו",
     "transliteration": "ליצרו",
-    "gematria": 336
+    "gematria": 336,
+    "english": "to him who forms it"
   },
   {
     "hebrew": "ולכפר",
     "transliteration": "ולכפר",
-    "gematria": 336
+    "gematria": 336,
+    "english": "and to make atonement"
   },
   {
     "hebrew": "יערימו",
     "transliteration": "יערימו",
-    "gematria": 336
+    "gematria": 336,
+    "english": "they have taken crafty"
   },
   {
     "hebrew": "אשאלה",
     "transliteration": "אשאלה",
-    "gematria": 337
+    "gematria": 337,
+    "english": "I would like to make"
   },
   {
     "hebrew": "אושיבך",
     "transliteration": "אושיבך",
-    "gematria": 339
+    "gematria": 339,
+    "english": "I will make you dwell"
   },
   {
     "hebrew": "מפרך",
     "transliteration": "מפרך",
-    "gematria": 340
+    "gematria": 340,
+    "english": "I will make you fruitful"
+  },
+  {
+    "hebrew": "לאשי",
+    "transliteration": "לאשי",
+    "gematria": 341,
+    "english": "for My offerings made by fire"
   },
   {
     "hebrew": "אריצם",
     "transliteration": "אריצם",
-    "gematria": 341
+    "gematria": 341,
+    "english": "I will make them run away"
   },
   {
     "hebrew": "ליוצרו",
     "transliteration": "ליוצרו",
-    "gematria": 342
+    "gematria": 342,
+    "english": "of him who formed it"
+  },
+  {
+    "hebrew": "קרבם",
+    "transliteration": "קרבם",
+    "gematria": 342,
+    "english": "their inward part [is]"
   },
   {
     "hebrew": "החשיך",
     "transliteration": "החשיך",
-    "gematria": 343
+    "gematria": 343,
+    "english": "makes dark"
   },
   {
     "hebrew": "לרחקה",
     "transliteration": "לרחקה",
-    "gematria": 343
+    "gematria": 343,
+    "english": "to make Me go far away"
   },
   {
     "hebrew": "ארביצם",
     "transliteration": "ארביצם",
-    "gematria": 343
+    "gematria": 343,
+    "english": "will make them lie down"
+  },
+  {
+    "hebrew": "ויחשך",
+    "transliteration": "ויחשך",
+    "gematria": 344,
+    "english": "and made [it] dark"
   },
   {
     "hebrew": "בשגם",
     "transliteration": "בשגם",
-    "gematria": 345
+    "gematria": 345,
+    "english": "for indeed"
   },
   {
     "hebrew": "נוצר",
     "transliteration": "נוצר",
-    "gematria": 346
+    "gematria": 346,
+    "english": "there was formed"
   },
   {
     "hebrew": "ולחשב",
     "transliteration": "ולחשב",
-    "gematria": 346
+    "gematria": 346,
+    "english": "and to design"
+  },
+  {
+    "hebrew": "משו",
+    "transliteration": "משו",
+    "gematria": 346,
+    "english": "departed"
   },
   {
     "hebrew": "יפרנו",
     "transliteration": "יפרנו",
-    "gematria": 346
+    "gematria": 346,
+    "english": "may make it void"
+  },
+  {
+    "hebrew": "מקרח",
+    "transliteration": "מקרח",
+    "gematria": 348,
+    "english": "[was] made bald"
+  },
+  {
+    "hebrew": "עפר",
+    "transliteration": "עפר",
+    "gematria": 350,
+    "english": "of the earth"
+  },
+  {
+    "hebrew": "השמה",
+    "transliteration": "השמה",
+    "gematria": 350,
+    "english": "that made"
   },
   {
     "hebrew": "אשים",
     "transliteration": "אשים",
-    "gematria": 351
+    "gematria": 351,
+    "english": "I will make"
   },
   {
     "hebrew": "משוה",
     "transliteration": "משוה",
-    "gematria": 351
+    "gematria": 351,
+    "english": "He makes"
+  },
+  {
+    "hebrew": "מאשי",
+    "transliteration": "מאשי",
+    "gematria": 351,
+    "english": "of the offerings made by fire to"
+  },
+  {
+    "hebrew": "אמיש",
+    "transliteration": "אמיש",
+    "gematria": 351,
+    "english": "I have departed"
   },
   {
     "hebrew": "בערמם",
     "transliteration": "בערמם",
-    "gematria": 352
+    "gematria": 352,
+    "english": "in their own craftiness"
   },
   {
     "hebrew": "בשומו",
     "transliteration": "בשומו",
-    "gematria": 354
+    "gematria": 354,
+    "english": "when he makes"
   },
   {
     "hebrew": "משגיא",
     "transliteration": "משגיא",
-    "gematria": 354
+    "gematria": 354,
+    "english": "He makes great"
   },
   {
     "hebrew": "שימה",
     "transliteration": "שימה",
-    "gematria": 355
+    "gematria": 355,
+    "english": "make"
+  },
+  {
+    "hebrew": "והשלטה",
+    "transliteration": "והשלטה",
+    "gematria": 355,
+    "english": "and he made him ruler"
   },
   {
     "hebrew": "אקדירם",
     "transliteration": "אקדירם",
-    "gematria": 355
+    "gematria": 355,
+    "english": "I will make dark"
+  },
+  {
+    "hebrew": "וישם",
+    "transliteration": "וישם",
+    "gematria": 356,
+    "english": "And He has made"
+  },
+  {
+    "hebrew": "ימוש",
+    "transliteration": "ימוש",
+    "gematria": 356,
+    "english": "shall depart"
   },
   {
     "hebrew": "ישום",
     "transliteration": "ישום",
-    "gematria": 356
+    "gematria": 356,
+    "english": "makes"
+  },
+  {
+    "hebrew": "ימשו",
+    "transliteration": "ימשו",
+    "gematria": 356,
+    "english": "depart"
   },
   {
     "hebrew": "לשבכה",
     "transliteration": "לשבכה",
-    "gematria": 357
+    "gematria": 357,
+    "english": "for network"
   },
   {
     "hebrew": "אריצנו",
     "transliteration": "אריצנו",
-    "gematria": 357
+    "gematria": 357,
+    "english": "make him run away"
+  },
+  {
+    "hebrew": "שמחי",
+    "transliteration": "שמחי",
+    "gematria": 358,
+    "english": "merryhearted"
+  },
+  {
+    "hebrew": "נבאשו",
+    "transliteration": "נבאשו",
+    "gematria": 359,
+    "english": "they had made themselves repulsive"
   },
   {
     "hebrew": "ישכל",
     "transliteration": "ישכל",
-    "gematria": 360
+    "gematria": 360,
+    "english": "makes foolishness"
+  },
+  {
+    "hebrew": "וישמה",
+    "transliteration": "וישמה",
+    "gematria": 361,
+    "english": "and he made it"
   },
   {
     "hebrew": "והשכל",
     "transliteration": "והשכל",
-    "gematria": 361
+    "gematria": 361,
+    "english": "and skill"
+  },
+  {
+    "hebrew": "ימושו",
+    "transliteration": "ימושו",
+    "gematria": 362,
+    "english": "shall depart"
   },
   {
     "hebrew": "מעברים",
     "transliteration": "מעברים",
-    "gematria": 362
+    "gematria": 362,
+    "english": "You make transgress"
+  },
+  {
+    "hebrew": "נגשי",
+    "transliteration": "נגשי",
+    "gematria": 363,
+    "english": "the taskmasters"
+  },
+  {
+    "hebrew": "הדשנה",
+    "transliteration": "הדשנה",
+    "gematria": 364,
+    "english": "it is made overflowing"
+  },
+  {
+    "hebrew": "וישבום",
+    "transliteration": "וישבום",
+    "gematria": 364,
+    "english": "and made them dwell"
+  },
+  {
+    "hebrew": "הכשיל",
+    "transliteration": "הכשיל",
+    "gematria": 365,
+    "english": "He made fail"
+  },
+  {
+    "hebrew": "השכיל",
+    "transliteration": "השכיל",
+    "gematria": 365,
+    "english": "made me understand"
+  },
+  {
+    "hebrew": "לשכוי",
+    "transliteration": "לשכוי",
+    "gematria": 366,
+    "english": "to the heart"
   },
   {
     "hebrew": "ישאון",
     "transliteration": "ישאון",
-    "gematria": 367
+    "gematria": 367,
+    "english": "[That] make a rushing"
+  },
+  {
+    "hebrew": "וישיבם",
+    "transliteration": "וישיבם",
+    "gematria": 368,
+    "english": "and whom also they had made to stay"
+  },
+  {
+    "hebrew": "ינחש",
+    "transliteration": "ינחש",
+    "gematria": 368,
+    "english": "practices divination"
   },
   {
     "hebrew": "ישמך",
     "transliteration": "ישמך",
-    "gematria": 370
+    "gematria": 370,
+    "english": "May make you"
+  },
+  {
+    "hebrew": "והשלטך",
+    "transliteration": "והשלטך",
+    "gematria": 370,
+    "english": "and has made you ruler"
   },
   {
     "hebrew": "צעצעים",
     "transliteration": "צעצעים",
-    "gematria": 370
+    "gematria": 370,
+    "english": "fashioned"
   },
   {
     "hebrew": "וירקידם",
     "transliteration": "וירקידם",
-    "gematria": 370
+    "gematria": 370,
+    "english": "And He makes them skip"
   },
   {
     "hebrew": "אשימך",
     "transliteration": "אשימך",
-    "gematria": 371
+    "gematria": 371,
+    "english": "I will make you"
+  },
+  {
+    "hebrew": "וישימה",
+    "transliteration": "וישימה",
+    "gematria": 371,
+    "english": "and made it"
   },
   {
     "hebrew": "ירביצני",
     "transliteration": "ירביצני",
-    "gematria": 372
+    "gematria": 372,
+    "english": "He makes me to lie down"
   },
   {
     "hebrew": "להשכיח",
     "transliteration": "להשכיח",
-    "gematria": 373
+    "gematria": 373,
+    "english": "to make forget"
+  },
+  {
+    "hebrew": "שמחוך",
+    "transliteration": "שמחוך",
+    "gematria": 374,
+    "english": "they have made You glad"
+  },
+  {
+    "hebrew": "עשו",
+    "transliteration": "עשו",
+    "gematria": 376,
+    "english": "have made"
   },
   {
     "hebrew": "משול",
     "transliteration": "משול",
-    "gematria": 376
+    "gematria": 376,
+    "english": "indeed"
   },
   {
     "hebrew": "יכשילו",
     "transliteration": "יכשילו",
-    "gematria": 376
+    "gematria": 376,
+    "english": "they make [someone] fall"
+  },
+  {
+    "hebrew": "ואעש",
+    "transliteration": "ואעש",
+    "gematria": 377,
+    "english": "So I made"
   },
   {
     "hebrew": "עשי",
     "transliteration": "עשי",
-    "gematria": 380
+    "gematria": 380,
+    "english": "who make"
   },
   {
     "hebrew": "ישלם",
     "transliteration": "ישלם",
-    "gematria": 380
+    "gematria": 380,
+    "english": "he shall perform"
   },
   {
     "hebrew": "עשהו",
     "transliteration": "עשהו",
-    "gematria": 381
+    "gematria": 381,
+    "english": "his Maker"
   },
   {
     "hebrew": "ועשה",
     "transliteration": "ועשה",
-    "gematria": 381
+    "gematria": 381,
+    "english": "And will make"
+  },
+  {
+    "hebrew": "משאם",
+    "transliteration": "משאם",
+    "gematria": 381,
+    "english": "their tasks"
+  },
+  {
+    "hebrew": "העשו",
+    "transliteration": "העשו",
+    "gematria": 381,
+    "english": "only He who made him"
   },
   {
     "hebrew": "ושלמו",
     "transliteration": "ושלמו",
-    "gematria": 382
+    "gematria": 382,
+    "english": "and perform [it]"
   },
   {
     "hebrew": "בעשי",
     "transliteration": "בעשי",
-    "gematria": 382
+    "gematria": 382,
+    "english": "who worked"
   },
   {
     "hebrew": "עשיה",
     "transliteration": "עשיה",
-    "gematria": 385
+    "gematria": 385,
+    "english": "its Maker"
+  },
+  {
+    "hebrew": "וישימך",
+    "transliteration": "וישימך",
+    "gematria": 386,
+    "english": "therefore He made you"
+  },
+  {
+    "hebrew": "וישלם",
+    "transliteration": "וישלם",
+    "gematria": 386,
+    "english": "And made peace"
   },
   {
     "hebrew": "ועשי",
     "transliteration": "ועשי",
-    "gematria": 386
+    "gematria": 386,
+    "english": "and make"
+  },
+  {
+    "hebrew": "עושי",
+    "transliteration": "עושי",
+    "gematria": 386,
+    "english": "that made"
+  },
+  {
+    "hebrew": "עשוי",
+    "transliteration": "עשוי",
+    "gematria": 386,
+    "english": "made"
+  },
+  {
+    "hebrew": "ויצפר",
+    "transliteration": "ויצפר",
+    "gematria": 386,
+    "english": "and depart at once"
   },
   {
     "hebrew": "העושה",
     "transliteration": "העושה",
-    "gematria": 386
+    "gematria": 386,
+    "english": "has the worker"
+  },
+  {
+    "hebrew": "חשף",
+    "transliteration": "חשף",
+    "gematria": 388,
+    "english": "Has made bare"
+  },
+  {
+    "hebrew": "שמחם",
+    "transliteration": "שמחם",
+    "gematria": 388,
+    "english": "had made them rejoice"
   },
   {
     "hebrew": "בעשיו",
     "transliteration": "בעשיו",
-    "gematria": 388
+    "gematria": 388,
+    "english": "in their Maker"
   },
   {
     "hebrew": "ישיבוני",
     "transliteration": "ישיבוני",
-    "gematria": 388
+    "gematria": 388,
+    "english": "make me answer"
+  },
+  {
+    "hebrew": "עשך",
+    "transliteration": "עשך",
+    "gematria": 390,
+    "english": "who made you"
   },
   {
     "hebrew": "ישלים",
     "transliteration": "ישלים",
-    "gematria": 390
+    "gematria": 390,
+    "english": "performs"
+  },
+  {
+    "hebrew": "השלימה",
+    "transliteration": "השלימה",
+    "gematria": 390,
+    "english": "it has made peace"
   },
   {
     "hebrew": "יכשילך",
     "transliteration": "יכשילך",
-    "gematria": 390
+    "gematria": 390,
+    "english": "shall make you fall"
   },
   {
     "hebrew": "היעשה",
     "transliteration": "היעשה",
-    "gematria": 390
+    "gematria": 390,
+    "english": "Will make"
   },
   {
     "hebrew": "יעשהו",
     "transliteration": "יעשהו",
-    "gematria": 391
+    "gematria": 391,
+    "english": "He fashions it"
+  },
+  {
+    "hebrew": "השלימו",
+    "transliteration": "השלימו",
+    "gematria": 391,
+    "english": "had made peace"
+  },
+  {
+    "hebrew": "יעשוה",
+    "transliteration": "יעשוה",
+    "gematria": 391,
+    "english": "they practice it"
+  },
+  {
+    "hebrew": "עשויה",
+    "transliteration": "עשויה",
+    "gematria": 391,
+    "english": "[It] [is] made"
+  },
+  {
+    "hebrew": "וישלמו",
+    "transliteration": "וישלמו",
+    "gematria": 392,
+    "english": "and they made peace"
+  },
+  {
+    "hebrew": "ועשוי",
+    "transliteration": "ועשוי",
+    "gematria": 392,
+    "english": "And [it] [was] made"
+  },
+  {
+    "hebrew": "השביעו",
+    "transliteration": "השביעו",
+    "gematria": 393,
+    "english": "had made him swear [an oath]"
   },
   {
     "hebrew": "ויכשילוהו",
     "transliteration": "ויכשילוהו",
-    "gematria": 393
+    "gematria": 393,
+    "english": "So He will make stumble"
   },
   {
     "hebrew": "השמן",
     "transliteration": "השמן",
-    "gematria": 395
+    "gematria": 395,
+    "english": "Make dull"
   },
   {
     "hebrew": "להשכיל",
     "transliteration": "להשכיל",
-    "gematria": 395
+    "gematria": 395,
+    "english": "to make [one] wise"
+  },
+  {
+    "hebrew": "שמנו",
+    "transliteration": "שמנו",
+    "gematria": 396,
+    "english": "we have made"
+  },
+  {
+    "hebrew": "העשויה",
+    "transliteration": "העשויה",
+    "gematria": 396,
+    "english": "man-made"
   },
   {
     "hebrew": "ויעשהו",
     "transliteration": "ויעשהו",
-    "gematria": 397
+    "gematria": 397,
+    "english": "and makes it"
   },
   {
     "hebrew": "ואשימם",
     "transliteration": "ואשימם",
-    "gematria": 397
+    "gematria": 397,
+    "english": "and I will make them"
   },
   {
     "hebrew": "ואעשך",
     "transliteration": "ואעשך",
-    "gematria": 397
+    "gematria": 397,
+    "english": "And I will make you"
+  },
+  {
+    "hebrew": "במשנה",
+    "transliteration": "במשנה",
+    "gematria": 397,
+    "english": "in the Second Quarter"
   },
   {
     "hebrew": "עשיך",
     "transliteration": "עשיך",
-    "gematria": 400
+    "gematria": 400,
+    "english": "your Maker [is]"
+  },
+  {
+    "hebrew": "שמני",
+    "transliteration": "שמני",
+    "gematria": 400,
+    "english": "He has made me"
+  },
+  {
+    "hebrew": "המשנה",
+    "transliteration": "המשנה",
+    "gematria": 400,
+    "english": "the Second Quarter"
+  },
+  {
+    "hebrew": "וישלימו",
+    "transliteration": "וישלימו",
+    "gematria": 402,
+    "english": "and they made peace"
   },
   {
     "hebrew": "שמחנו",
     "transliteration": "שמחנו",
-    "gematria": 404
+    "gematria": 404,
+    "english": "Make us glad"
   },
   {
     "hebrew": "אשימנה",
     "transliteration": "אשימנה",
-    "gematria": 406
+    "gematria": 406,
+    "english": "I will make it"
   },
   {
     "hebrew": "אשימנו",
     "transliteration": "אשימנו",
-    "gematria": 407
+    "gematria": 407,
+    "english": "I will make"
+  },
+  {
+    "hebrew": "השביעך",
+    "transliteration": "השביעך",
+    "gematria": 407,
+    "english": "he made you swear"
+  },
+  {
+    "hebrew": "ונשאים",
+    "transliteration": "ונשאים",
+    "gematria": 407,
+    "english": "but have shown partiality"
+  },
+  {
+    "hebrew": "הנגשים",
+    "transliteration": "הנגשים",
+    "gematria": 408,
+    "english": "the taskmasters"
   },
   {
     "hebrew": "ואשביעך",
     "transliteration": "ואשביעך",
-    "gematria": 409
+    "gematria": 409,
+    "english": "and I will make you swear"
   },
   {
     "hebrew": "ישפך",
     "transliteration": "ישפך",
-    "gematria": 410
+    "gematria": 410,
+    "english": "build"
+  },
+  {
+    "hebrew": "נשני",
+    "transliteration": "נשני",
+    "gematria": 410,
+    "english": "has made me forget"
   },
   {
     "hebrew": "ישמני",
     "transliteration": "ישמני",
-    "gematria": 410
+    "gematria": 410,
+    "english": "will make me"
   },
   {
     "hebrew": "לשלמי",
     "transliteration": "לשלמי",
-    "gematria": 410
+    "gematria": 410,
+    "english": "that I may perform"
+  },
+  {
+    "hebrew": "לעשהו",
+    "transliteration": "לעשהו",
+    "gematria": 411,
+    "english": "of him who made it"
+  },
+  {
+    "hebrew": "ואשקה",
+    "transliteration": "ואשקה",
+    "gematria": 412,
+    "english": "and made drink"
+  },
+  {
+    "hebrew": "ותאבד",
+    "transliteration": "ותאבד",
+    "gematria": 413,
+    "english": "and made to perish"
   },
   {
     "hebrew": "ישמחנה",
     "transliteration": "ישמחנה",
-    "gematria": 413
+    "gematria": 413,
+    "english": "makes it glad"
+  },
+  {
+    "hebrew": "והנגשים",
+    "transliteration": "והנגשים",
+    "gematria": 414,
+    "english": "And the taskmasters"
+  },
+  {
+    "hebrew": "וחשק",
+    "transliteration": "וחשק",
+    "gematria": 414,
+    "english": "and made bands for"
+  },
+  {
+    "hebrew": "ותדד",
+    "transliteration": "ותדד",
+    "gematria": 414,
+    "english": "and departed"
   },
   {
     "hebrew": "להשכילך",
     "transliteration": "להשכילך",
-    "gematria": 415
+    "gematria": 415,
+    "english": "to give you skill"
   },
   {
     "hebrew": "במעשה",
     "transliteration": "במעשה",
-    "gematria": 417
+    "gematria": 417,
+    "english": "with the work"
+  },
+  {
+    "hebrew": "הידת",
+    "transliteration": "הידת",
+    "gematria": 419,
+    "english": "of the parts"
   },
   {
     "hebrew": "מעשי",
     "transliteration": "מעשי",
-    "gematria": 420
+    "gematria": 420,
+    "english": "works"
+  },
+  {
+    "hebrew": "נקרע",
+    "transliteration": "נקרע",
+    "gematria": 420,
+    "english": "shall be split apart"
   },
   {
     "hebrew": "המעשה",
     "transliteration": "המעשה",
-    "gematria": 420
+    "gematria": 420,
+    "english": "the works"
+  },
+  {
+    "hebrew": "עשים",
+    "transliteration": "עשים",
+    "gematria": 420,
+    "english": "are doing"
   },
   {
     "hebrew": "משמם",
     "transliteration": "משמם",
-    "gematria": 420
+    "gematria": 420,
+    "english": "shall be one who makes desolate"
   },
   {
     "hebrew": "ואבקשהו",
     "transliteration": "ואבקשהו",
-    "gematria": 420
+    "gematria": 420,
+    "english": "and indeed I sought him"
+  },
+  {
+    "hebrew": "ומעשה",
+    "transliteration": "ומעשה",
+    "gematria": 421,
+    "english": "and the operation"
   },
   {
     "hebrew": "מעשהו",
     "transliteration": "מעשהו",
-    "gematria": 421
+    "gematria": 421,
+    "english": "His work"
   },
   {
     "hebrew": "וכשפיה",
     "transliteration": "וכשפיה",
-    "gematria": 421
+    "gematria": 421,
+    "english": "and her witchcraft [are]"
+  },
+  {
+    "hebrew": "ואתודה",
+    "transliteration": "ואתודה",
+    "gematria": 422,
+    "english": "and made confession"
   },
   {
     "hebrew": "במעשי",
     "transliteration": "במעשי",
-    "gematria": 422
+    "gematria": 422,
+    "english": "over the works"
+  },
+  {
+    "hebrew": "תחדהו",
+    "transliteration": "תחדהו",
+    "gematria": 423,
+    "english": "You have made him glad"
+  },
+  {
+    "hebrew": "ותחטא",
+    "transliteration": "ותחטא",
+    "gematria": 424,
+    "english": "and have made sin"
   },
   {
     "hebrew": "והבאתי",
     "transliteration": "והבאתי",
-    "gematria": 424
+    "gematria": 424,
+    "english": "that I will make go down"
   },
   {
     "hebrew": "הבטחת",
     "transliteration": "הבטחת",
-    "gematria": 424
+    "gematria": 424,
+    "english": "make trust"
   },
   {
     "hebrew": "וישחק",
     "transliteration": "וישחק",
-    "gematria": 424
+    "gematria": 424,
+    "english": "that he may perform"
   },
   {
     "hebrew": "העשים",
     "transliteration": "העשים",
-    "gematria": 425
+    "gematria": 425,
+    "english": "who labored"
+  },
+  {
+    "hebrew": "וישימני",
+    "transliteration": "וישימני",
+    "gematria": 426,
+    "english": "and made Me"
   },
   {
     "hebrew": "מעשיו",
     "transliteration": "מעשיו",
-    "gematria": 426
+    "gematria": 426,
+    "english": "his works [have been]"
+  },
+  {
+    "hebrew": "ומעשהו",
+    "transliteration": "ומעשהו",
+    "gematria": 427,
+    "english": "and whose business [was]"
   },
   {
     "hebrew": "במעשיו",
     "transliteration": "במעשיו",
-    "gematria": 428
+    "gematria": 428,
+    "english": "in His works"
+  },
+  {
+    "hebrew": "והחטאת",
+    "transliteration": "והחטאת",
+    "gematria": 429,
+    "english": "and the sin offering [be made]"
   },
   {
     "hebrew": "עשני",
     "transliteration": "עשני",
-    "gematria": 430
+    "gematria": 430,
+    "english": "He did make me"
   },
   {
     "hebrew": "מעשך",
     "transliteration": "מעשך",
-    "gematria": 430
+    "gematria": 430,
+    "english": "your works"
+  },
+  {
+    "hebrew": "העשוים",
+    "transliteration": "העשוים",
+    "gematria": 431,
+    "english": "that were made"
   },
   {
     "hebrew": "התכבד",
     "transliteration": "התכבד",
-    "gematria": 431
+    "gematria": 431,
+    "english": "Make yourself many"
   },
   {
     "hebrew": "משבעך",
     "transliteration": "משבעך",
-    "gematria": 432
+    "gematria": 432,
+    "english": "shall make you swear"
+  },
+  {
+    "hebrew": "הכאות",
+    "transliteration": "הכאות",
+    "gematria": 432,
+    "english": "you have made sad"
   },
   {
     "hebrew": "טובתיו",
     "transliteration": "טובתיו",
-    "gematria": 433
+    "gematria": 433,
+    "english": "his good [deeds]"
   },
   {
     "hebrew": "כמעשה",
     "transliteration": "כמעשה",
-    "gematria": 435
+    "gematria": 435,
+    "english": "According to the work"
   },
   {
     "hebrew": "ישלמנה",
     "transliteration": "ישלמנה",
-    "gematria": 435
+    "gematria": 435,
+    "english": "shall make it good"
+  },
+  {
+    "hebrew": "עשוני",
+    "transliteration": "עשוני",
+    "gematria": 436,
+    "english": "have made me"
   },
   {
     "hebrew": "והשמיעו",
     "transliteration": "והשמיעו",
-    "gematria": 437
+    "gematria": 437,
+    "english": "And they will make heard"
+  },
+  {
+    "hebrew": "לבות",
+    "transliteration": "לבות",
+    "gematria": 438,
+    "english": "the hearts"
   },
   {
     "hebrew": "מעשיך",
     "transliteration": "מעשיך",
-    "gematria": 440
+    "gematria": 440,
+    "english": "your works"
   },
   {
     "hebrew": "ותלבב",
     "transliteration": "ותלבב",
-    "gematria": 440
+    "gematria": 440,
+    "english": "and make for me"
   },
   {
     "hebrew": "בלדתה",
     "transliteration": "בלדתה",
-    "gematria": 441
+    "gematria": 441,
+    "english": "her labor"
+  },
+  {
+    "hebrew": "וכמעשה",
+    "transliteration": "וכמעשה",
+    "gematria": 441,
+    "english": "and according to the doings"
   },
   {
     "hebrew": "התכבדי",
     "transliteration": "התכבדי",
-    "gematria": 441
+    "gematria": 441,
+    "english": "Make yourself many"
   },
   {
     "hebrew": "משביעך",
     "transliteration": "משביעך",
-    "gematria": 442
+    "gematria": 442,
+    "english": "shall make you swear"
   },
   {
     "hebrew": "במעשיך",
     "transliteration": "במעשיך",
-    "gematria": 442
+    "gematria": 442,
+    "english": "in your works"
+  },
+  {
+    "hebrew": "גדלתו",
+    "transliteration": "גדלתו",
+    "gematria": 443,
+    "english": "made it grow"
+  },
+  {
+    "hebrew": "הכאבתיו",
+    "transliteration": "הכאבתיו",
+    "gematria": 444,
+    "english": "have made him sad"
   },
   {
     "hebrew": "למעשה",
     "transliteration": "למעשה",
-    "gematria": 445
+    "gematria": 445,
+    "english": "the work"
   },
   {
     "hebrew": "ומשפטי",
     "transliteration": "ומשפטי",
-    "gematria": 445
+    "gematria": 445,
+    "english": "and I will make My justice"
+  },
+  {
+    "hebrew": "פשטנו",
+    "transliteration": "פשטנו",
+    "gematria": 445,
+    "english": "made an invasion"
   },
   {
     "hebrew": "כמעשיו",
     "transliteration": "כמעשיו",
-    "gematria": 446
+    "gematria": 446,
+    "english": "according to their works"
   },
   {
     "hebrew": "שעמלו",
     "transliteration": "שעמלו",
-    "gematria": 446
+    "gematria": 446,
+    "english": "whose labor [is]"
+  },
+  {
+    "hebrew": "זכיתי",
+    "transliteration": "זכיתי",
+    "gematria": 447,
+    "english": "I have made clean"
   },
   {
     "hebrew": "חלתי",
     "transliteration": "חלתי",
-    "gematria": 448
+    "gematria": 448,
+    "english": "I do labor"
+  },
+  {
+    "hebrew": "וישבעני",
+    "transliteration": "וישבעני",
+    "gematria": 448,
+    "english": "And made me swear"
   },
   {
     "hebrew": "לדחות",
     "transliteration": "לדחות",
-    "gematria": 448
+    "gematria": 448,
+    "english": "to make stumble"
   },
   {
     "hebrew": "למעשי",
     "transliteration": "למעשי",
-    "gematria": 450
+    "gematria": 450,
+    "english": "the works"
+  },
+  {
+    "hebrew": "כשסע",
+    "transliteration": "כשסע",
+    "gematria": 450,
+    "english": "as one would have torn apart"
   },
   {
     "hebrew": "למעשהו",
     "transliteration": "למעשהו",
-    "gematria": 451
+    "gematria": 451,
+    "english": "for his work"
+  },
+  {
+    "hebrew": "בנפשך",
+    "transliteration": "בנפשך",
+    "gematria": 452,
+    "english": "in your heart"
   },
   {
     "hebrew": "ויעשוני",
     "transliteration": "ויעשוני",
-    "gematria": 452
+    "gematria": 452,
+    "english": "and fashioned me"
   },
   {
     "hebrew": "להשמיע",
     "transliteration": "להשמיע",
-    "gematria": 455
+    "gematria": 455,
+    "english": "to make heard"
   },
   {
     "hebrew": "נשקה",
     "transliteration": "נשקה",
-    "gematria": 455
+    "gematria": 455,
+    "english": "let us make drink"
   },
   {
     "hebrew": "ותן",
     "transliteration": "ותן",
-    "gematria": 456
+    "gematria": 456,
+    "english": "and make"
+  },
+  {
+    "hebrew": "וישסעהו",
+    "transliteration": "וישסעהו",
+    "gematria": 457,
+    "english": "and he tore the lion apart"
   },
   {
     "hebrew": "תבנו",
     "transliteration": "תבנו",
-    "gematria": 458
+    "gematria": 458,
+    "english": "you will build"
   },
   {
     "hebrew": "כמעשיך",
     "transliteration": "כמעשיך",
-    "gematria": 460
+    "gematria": 460,
+    "english": "like Your works"
   },
   {
     "hebrew": "מעשים",
     "transliteration": "מעשים",
-    "gematria": 460
+    "gematria": 460,
+    "english": "deeds"
+  },
+  {
+    "hebrew": "ותהלך",
+    "transliteration": "ותהלך",
+    "gematria": 461,
+    "english": "and darted"
+  },
+  {
+    "hebrew": "בנדתה",
+    "transliteration": "בנדתה",
+    "gematria": 461,
+    "english": "set apart"
+  },
+  {
+    "hebrew": "וימררו",
+    "transliteration": "וימררו",
+    "gematria": 462,
+    "english": "and they made bitter"
   },
   {
     "hebrew": "בנית",
     "transliteration": "בנית",
-    "gematria": 462
+    "gematria": 462,
+    "english": "you did build"
+  },
+  {
+    "hebrew": "ומאחזת",
+    "transliteration": "ומאחזת",
+    "gematria": 462,
+    "english": "And Moreover apart from the possession"
   },
   {
     "hebrew": "אתנהו",
     "transliteration": "אתנהו",
-    "gematria": 462
+    "gematria": 462,
+    "english": "will make him"
   },
   {
     "hebrew": "מעשיהם",
     "transliteration": "מעשיהם",
-    "gematria": 465
+    "gematria": 465,
+    "english": "their works"
   },
   {
     "hebrew": "המעשים",
     "transliteration": "המעשים",
-    "gematria": 465
+    "gematria": 465,
+    "english": "the works"
+  },
+  {
+    "hebrew": "ויתן",
+    "transliteration": "ויתן",
+    "gematria": 466,
+    "english": "And they made"
   },
   {
     "hebrew": "ממעשיו",
     "transliteration": "ממעשיו",
-    "gematria": 466
+    "gematria": 466,
+    "english": "from their work"
   },
   {
     "hebrew": "ובבנות",
     "transliteration": "ובבנות",
-    "gematria": 466
+    "gematria": 466,
+    "english": "and build"
   },
   {
     "hebrew": "במעשיהם",
     "transliteration": "במעשיהם",
-    "gematria": 467
+    "gematria": 467,
+    "english": "with their works"
   },
   {
     "hebrew": "ובנית",
     "transliteration": "ובנית",
-    "gematria": 468
+    "gematria": 468,
+    "english": "and to build"
   },
   {
     "hebrew": "וגאלתיך",
     "transliteration": "וגאלתיך",
-    "gematria": 470
+    "gematria": 470,
+    "english": "then will perform the duty for you"
   },
   {
     "hebrew": "כהמות",
     "transliteration": "כהמות",
-    "gematria": 471
+    "gematria": 471,
+    "english": "[Who] make a noise"
   },
   {
     "hebrew": "ומעשיהם",
     "transliteration": "ומעשיהם",
-    "gematria": 471
+    "gematria": 471,
+    "english": "and their workings [was]"
+  },
+  {
+    "hebrew": "לבתם",
+    "transliteration": "לבתם",
+    "gematria": 472,
+    "english": "[And] their hearts"
+  },
+  {
+    "hebrew": "בלכתך",
+    "transliteration": "בלכתך",
+    "gematria": 472,
+    "english": "when you have departed"
+  },
+  {
+    "hebrew": "חוללת",
+    "transliteration": "חוללת",
+    "gematria": 474,
+    "english": "were you made"
   },
   {
     "hebrew": "מעשינו",
     "transliteration": "מעשינו",
-    "gematria": 476
+    "gematria": 476,
+    "english": "our works"
+  },
+  {
+    "hebrew": "עקשו",
+    "transliteration": "עקשו",
+    "gematria": 476,
+    "english": "they have made crooked"
   },
   {
     "hebrew": "עבדת",
     "transliteration": "עבדת",
-    "gematria": 476
+    "gematria": 476,
+    "english": "the service"
   },
   {
     "hebrew": "תעבד",
     "transliteration": "תעבד",
-    "gematria": 476
+    "gematria": 476,
+    "english": "you shall labor"
   },
   {
     "hebrew": "ובניתי",
     "transliteration": "ובניתי",
-    "gematria": 478
+    "gematria": 478,
+    "english": "and build"
   },
   {
     "hebrew": "בעבדת",
     "transliteration": "בעבדת",
-    "gematria": 478
+    "gematria": 478,
+    "english": "in the work"
   },
   {
     "hebrew": "במעשינו",
     "transliteration": "במעשינו",
-    "gematria": 478
+    "gematria": 478,
+    "english": "for our deeds"
+  },
+  {
+    "hebrew": "יחיתן",
+    "transliteration": "יחיתן",
+    "gematria": 478,
+    "english": "[which] made them afraid"
   },
   {
     "hebrew": "גמלות",
     "transliteration": "גמלות",
-    "gematria": 479
+    "gematria": 479,
+    "english": "[their] deeds"
   },
   {
     "hebrew": "הדעת",
     "transliteration": "הדעת",
-    "gematria": 479
+    "gematria": 479,
+    "english": "skill"
   },
   {
     "hebrew": "החכמות",
     "transliteration": "החכמות",
-    "gematria": 479
+    "gematria": 479,
+    "english": "skillful wailing women"
   },
   {
     "hebrew": "מעשיכם",
     "transliteration": "מעשיכם",
-    "gematria": 480
+    "gematria": 480,
+    "english": "your work"
+  },
+  {
+    "hebrew": "תודע",
+    "transliteration": "תודע",
+    "gematria": 480,
+    "english": "is made known"
   },
   {
     "hebrew": "ותחולל",
     "transliteration": "ותחולל",
-    "gematria": 480
+    "gematria": 480,
+    "english": "Or ever You had formed"
+  },
+  {
+    "hebrew": "בלבותם",
+    "transliteration": "בלבותם",
+    "gematria": 480,
+    "english": "in their hearts"
   },
   {
     "hebrew": "אתודע",
     "transliteration": "אתודע",
-    "gematria": 481
+    "gematria": 481,
+    "english": "make Myself known"
   },
   {
     "hebrew": "ולהתם",
     "transliteration": "ולהתם",
-    "gematria": 481
+    "gematria": 481,
+    "english": "to make an end of"
   },
   {
     "hebrew": "אשקיע",
     "transliteration": "אשקיע",
-    "gematria": 481
+    "gematria": 481,
+    "english": "I will make clear"
+  },
+  {
+    "hebrew": "לאדמתו",
+    "transliteration": "לאדמתו",
+    "gematria": 481,
+    "english": "to his earth"
   },
   {
     "hebrew": "עבודת",
     "transliteration": "עבודת",
-    "gematria": 482
+    "gematria": 482,
+    "english": "of the service"
+  },
+  {
+    "hebrew": "עותו",
+    "transliteration": "עותו",
+    "gematria": 482,
+    "english": "He has made crooked"
   },
   {
     "hebrew": "ובניתיה",
     "transliteration": "ובניתיה",
-    "gematria": 483
+    "gematria": 483,
+    "english": "and rebuild it"
   },
   {
     "hebrew": "בעבודת",
     "transliteration": "בעבודת",
-    "gematria": 484
+    "gematria": 484,
+    "english": "in the service"
   },
   {
     "hebrew": "כמעשיהם",
     "transliteration": "כמעשיהם",
-    "gematria": 485
+    "gematria": 485,
+    "english": "according to their works"
   },
   {
     "hebrew": "ועתדה",
     "transliteration": "ועתדה",
-    "gematria": 485
+    "gematria": 485,
+    "english": "and Make it fit"
   },
   {
     "hebrew": "תכסו",
     "transliteration": "תכסו",
-    "gematria": 486
+    "gematria": 486,
+    "english": "you shall make your count"
+  },
+  {
+    "hebrew": "ויתנך",
+    "transliteration": "ויתנך",
+    "gematria": 486,
+    "english": "therefore He made you"
+  },
+  {
+    "hebrew": "בהתודע",
+    "transliteration": "בהתודע",
+    "gematria": 487,
+    "english": "while made himself known"
+  },
+  {
+    "hebrew": "תבכינה",
+    "transliteration": "תבכינה",
+    "gematria": 487,
+    "english": "made lamentation"
   },
   {
     "hebrew": "ועבודת",
     "transliteration": "ועבודת",
-    "gematria": 488
+    "gematria": 488,
+    "english": "and from the service"
   },
   {
     "hebrew": "תודעי",
     "transliteration": "תודעי",
-    "gematria": 490
+    "gematria": 490,
+    "english": "[but] do make yourself known"
+  },
+  {
+    "hebrew": "לכתם",
+    "transliteration": "לכתם",
+    "gematria": 490,
+    "english": "they had departed"
   },
   {
     "hebrew": "תודיע",
     "transliteration": "תודיע",
-    "gematria": 490
+    "gematria": 490,
+    "english": "make [it] known"
   },
   {
     "hebrew": "מלאכת",
     "transliteration": "מלאכת",
-    "gematria": 491
+    "gematria": 491,
+    "english": "The work"
   },
   {
     "hebrew": "עבודתי",
     "transliteration": "עבודתי",
-    "gematria": 492
+    "gematria": 492,
+    "english": "My service"
   },
   {
     "hebrew": "יגעתי",
     "transliteration": "יגעתי",
-    "gematria": 493
+    "gematria": 493,
+    "english": "I have labored"
   },
   {
     "hebrew": "להבנות",
     "transliteration": "להבנות",
-    "gematria": 493
+    "gematria": 493,
+    "english": "to rebuild"
   },
   {
     "hebrew": "ועבידתא",
     "transliteration": "ועבידתא",
-    "gematria": 493
+    "gematria": 493,
+    "english": "and work"
+  },
+  {
+    "hebrew": "משקדים",
+    "transliteration": "משקדים",
+    "gematria": 494,
+    "english": "[shall be] made like almond [blossoms]"
   },
   {
     "hebrew": "ולבנות",
     "transliteration": "ולבנות",
-    "gematria": 494
+    "gematria": 494,
+    "english": "and build"
+  },
+  {
+    "hebrew": "לבבתני",
+    "transliteration": "לבבתני",
+    "gematria": 494,
+    "english": "You have ravished my heart"
   },
   {
     "hebrew": "הודעתי",
     "transliteration": "הודעתי",
-    "gematria": 495
+    "gematria": 495,
+    "english": "I make known"
   },
   {
     "hebrew": "מלאכתו",
     "transliteration": "מלאכתו",
-    "gematria": 497
+    "gematria": 497,
+    "english": "his work"
   },
   {
     "hebrew": "מלאכות",
     "transliteration": "מלאכות",
-    "gematria": 497
+    "gematria": 497,
+    "english": "the works"
   },
   {
     "hebrew": "המזמתה",
     "transliteration": "המזמתה",
-    "gematria": 497
+    "gematria": 497,
+    "english": "lewd [deeds]"
   },
   {
     "hebrew": "מבנות",
     "transliteration": "מבנות",
-    "gematria": 498
+    "gematria": 498,
+    "english": "building"
   },
   {
     "hebrew": "המתנבא",
     "transliteration": "המתנבא",
-    "gematria": 498
+    "gematria": 498,
+    "english": "who makes himself a prophet"
   },
   {
     "hebrew": "במלאכתו",
     "transliteration": "במלאכתו",
-    "gematria": 499
+    "gematria": 499,
+    "english": "to his service"
   },
   {
     "hebrew": "והמלכת",
     "transliteration": "והמלכת",
-    "gematria": 501
+    "gematria": 501,
+    "english": "and make"
   },
   {
     "hebrew": "תמגגנה",
     "transliteration": "תמגגנה",
-    "gematria": 501
+    "gematria": 501,
+    "english": "You make it soft"
+  },
+  {
+    "hebrew": "תציג",
+    "transliteration": "תציג",
+    "gematria": 503,
+    "english": "you shall set apart"
+  },
+  {
+    "hebrew": "ויתלבנו",
+    "transliteration": "ויתלבנו",
+    "gematria": 504,
+    "english": "and made white"
+  },
+  {
+    "hebrew": "לבבתיני",
+    "transliteration": "לבבתיני",
+    "gematria": 504,
+    "english": "You have ravished My heart"
   },
   {
     "hebrew": "ממעשנו",
     "transliteration": "ממעשנו",
-    "gematria": 506
+    "gematria": 506,
+    "english": "concerning our work"
   },
   {
     "hebrew": "נשקנו",
     "transliteration": "נשקנו",
-    "gematria": 506
+    "gematria": 506,
+    "english": "let us make him drink"
   },
   {
     "hebrew": "לעבדת",
     "transliteration": "לעבדת",
-    "gematria": 506
+    "gematria": 506,
+    "english": "for the service"
   },
   {
     "hebrew": "תאיצו",
     "transliteration": "תאיצו",
-    "gematria": 507
+    "gematria": 507,
+    "english": "do labor"
   },
   {
     "hebrew": "ותמונה",
     "transliteration": "ותמונה",
-    "gematria": 507
+    "gematria": 507,
+    "english": "but form"
+  },
+  {
+    "hebrew": "העגלת",
+    "transliteration": "העגלת",
+    "gematria": 508,
+    "english": "the carts"
+  },
+  {
+    "hebrew": "התגלע",
+    "transliteration": "התגלע",
+    "gematria": 508,
+    "english": "a quarrel starts"
+  },
+  {
+    "hebrew": "ובסתם",
+    "transliteration": "ובסתם",
+    "gematria": 508,
+    "english": "and in the hidden [part]"
   },
   {
     "hebrew": "ובנתים",
     "transliteration": "ובנתים",
-    "gematria": 508
+    "gematria": 508,
+    "english": "and will rebuild those places"
+  },
+  {
+    "hebrew": "עגלתו",
+    "transliteration": "עגלתו",
+    "gematria": 509,
+    "english": "his cartwheel"
+  },
+  {
+    "hebrew": "אתחנן",
+    "transliteration": "אתחנן",
+    "gematria": 509,
+    "english": "I made supplication"
   },
   {
     "hebrew": "פתוחיה",
     "transliteration": "פתוחיה",
-    "gematria": 509
+    "gematria": 509,
+    "english": "its carved work"
+  },
+  {
+    "hebrew": "ינתן",
+    "transliteration": "ינתן",
+    "gematria": 510,
+    "english": "[who] will be made"
   },
   {
     "hebrew": "תהימנה",
     "transliteration": "תהימנה",
-    "gematria": 510
+    "gematria": 510,
+    "english": "they shall make a loud noise"
   },
   {
     "hebrew": "אישר",
     "transliteration": "אישר",
-    "gematria": 511
+    "gematria": 511,
+    "english": "make straight"
+  },
+  {
+    "hebrew": "לפאת",
+    "transliteration": "לפאת",
+    "gematria": 511,
+    "english": "on the quarter"
   },
   {
     "hebrew": "מלאכתך",
     "transliteration": "מלאכתך",
-    "gematria": 511
+    "gematria": 511,
+    "english": "your work"
+  },
+  {
+    "hebrew": "בעגלות",
+    "transliteration": "בעגלות",
+    "gematria": 511,
+    "english": "in the carts"
   },
   {
     "hebrew": "לעבודת",
     "transliteration": "לעבודת",
-    "gematria": 512
+    "gematria": 512,
+    "english": "for the service"
+  },
+  {
+    "hebrew": "ויתנום",
+    "transliteration": "ויתנום",
+    "gematria": 512,
+    "english": "and they made it"
   },
   {
     "hebrew": "לעבדתו",
     "transliteration": "לעבדתו",
-    "gematria": 512
+    "gematria": 512,
+    "english": "for the service"
   },
   {
     "hebrew": "ולעבדת",
     "transliteration": "ולעבדת",
-    "gematria": 512
+    "gematria": 512,
+    "english": "and in the service"
   },
   {
     "hebrew": "ואתננו",
     "transliteration": "ואתננו",
-    "gematria": 513
+    "gematria": 513,
+    "english": "and will make it"
+  },
+  {
+    "hebrew": "הנתחים",
+    "transliteration": "הנתחים",
+    "gematria": 513,
+    "english": "the parts"
   },
   {
     "hebrew": "ותזנים",
     "transliteration": "ותזנים",
-    "gematria": 513
+    "gematria": 513,
+    "english": "And indeed you played the harlot with them"
   },
   {
     "hebrew": "נגינת",
     "transliteration": "נגינת",
-    "gematria": 513
+    "gematria": 513,
+    "english": "a stringed instrument"
   },
   {
     "hebrew": "בבנתכם",
     "transliteration": "בבנתכם",
-    "gematria": 514
+    "gematria": 514,
+    "english": "by building"
+  },
+  {
+    "hebrew": "העגלות",
+    "transliteration": "העגלות",
+    "gematria": 514,
+    "english": "the carts"
   },
   {
     "hebrew": "בנגינת",
     "transliteration": "בנגינת",
-    "gematria": 515
+    "gematria": 515,
+    "english": "with stringed instruments"
   },
   {
     "hebrew": "מעבדת",
     "transliteration": "מעבדת",
-    "gematria": 516
+    "gematria": 516,
+    "english": "service"
   },
   {
     "hebrew": "עבדתם",
     "transliteration": "עבדתם",
-    "gematria": 516
+    "gematria": 516,
+    "english": "their service"
   },
   {
     "hebrew": "לעבידת",
     "transliteration": "לעבידת",
-    "gematria": 516
+    "gematria": 516,
+    "english": "the work"
+  },
+  {
+    "hebrew": "בשורי",
+    "transliteration": "בשורי",
+    "gematria": 518,
+    "english": "when I depart"
   },
   {
     "hebrew": "כתבונם",
     "transliteration": "כתבונם",
-    "gematria": 518
+    "gematria": 518,
+    "english": "according to their skill"
   },
   {
     "hebrew": "בעבדתם",
     "transliteration": "בעבדתם",
-    "gematria": 518
+    "gematria": 518,
+    "english": "of their service"
   },
   {
     "hebrew": "ולעבדתו",
     "transliteration": "ולעבדתו",
-    "gematria": 518
+    "gematria": 518,
+    "english": "and to his labor"
   },
   {
     "hebrew": "ובקתי",
     "transliteration": "ובקתי",
-    "gematria": 518
+    "gematria": 518,
+    "english": "And I will make void"
   },
   {
     "hebrew": "ובניתים",
     "transliteration": "ובניתים",
-    "gematria": 518
+    "gematria": 518,
+    "english": "and I will build them"
   },
   {
     "hebrew": "ונבלתיך",
     "transliteration": "ונבלתיך",
-    "gematria": 518
+    "gematria": 518,
+    "english": "and Make you vile"
+  },
+  {
+    "hebrew": "והחרש",
+    "transliteration": "והחרש",
+    "gematria": 519,
+    "english": "and made no response"
   },
   {
     "hebrew": "כנלתך",
     "transliteration": "כנלתך",
-    "gematria": 520
+    "gematria": 520,
+    "english": "when you make an end"
+  },
+  {
+    "hebrew": "המכנות",
+    "transliteration": "המכנות",
+    "gematria": 521,
+    "english": "carts"
+  },
+  {
+    "hebrew": "השירו",
+    "transliteration": "השירו",
+    "gematria": 521,
+    "english": "they made princes"
   },
   {
     "hebrew": "למלאכת",
     "transliteration": "למלאכת",
-    "gematria": 521
+    "gematria": 521,
+    "english": "for the work"
+  },
+  {
+    "hebrew": "מפאת",
+    "transliteration": "מפאת",
+    "gematria": 521,
+    "english": "from the part"
   },
   {
     "hebrew": "בנגינות",
     "transliteration": "בנגינות",
-    "gematria": 521
+    "gematria": 521,
+    "english": "with stringed instruments"
+  },
+  {
+    "hebrew": "וככלותם",
+    "transliteration": "וככלותם",
+    "gematria": 522,
+    "english": "and when they had made an end"
   },
   {
     "hebrew": "ולפתח",
     "transliteration": "ולפתח",
-    "gematria": 524
+    "gematria": 524,
+    "english": "and to make"
+  },
+  {
+    "hebrew": "העמדתה",
+    "transliteration": "העמדתה",
+    "gematria": 524,
+    "english": "You have made stand"
   },
   {
     "hebrew": "ונגנותי",
     "transliteration": "ונגנותי",
-    "gematria": 525
+    "gematria": 525,
+    "english": "therefore with stringed instruments"
   },
   {
     "hebrew": "והתחננו",
     "transliteration": "והתחננו",
-    "gematria": 525
+    "gematria": 525,
+    "english": "and make supplication"
+  },
+  {
+    "hebrew": "המלכתיך",
+    "transliteration": "המלכתיך",
+    "gematria": 525,
+    "english": "I have made you king"
   },
   {
     "hebrew": "ישרטו",
     "transliteration": "ישרטו",
-    "gematria": 525
+    "gematria": 525,
+    "english": "make"
+  },
+  {
+    "hebrew": "נתנוך",
+    "transliteration": "נתנוך",
+    "gematria": 526,
+    "english": "we made you"
   },
   {
     "hebrew": "תכונן",
     "transliteration": "תכונן",
-    "gematria": 526
+    "gematria": 526,
+    "english": "You will make ready [Your] arrows]"
   },
   {
     "hebrew": "למלאכתו",
     "transliteration": "למלאכתו",
-    "gematria": 527
+    "gematria": 527,
+    "english": "to his work"
   },
   {
     "hebrew": "מלאכותיך",
     "transliteration": "מלאכותיך",
-    "gematria": 527
+    "gematria": 527,
+    "english": "Your works"
+  },
+  {
+    "hebrew": "והמכנות",
+    "transliteration": "והמכנות",
+    "gematria": 527,
+    "english": "and the carts"
   },
   {
     "hebrew": "לצבות",
     "transliteration": "לצבות",
-    "gematria": 528
+    "gematria": 528,
+    "english": "and make swell"
   },
   {
     "hebrew": "אשכיר",
     "transliteration": "אשכיר",
-    "gematria": 531
+    "gematria": 531,
+    "english": "I will make drunk"
+  },
+  {
+    "hebrew": "אמצת",
+    "transliteration": "אמצת",
+    "gematria": 531,
+    "english": "[whom] You made strong"
   },
   {
     "hebrew": "בנגינותי",
     "transliteration": "בנגינותי",
-    "gematria": 531
+    "gematria": 531,
+    "english": "with my stringed instruments"
+  },
+  {
+    "hebrew": "בינותינו",
+    "transliteration": "בינותינו",
+    "gematria": 534,
+    "english": "between [two parties]"
   },
   {
     "hebrew": "יחרישו",
     "transliteration": "יחרישו",
-    "gematria": 534
+    "gematria": 534,
+    "english": "Should make hold their peace"
+  },
+  {
+    "hebrew": "פתהן",
+    "transliteration": "פתהן",
+    "gematria": 535,
+    "english": "their secret parts"
   },
   {
     "hebrew": "להתנכל",
     "transliteration": "להתנכל",
-    "gematria": 535
+    "gematria": 535,
+    "english": "to deal craftily"
   },
   {
     "hebrew": "עבדתכם",
     "transliteration": "עבדתכם",
-    "gematria": 536
+    "gematria": 536,
+    "english": "your work"
+  },
+  {
+    "hebrew": "הודעתנא",
+    "transliteration": "הודעתנא",
+    "gematria": 536,
+    "english": "You have made known to us"
+  },
+  {
+    "hebrew": "אמצתה",
+    "transliteration": "אמצתה",
+    "gematria": 536,
+    "english": "[that] You made strong"
   },
   {
     "hebrew": "ממלאכתו",
     "transliteration": "ממלאכתו",
-    "gematria": 537
+    "gematria": 537,
+    "english": "from the work"
   },
   {
     "hebrew": "תצליח",
     "transliteration": "תצליח",
-    "gematria": 538
+    "gematria": 538,
+    "english": "you will make prosperous"
   },
   {
     "hebrew": "עמלת",
     "transliteration": "עמלת",
-    "gematria": 540
+    "gematria": 540,
+    "english": "you have labored"
+  },
+  {
+    "hebrew": "והפליתי",
+    "transliteration": "והפליתי",
+    "gematria": 541,
+    "english": "and I will set apart"
   },
   {
     "hebrew": "להודעותך",
     "transliteration": "להודעותך",
-    "gematria": 541
+    "gematria": 541,
+    "english": "to inform you"
+  },
+  {
+    "hebrew": "יבעתני",
+    "transliteration": "יבעתני",
+    "gematria": 542,
+    "english": "made me afraid"
   },
   {
     "hebrew": "להתחנן",
     "transliteration": "להתחנן",
-    "gematria": 543
+    "gematria": 543,
+    "english": "to make supplication"
+  },
+  {
+    "hebrew": "המחצבת",
+    "transliteration": "המחצבת",
+    "gematria": 545,
+    "english": "[the arm] that cut apart"
   },
   {
     "hebrew": "ונודעתי",
     "transliteration": "ונודעתי",
-    "gematria": 546
+    "gematria": 546,
+    "english": "and I will make Myself known"
   },
   {
     "hebrew": "השכירהו",
     "transliteration": "השכירהו",
-    "gematria": 546
+    "gematria": 546,
+    "english": "Make him drunk"
+  },
+  {
+    "hebrew": "צאתנו",
+    "transliteration": "צאתנו",
+    "gematria": 547,
+    "english": "we departed"
+  },
+  {
+    "hebrew": "וישכרהו",
+    "transliteration": "וישכרהו",
+    "gematria": 547,
+    "english": "and he made him drunk"
   },
   {
     "hebrew": "לחרשי",
     "transliteration": "לחרשי",
-    "gematria": 548
+    "gematria": 548,
+    "english": "those who worked in"
+  },
+  {
+    "hebrew": "יבעתוני",
+    "transliteration": "יבעתוני",
+    "gematria": 548,
+    "english": "made me afraid"
   },
   {
     "hebrew": "יתפלל",
     "transliteration": "יתפלל",
-    "gematria": 550
+    "gematria": 550,
+    "english": "makes"
+  },
+  {
+    "hebrew": "מצאתך",
+    "transliteration": "מצאתך",
+    "gematria": 551,
+    "english": "at your departure"
   },
   {
     "hebrew": "ומתניהם",
     "transliteration": "ומתניהם",
-    "gematria": 551
+    "gematria": 551,
+    "english": "and make their loins"
   },
   {
     "hebrew": "לעבודתם",
     "transliteration": "לעבודתם",
-    "gematria": 552
+    "gematria": 552,
+    "english": "for the [work of] his service"
+  },
+  {
+    "hebrew": "המלכתני",
+    "transliteration": "המלכתני",
+    "gematria": 555,
+    "english": "have made me king"
   },
   {
     "hebrew": "עלילתיו",
     "transliteration": "עלילתיו",
-    "gematria": 556
+    "gematria": 556,
+    "english": "His deeds"
   },
   {
     "hebrew": "יתפללו",
     "transliteration": "יתפללו",
-    "gematria": 556
+    "gematria": 556,
+    "english": "they will make supplication"
   },
   {
     "hebrew": "ראשנה",
     "transliteration": "ראשנה",
-    "gematria": 556
+    "gematria": 556,
+    "english": "former"
   },
   {
     "hebrew": "מוריש",
     "transliteration": "מוריש",
-    "gematria": 556
+    "gematria": 556,
+    "english": "makes poor"
   },
   {
     "hebrew": "והקמתו",
     "transliteration": "והקמתו",
-    "gematria": 557
+    "gematria": 557,
+    "english": "and make him rise up"
   },
   {
     "hebrew": "מפלאות",
     "transliteration": "מפלאות",
-    "gematria": 557
+    "gematria": 557,
+    "english": "Those wondrous works"
   },
   {
     "hebrew": "חרשים",
     "transliteration": "חרשים",
-    "gematria": 558
+    "gematria": 558,
+    "english": "skillful artisan"
+  },
+  {
+    "hebrew": "נתנני",
+    "transliteration": "נתנני",
+    "gematria": 560,
+    "english": "He has made me"
   },
   {
     "hebrew": "והקמתי",
     "transliteration": "והקמתי",
-    "gematria": 561
+    "gematria": 561,
+    "english": "then I will perform"
+  },
+  {
+    "hebrew": "לצאתם",
+    "transliteration": "לצאתם",
+    "gematria": 561,
+    "english": "after they departed"
+  },
+  {
+    "hebrew": "והמלכתני",
+    "transliteration": "והמלכתני",
+    "gematria": 561,
+    "english": "and have made me king"
+  },
+  {
+    "hebrew": "וימתקו",
+    "transliteration": "וימתקו",
+    "gematria": 562,
+    "english": "and were made sweet"
+  },
+  {
+    "hebrew": "מנבלתם",
+    "transliteration": "מנבלתם",
+    "gematria": 562,
+    "english": "part of the carcass of any of them"
   },
   {
     "hebrew": "עלילותיו",
     "transliteration": "עלילותיו",
-    "gematria": 562
+    "gematria": 562,
+    "english": "His deeds"
   },
   {
     "hebrew": "הקימתי",
     "transliteration": "הקימתי",
-    "gematria": 565
+    "gematria": 565,
+    "english": "I have performed"
   },
   {
     "hebrew": "המתעים",
     "transliteration": "המתעים",
-    "gematria": 565
+    "gematria": 565,
+    "english": "who make stray"
   },
   {
     "hebrew": "רישון",
     "transliteration": "רישון",
-    "gematria": 566
+    "gematria": 566,
+    "english": "former"
+  },
+  {
+    "hebrew": "ואשכרם",
+    "transliteration": "ואשכרם",
+    "gematria": 567,
+    "english": "and Made them drunk"
   },
   {
     "hebrew": "הראשונה",
     "transliteration": "הראשונה",
-    "gematria": 567
+    "gematria": 567,
+    "english": "former"
+  },
+  {
+    "hebrew": "רעש",
+    "transliteration": "רעש",
+    "gematria": 570,
+    "english": "an earthquake"
   },
   {
     "hebrew": "עלילתיך",
     "transliteration": "עלילתיך",
-    "gematria": 570
+    "gematria": 570,
+    "english": "of your deeds"
+  },
+  {
+    "hebrew": "והנתינים",
+    "transliteration": "והנתינים",
+    "gematria": 571,
+    "english": "Moreover the Nethinim [made repairs]"
+  },
+  {
+    "hebrew": "להתעולל",
+    "transliteration": "להתעולל",
+    "gematria": 571,
+    "english": "do practice"
   },
   {
     "hebrew": "מסבלתם",
     "transliteration": "מסבלתם",
-    "gematria": 572
+    "gematria": 572,
+    "english": "from their labor"
+  },
+  {
+    "hebrew": "הרעש",
+    "transliteration": "הרעש",
+    "gematria": 575,
+    "english": "the earthquake"
   },
   {
     "hebrew": "להודעתני",
     "transliteration": "להודעתני",
-    "gematria": 575
+    "gematria": 575,
+    "english": "to make known to me"
   },
   {
     "hebrew": "מעבדתכם",
     "transliteration": "מעבדתכם",
-    "gematria": 576
+    "gematria": 576,
+    "english": "Of your work"
   },
   {
     "hebrew": "שרוע",
     "transliteration": "שרוע",
-    "gematria": 576
+    "gematria": 576,
+    "english": "deformed"
   },
   {
     "hebrew": "כשרון",
     "transliteration": "כשרון",
-    "gematria": 576
+    "gematria": 576,
+    "english": "skillful"
   },
   {
     "hebrew": "נפלאתיו",
     "transliteration": "נפלאתיו",
-    "gematria": 577
+    "gematria": 577,
+    "english": "His wondrous works"
+  },
+  {
+    "hebrew": "וברעש",
+    "transliteration": "וברעש",
+    "gematria": 578,
+    "english": "and earthquake"
+  },
+  {
+    "hebrew": "ותבצעי",
+    "transliteration": "ותבצעי",
+    "gematria": 578,
+    "english": "and you have made profit from"
+  },
+  {
+    "hebrew": "נפליתי",
+    "transliteration": "נפליתי",
+    "gematria": 580,
+    "english": "[and] wonderfully made"
   },
   {
     "hebrew": "ירשע",
     "transliteration": "ירשע",
-    "gematria": 580
+    "gematria": 580,
+    "english": "can make trouble"
   },
   {
     "hebrew": "ובעלילותיך",
     "transliteration": "ובעלילותיך",
-    "gematria": 584
+    "gematria": 584,
+    "english": "and of Your deeds"
   },
   {
     "hebrew": "ובכשרון",
     "transliteration": "ובכשרון",
-    "gematria": 584
+    "gematria": 584,
+    "english": "and skill"
   },
   {
     "hebrew": "בנפלאותיו",
     "transliteration": "בנפלאותיו",
-    "gematria": 585
+    "gematria": 585,
+    "english": "in His wondrous works"
   },
   {
     "hebrew": "עלילותם",
     "transliteration": "עלילותם",
-    "gematria": 586
+    "gematria": 586,
+    "english": "their deeds"
   },
   {
     "hebrew": "פעלתו",
     "transliteration": "פעלתו",
-    "gematria": 586
+    "gematria": 586,
+    "english": "[for] his labor"
   },
   {
     "hebrew": "לחרשים",
     "transliteration": "לחרשים",
-    "gematria": 588
+    "gematria": 588,
+    "english": "to the craftsmen"
   },
   {
     "hebrew": "ונפלאותיו",
     "transliteration": "ונפלאותיו",
-    "gematria": 589
+    "gematria": 589,
+    "english": "and His wonderful works"
+  },
+  {
+    "hebrew": "קצת",
+    "transliteration": "קצת",
+    "gematria": 590,
+    "english": "partly"
   },
   {
     "hebrew": "ופעלתו",
     "transliteration": "ופעלתו",
-    "gematria": 592
+    "gematria": 592,
+    "english": "and His work"
+  },
+  {
+    "hebrew": "לנשברי",
+    "transliteration": "לנשברי",
+    "gematria": 592,
+    "english": "the brokenhearted"
   },
   {
     "hebrew": "לסבלתיכם",
     "transliteration": "לסבלתיכם",
-    "gematria": 592
+    "gematria": 592,
+    "english": "to your labor"
   },
   {
     "hebrew": "ובעלילותם",
     "transliteration": "ובעלילותם",
-    "gematria": 594
+    "gematria": 594,
+    "english": "and deeds"
   },
   {
     "hebrew": "תהודענני",
     "transliteration": "תהודענני",
-    "gematria": 595
+    "gematria": 595,
+    "english": "you do make known to me"
   },
   {
     "hebrew": "ופעלתי",
     "transliteration": "ופעלתי",
-    "gematria": 596
+    "gematria": 596,
+    "english": "and my work"
+  },
+  {
+    "hebrew": "ותניעני",
+    "transliteration": "ותניעני",
+    "gematria": 596,
+    "english": "and which made me tremble"
+  },
+  {
+    "hebrew": "ונתפלל",
+    "transliteration": "ונתפלל",
+    "gematria": 596,
+    "english": "And nevertheless we made our prayer"
   },
   {
     "hebrew": "נפלאותיך",
     "transliteration": "נפלאותיך",
-    "gematria": 597
+    "gematria": 597,
+    "english": "Your marvelous works"
   },
   {
     "hebrew": "בנפלאותיך",
     "transliteration": "בנפלאותיך",
-    "gematria": 599
+    "gematria": 599,
+    "english": "on Your wondrous works"
   },
   {
     "hebrew": "תקנן",
     "transliteration": "תקנן",
-    "gematria": 600
+    "gematria": 600,
+    "english": "[which] makes her nest"
   },
   {
     "hebrew": "תאר",
     "transliteration": "תאר",
-    "gematria": 601
+    "gematria": 601,
+    "english": "form"
   },
   {
     "hebrew": "ראשנים",
     "transliteration": "ראשנים",
-    "gematria": 601
+    "gematria": 601,
+    "english": "former"
   },
   {
     "hebrew": "תהודעונני",
     "transliteration": "תהודעונני",
-    "gematria": 601
+    "gematria": 601,
+    "english": "you do make known to me"
   },
   {
     "hebrew": "וכעלילותיך",
     "transliteration": "וכעלילותיך",
-    "gematria": 602
+    "gematria": 602,
+    "english": "and according to your deeds"
   },
   {
     "hebrew": "ואשמרנה",
     "transliteration": "ואשמרנה",
-    "gematria": 602
+    "gematria": 602,
+    "english": "and indeed I shall observe it"
   },
   {
     "hebrew": "ובמשמריו",
     "transliteration": "ובמשמריו",
-    "gematria": 604
+    "gematria": 604,
+    "english": "for its services"
+  },
+  {
+    "hebrew": "לרשעה",
+    "transliteration": "לרשעה",
+    "gematria": 605,
+    "english": "by [doing] wickedness"
   },
   {
     "hebrew": "אתרה",
     "transliteration": "אתרה",
-    "gematria": 606
+    "gematria": 606,
+    "english": "its [former] site"
   },
   {
     "hebrew": "תארו",
     "transliteration": "תארו",
-    "gematria": 607
+    "gematria": 607,
+    "english": "his form"
   },
   {
     "hebrew": "לנפלאתיו",
     "transliteration": "לנפלאתיו",
-    "gematria": 607
+    "gematria": 607,
+    "english": "His wonderful works"
   },
   {
     "hebrew": "תרבו",
     "transliteration": "תרבו",
-    "gematria": 608
+    "gematria": 608,
+    "english": "you make many"
   },
   {
     "hebrew": "רתח",
     "transliteration": "רתח",
-    "gematria": 608
+    "gematria": 608,
+    "english": "Make it boil"
+  },
+  {
+    "hebrew": "תהדר",
+    "transliteration": "תהדר",
+    "gematria": 609,
+    "english": "You shall show partiality"
+  },
+  {
+    "hebrew": "ותדר",
+    "transliteration": "ותדר",
+    "gematria": 610,
+    "english": "And she made"
   },
   {
     "hebrew": "קדמניות",
     "transliteration": "קדמניות",
-    "gematria": 610
+    "gematria": 610,
+    "english": "in former"
   },
   {
     "hebrew": "וכעלילותם",
     "transliteration": "וכעלילותם",
-    "gematria": 612
+    "gematria": 612,
+    "english": "and their deeds"
+  },
+  {
+    "hebrew": "בתרי",
+    "transliteration": "בתרי",
+    "gematria": 612,
+    "english": "the parts"
   },
   {
     "hebrew": "בראתי",
     "transliteration": "בראתי",
-    "gematria": 613
+    "gematria": 613,
+    "english": "created"
   },
   {
     "hebrew": "ותארו",
     "transliteration": "ותארו",
-    "gematria": 613
+    "gematria": 613,
+    "english": "and His form"
+  },
+  {
+    "hebrew": "עלילותיכם",
+    "transliteration": "עלילותיכם",
+    "gematria": 616,
+    "english": "your doings"
   },
   {
     "hebrew": "לפעלות",
     "transliteration": "לפעלות",
-    "gematria": 616
+    "gematria": 616,
+    "english": "Concerning the works"
   },
   {
     "hebrew": "והותר",
     "transliteration": "והותר",
-    "gematria": 617
+    "gematria": 617,
+    "english": "and indeed too much"
+  },
+  {
+    "hebrew": "בתריו",
+    "transliteration": "בתריו",
+    "gematria": 618,
+    "english": "the parts of it"
   },
   {
     "hebrew": "בראתיו",
     "transliteration": "בראתיו",
-    "gematria": 619
+    "gematria": 619,
+    "english": "Whom I have created"
   },
   {
     "hebrew": "ותגדרו",
     "transliteration": "ותגדרו",
-    "gematria": 619
+    "gematria": 619,
+    "english": "and to build"
   },
   {
     "hebrew": "פעלתם",
     "transliteration": "פעלתם",
-    "gematria": 620
+    "gematria": 620,
+    "english": "their work"
+  },
+  {
+    "hebrew": "כרת",
+    "transliteration": "כרת",
+    "gematria": 620,
+    "english": "made [a covenant]"
   },
   {
     "hebrew": "אכרת",
     "transliteration": "אכרת",
-    "gematria": 621
+    "gematria": 621,
+    "english": "I will make [a covenant]"
   },
   {
     "hebrew": "ולתקפה",
     "transliteration": "ולתקפה",
-    "gematria": 621
+    "gematria": 621,
+    "english": "and to make a firm"
+  },
+  {
+    "hebrew": "בכרת",
+    "transliteration": "בכרת",
+    "gematria": 622,
+    "english": "that has made a covenant"
   },
   {
     "hebrew": "לקדמתן",
     "transliteration": "לקדמתן",
-    "gematria": 624
+    "gematria": 624,
+    "english": "to their former state"
+  },
+  {
+    "hebrew": "החרבתי",
+    "transliteration": "החרבתי",
+    "gematria": 625,
+    "english": "I have made desolate"
   },
   {
     "hebrew": "כרתה",
     "transliteration": "כרתה",
-    "gematria": 625
+    "gematria": 625,
+    "english": "Make"
   },
   {
     "hebrew": "תרחיבו",
     "transliteration": "תרחיבו",
-    "gematria": 626
+    "gematria": 626,
+    "english": "do you make a wide"
   },
   {
     "hebrew": "ומעשיר",
     "transliteration": "ומעשיר",
-    "gematria": 626
+    "gematria": 626,
+    "english": "and makes rich"
   },
   {
     "hebrew": "כרתו",
     "transliteration": "כרתו",
-    "gematria": 626
+    "gematria": 626,
+    "english": "make"
   },
   {
     "hebrew": "מפעלות",
     "transliteration": "מפעלות",
-    "gematria": 626
+    "gematria": 626,
+    "english": "the works"
+  },
+  {
+    "hebrew": "לקצות",
+    "transliteration": "לקצות",
+    "gematria": 626,
+    "english": "to cut off [parts]"
   },
   {
     "hebrew": "אכרות",
     "transliteration": "אכרות",
-    "gematria": 627
+    "gematria": 627,
+    "english": "will make"
   },
   {
     "hebrew": "ירתיח",
     "transliteration": "ירתיח",
-    "gematria": 628
+    "gematria": 628,
+    "english": "He makes boil"
   },
   {
     "hebrew": "לפעלתך",
     "transliteration": "לפעלתך",
-    "gematria": 630
+    "gematria": 630,
+    "english": "your work"
   },
   {
     "hebrew": "לראשנים",
     "transliteration": "לראשנים",
-    "gematria": 631
+    "gematria": 631,
+    "english": "of former [things]"
   },
   {
     "hebrew": "ואכרתה",
     "transliteration": "ואכרתה",
-    "gematria": 632
+    "gematria": 632,
+    "english": "and I will make"
+  },
+  {
+    "hebrew": "ותכרו",
+    "transliteration": "ותכרו",
+    "gematria": 632,
+    "english": "and you barter"
   },
   {
     "hebrew": "והחרדתי",
     "transliteration": "והחרדתי",
-    "gematria": 633
+    "gematria": 633,
+    "english": "and make afraid"
   },
   {
     "hebrew": "היכרת",
     "transliteration": "היכרת",
-    "gematria": 635
+    "gematria": 635,
+    "english": "Will he make"
   },
   {
     "hebrew": "וכרתי",
     "transliteration": "וכרתי",
-    "gematria": 636
+    "gematria": 636,
+    "english": "And I will make"
   },
   {
     "hebrew": "תפעלון",
     "transliteration": "תפעלון",
-    "gematria": 636
+    "gematria": 636,
+    "english": "you work"
   },
   {
     "hebrew": "כקדמותיכם",
     "transliteration": "כקדמותיכם",
-    "gematria": 640
+    "gematria": 640,
+    "english": "as in former times"
+  },
+  {
+    "hebrew": "בירכתי",
+    "transliteration": "בירכתי",
+    "gematria": 642,
+    "english": "On the farthest sides"
+  },
+  {
+    "hebrew": "וכעלילותיכם",
+    "transliteration": "וכעלילותיכם",
+    "gematria": 642,
+    "english": "and nor according to your doings"
   },
   {
     "hebrew": "תזכירו",
     "transliteration": "תזכירו",
-    "gematria": 643
+    "gematria": 643,
+    "english": "You shall make mention"
   },
   {
     "hebrew": "לקדמתכן",
     "transliteration": "לקדמתכן",
-    "gematria": 644
+    "gematria": 644,
+    "english": "to your former state"
   },
   {
     "hebrew": "והותירך",
     "transliteration": "והותירך",
-    "gematria": 647
+    "gematria": 647,
+    "english": "And will make you abound"
+  },
+  {
+    "hebrew": "ותמהר",
+    "transliteration": "ותמהר",
+    "gematria": 651,
+    "english": "And made haste"
   },
   {
     "hebrew": "נבראת",
     "transliteration": "נבראת",
-    "gematria": 653
+    "gematria": 653,
+    "english": "you were created"
+  },
+  {
+    "hebrew": "תקסמנה",
+    "transliteration": "תקסמנה",
+    "gematria": 655,
+    "english": "practice"
   },
   {
     "hebrew": "וכגבורתך",
     "transliteration": "וכגבורתך",
-    "gematria": 657
+    "gematria": 657,
+    "english": "and Your mighty [deeds]"
   },
   {
     "hebrew": "נשיש",
     "transliteration": "נשיש",
-    "gematria": 660
+    "gematria": 660,
+    "english": "Should we make mirth"
+  },
+  {
+    "hebrew": "תרבני",
+    "transliteration": "תרבני",
+    "gematria": 662,
+    "english": "has made me great"
   },
   {
     "hebrew": "ונראות",
     "transliteration": "ונראות",
-    "gematria": 663
+    "gematria": 663,
+    "english": "and awesome deeds"
+  },
+  {
+    "hebrew": "תרהבני",
+    "transliteration": "תרהבני",
+    "gematria": 667,
+    "english": "[And] made me bold"
+  },
+  {
+    "hebrew": "והמטרתי",
+    "transliteration": "והמטרתי",
+    "gematria": 670,
+    "english": "And I made it rain"
   },
   {
     "hebrew": "לפעלתכם",
     "transliteration": "לפעלתכם",
-    "gematria": 670
+    "gematria": 670,
+    "english": "your work"
+  },
+  {
+    "hebrew": "סרתי",
+    "transliteration": "סרתי",
+    "gematria": 670,
+    "english": "I have departed"
   },
   {
     "hebrew": "תוסרו",
     "transliteration": "תוסרו",
-    "gematria": 672
+    "gematria": 672,
+    "english": "you are reformed"
   },
   {
     "hebrew": "נכרתה",
     "transliteration": "נכרתה",
-    "gematria": 675
+    "gematria": 675,
+    "english": "let us make"
+  },
+  {
+    "hebrew": "כרתנו",
+    "transliteration": "כרתנו",
+    "gematria": 676,
+    "english": "we have made"
+  },
+  {
+    "hebrew": "ונפצתים",
+    "transliteration": "ונפצתים",
+    "gematria": 676,
+    "english": "and will have them broken apart"
+  },
+  {
+    "hebrew": "תעור",
+    "transliteration": "תעור",
+    "gematria": 676,
+    "english": "was made ready"
+  },
+  {
+    "hebrew": "והעברת",
+    "transliteration": "והעברת",
+    "gematria": 683,
+    "english": "That you shall set apart"
+  },
+  {
+    "hebrew": "ותחסרהו",
+    "transliteration": "ותחסרהו",
+    "gematria": 685,
+    "english": "For You have made him lower"
   },
   {
     "hebrew": "ובשלשים",
     "transliteration": "ובשלשים",
-    "gematria": 688
+    "gematria": 688,
+    "english": "and with musical instruments"
   },
   {
     "hebrew": "והעטרת",
     "transliteration": "והעטרת",
-    "gematria": 690
+    "gematria": 690,
+    "english": "And the elaborate crown"
+  },
+  {
+    "hebrew": "מרביתם",
+    "transliteration": "מרביתם",
+    "gematria": 692,
+    "english": "the greatest part of them"
   },
   {
     "hebrew": "והעברתי",
     "transliteration": "והעברתי",
-    "gematria": 693
+    "gematria": 693,
+    "english": "And I will make pass"
   },
   {
     "hebrew": "רפדתי",
     "transliteration": "רפדתי",
-    "gematria": 694
+    "gematria": 694,
+    "english": "if I make"
   },
   {
     "hebrew": "צורת",
     "transliteration": "צורת",
-    "gematria": 696
+    "gematria": 696,
+    "english": "the design"
   },
   {
     "hebrew": "והזכרתני",
     "transliteration": "והזכרתני",
-    "gematria": 698
+    "gematria": 698,
+    "english": "and make mention of me"
+  },
+  {
+    "hebrew": "יצרת",
+    "transliteration": "יצרת",
+    "gematria": 700,
+    "english": "You have made"
   },
   {
     "hebrew": "והפרתי",
     "transliteration": "והפרתי",
-    "gematria": 701
+    "gematria": 701,
+    "english": "And I will make fruitful"
   },
   {
     "hebrew": "צורתו",
     "transliteration": "צורתו",
-    "gematria": 702
+    "gematria": 702,
+    "english": "its design"
   },
   {
     "hebrew": "תרביץ",
     "transliteration": "תרביץ",
-    "gematria": 702
+    "gematria": 702,
+    "english": "you make [it] rest"
+  },
+  {
+    "hebrew": "קרתה",
+    "transliteration": "קרתה",
+    "gematria": 705,
+    "english": "Kartah"
   },
   {
     "hebrew": "ותמהרנה",
     "transliteration": "ותמהרנה",
-    "gematria": 706
+    "gematria": 706,
+    "english": "and let them make haste"
   },
   {
     "hebrew": "תפריחי",
     "transliteration": "תפריחי",
-    "gematria": 708
+    "gematria": 708,
+    "english": "you will make to flourish"
+  },
+  {
+    "hebrew": "והפרחתי",
+    "transliteration": "והפרחתי",
+    "gematria": 709,
+    "english": "and made flourish"
   },
   {
     "hebrew": "יצרתי",
     "transliteration": "יצרתי",
-    "gematria": 710
+    "gematria": 710,
+    "english": "I have formed"
+  },
+  {
+    "hebrew": "ישת",
+    "transliteration": "ישת",
+    "gematria": 710,
+    "english": "He made"
   },
   {
     "hebrew": "תרנין",
     "transliteration": "תרנין",
-    "gematria": 710
+    "gematria": 710,
+    "english": "You make rejoice"
   },
   {
     "hebrew": "והפריתי",
     "transliteration": "והפריתי",
-    "gematria": 711
+    "gematria": 711,
+    "english": "and will make fruitful"
   },
   {
     "hebrew": "צורתיו",
     "transliteration": "צורתיו",
-    "gematria": 712
+    "gematria": 712,
+    "english": "its forms"
+  },
+  {
+    "hebrew": "יתבקר",
+    "transliteration": "יתבקר",
+    "gematria": 712,
+    "english": "let a search be made"
+  },
+  {
+    "hebrew": "יבשתא",
+    "transliteration": "יבשתא",
+    "gematria": 713,
+    "english": "earth"
+  },
+  {
+    "hebrew": "התבאשו",
+    "transliteration": "התבאשו",
+    "gematria": 714,
+    "english": "they had made themselves repulsive"
   },
   {
     "hebrew": "יצרתיו",
     "transliteration": "יצרתיו",
-    "gematria": 716
+    "gematria": 716,
+    "english": "I have formed him"
   },
   {
     "hebrew": "וחשבת",
     "transliteration": "וחשבת",
-    "gematria": 716
+    "gematria": 716,
+    "english": "and you will make"
   },
   {
     "hebrew": "וכפרתהו",
     "transliteration": "וכפרתהו",
-    "gematria": 717
+    "gematria": 717,
+    "english": "and make atonement for it"
   },
   {
     "hebrew": "ותשוו",
     "transliteration": "ותשוו",
-    "gematria": 718
+    "gematria": 718,
+    "english": "and make [Me] equal"
+  },
+  {
+    "hebrew": "חשתי",
+    "transliteration": "חשתי",
+    "gematria": 718,
+    "english": "I made haste"
   },
   {
     "hebrew": "שיתי",
     "transliteration": "שיתי",
-    "gematria": 720
+    "gematria": 720,
+    "english": "Make"
+  },
+  {
+    "hebrew": "שכת",
+    "transliteration": "שכת",
+    "gematria": 720,
+    "english": "made a hedge"
   },
   {
     "hebrew": "ויצרתיה",
     "transliteration": "ויצרתיה",
-    "gematria": 721
+    "gematria": 721,
+    "english": "that I formed it"
+  },
+  {
+    "hebrew": "ישתוה",
+    "transliteration": "ישתוה",
+    "gematria": 721,
+    "english": "shall be made"
+  },
+  {
+    "hebrew": "הושבתי",
+    "transliteration": "הושבתי",
+    "gematria": 723,
+    "english": "I made dwell"
   },
   {
     "hebrew": "והבשתי",
     "transliteration": "והבשתי",
-    "gematria": 723
+    "gematria": 723,
+    "english": "and make dry"
   },
   {
     "hebrew": "והקדרתי",
     "transliteration": "והקדרתי",
-    "gematria": 725
+    "gematria": 725,
+    "english": "and make dark"
   },
   {
     "hebrew": "והשביתו",
     "transliteration": "והשביתו",
-    "gematria": 729
+    "gematria": 729,
+    "english": "So would make cease"
   },
   {
     "hebrew": "והושבתי",
     "transliteration": "והושבתי",
-    "gematria": 729
+    "gematria": 729,
+    "english": "and I will make inhabited"
   },
   {
     "hebrew": "מצרת",
     "transliteration": "מצרת",
-    "gematria": 730
+    "gematria": 730,
+    "english": "siegeworks"
   },
   {
     "hebrew": "יצרתיך",
     "transliteration": "יצרתיך",
-    "gematria": 730
+    "gematria": 730,
+    "english": "I have formed you"
+  },
+  {
+    "hebrew": "וישיתו",
+    "transliteration": "וישיתו",
+    "gematria": 732,
+    "english": "and they made"
   },
   {
     "hebrew": "השבכות",
     "transliteration": "השבכות",
-    "gematria": 733
+    "gematria": 733,
+    "english": "the networks"
   },
   {
     "hebrew": "ברעותיהם",
     "transliteration": "ברעותיהם",
-    "gematria": 733
+    "gematria": 733,
+    "english": "against the deeds of the wicked"
   },
   {
     "hebrew": "לקרות",
     "transliteration": "לקרות",
-    "gematria": 736
+    "gematria": 736,
+    "english": "to make beams"
   },
   {
     "hebrew": "ישיתוהו",
     "transliteration": "ישיתוהו",
-    "gematria": 737
+    "gematria": 737,
+    "english": "they make it"
   },
   {
     "hebrew": "והשבכות",
     "transliteration": "והשבכות",
-    "gematria": 739
+    "gematria": 739,
+    "english": "and the networks"
+  },
+  {
+    "hebrew": "שמת",
+    "transliteration": "שמת",
+    "gematria": 740,
+    "english": "You have made"
+  },
+  {
+    "hebrew": "יצרתם",
+    "transliteration": "יצרתם",
+    "gematria": 740,
+    "english": "have made"
+  },
+  {
+    "hebrew": "תמש",
+    "transliteration": "תמש",
+    "gematria": 740,
+    "english": "do depart"
   },
   {
     "hebrew": "ונצרת",
     "transliteration": "ונצרת",
-    "gematria": 746
+    "gematria": 746,
+    "english": "and crafty"
   },
   {
     "hebrew": "וכפרתם",
     "transliteration": "וכפרתם",
-    "gematria": 746
+    "gematria": 746,
+    "english": "thus you shall make atonement"
   },
   {
     "hebrew": "ולשבית",
     "transliteration": "ולשבית",
-    "gematria": 748
+    "gematria": 748,
+    "english": "and make fail"
   },
   {
     "hebrew": "והושבתיך",
     "transliteration": "והושבתיך",
-    "gematria": 749
+    "gematria": 749,
+    "english": "and I will make you dwell"
   },
   {
     "hebrew": "תשים",
     "transliteration": "תשים",
-    "gematria": 750
+    "gematria": 750,
+    "english": "make"
+  },
+  {
+    "hebrew": "קרתן",
+    "transliteration": "קרתן",
+    "gematria": 750,
+    "english": "Kartan"
   },
   {
     "hebrew": "מחשבת",
     "transliteration": "מחשבת",
-    "gematria": 750
+    "gematria": 750,
+    "english": "artistic works"
   },
   {
     "hebrew": "רקמתי",
     "transliteration": "רקמתי",
-    "gematria": 750
+    "gematria": 750,
+    "english": "[And] skillfully wrought"
+  },
+  {
+    "hebrew": "שמתהו",
+    "transliteration": "שמתהו",
+    "gematria": 751,
+    "english": "[and] made him"
+  },
+  {
+    "hebrew": "השמות",
+    "transliteration": "השמות",
+    "gematria": 751,
+    "english": "You have made desolate"
   },
   {
     "hebrew": "משבית",
     "transliteration": "משבית",
-    "gematria": 752
+    "gematria": 752,
+    "english": "He makes cease"
+  },
+  {
+    "hebrew": "השמחת",
+    "transliteration": "השמחת",
+    "gematria": 753,
+    "english": "You have made rejoice"
+  },
+  {
+    "hebrew": "תדשן",
+    "transliteration": "תדשן",
+    "gematria": 754,
+    "english": "will be made rich"
   },
   {
     "hebrew": "ושמתי",
     "transliteration": "ושמתי",
-    "gematria": 756
+    "gematria": 756,
+    "english": "And I will make"
+  },
+  {
+    "hebrew": "שמתיו",
+    "transliteration": "שמתיו",
+    "gematria": 756,
+    "english": "I have made him"
   },
   {
     "hebrew": "שיתמו",
     "transliteration": "שיתמו",
-    "gematria": 756
+    "gematria": 756,
+    "english": "Make"
+  },
+  {
+    "hebrew": "אשתנו",
+    "transliteration": "אשתנו",
+    "gematria": 757,
+    "english": "I have made him"
+  },
+  {
+    "hebrew": "תשאון",
+    "transliteration": "תשאון",
+    "gematria": 757,
+    "english": "you show partiality"
   },
   {
     "hebrew": "ושמתיה",
     "transliteration": "ושמתיה",
-    "gematria": 761
+    "gematria": 761,
+    "english": "And I will make it"
   },
   {
     "hebrew": "תשבני",
     "transliteration": "תשבני",
-    "gematria": 762
+    "gematria": 762,
+    "english": "do make me return"
+  },
+  {
+    "hebrew": "תנחשו",
+    "transliteration": "תנחשו",
+    "gematria": 764,
+    "english": "shall you practice divination"
+  },
+  {
+    "hebrew": "ונשבתו",
+    "transliteration": "ונשבתו",
+    "gematria": 764,
+    "english": "and made to cease"
   },
   {
     "hebrew": "חשבנות",
     "transliteration": "חשבנות",
-    "gematria": 766
+    "gematria": 766,
+    "english": "devices"
   },
   {
     "hebrew": "שמתיך",
     "transliteration": "שמתיך",
-    "gematria": 770
+    "gematria": 770,
+    "english": "I will make you"
   },
   {
     "hebrew": "והשמתיהו",
     "transliteration": "והשמתיהו",
-    "gematria": 772
+    "gematria": 772,
+    "english": "and will make him"
   },
   {
     "hebrew": "תעשה",
     "transliteration": "תעשה",
-    "gematria": 775
+    "gematria": 775,
+    "english": "will perform"
   },
   {
     "hebrew": "ושמתיך",
     "transliteration": "ושמתיך",
-    "gematria": 776
+    "gematria": 776,
+    "english": "and I will make you"
+  },
+  {
+    "hebrew": "בעשתה",
+    "transliteration": "בעשתה",
+    "gematria": 777,
+    "english": "by doing [something against]"
   },
   {
     "hebrew": "תושיבני",
     "transliteration": "תושיבני",
-    "gematria": 778
+    "gematria": 778,
+    "english": "make me dwell"
   },
   {
     "hebrew": "בעשתו",
     "transliteration": "בעשתו",
-    "gematria": 778
+    "gematria": 778,
+    "english": "when He works"
   },
   {
     "hebrew": "תעשי",
     "transliteration": "תעשי",
-    "gematria": 780
+    "gematria": 780,
+    "english": "Make [some]"
   },
   {
     "hebrew": "תשלים",
     "transliteration": "תשלים",
-    "gematria": 780
+    "gematria": 780,
+    "english": "[the city] will make peace"
+  },
+  {
+    "hebrew": "ותעשה",
+    "transliteration": "ותעשה",
+    "gematria": 781,
+    "english": "and made"
   },
   {
     "hebrew": "ועשתה",
     "transliteration": "ועשתה",
-    "gematria": 781
+    "gematria": 781,
+    "english": "but makes"
   },
   {
     "hebrew": "והשכבתים",
     "transliteration": "והשכבתים",
-    "gematria": 783
+    "gematria": 783,
+    "english": "and to make them lie down"
+  },
+  {
+    "hebrew": "ומבשלות",
+    "transliteration": "ומבשלות",
+    "gematria": 784,
+    "english": "and cooking hearths"
   },
   {
     "hebrew": "ושמתם",
     "transliteration": "ושמתם",
-    "gematria": 786
+    "gematria": 786,
+    "english": "and make"
+  },
+  {
+    "hebrew": "ועשתי",
+    "transliteration": "ועשתי",
+    "gematria": 786,
+    "english": "and have made"
+  },
+  {
+    "hebrew": "העשותו",
+    "transliteration": "העשותו",
+    "gematria": 787,
+    "english": "when it is made"
+  },
+  {
+    "hebrew": "תפשי",
+    "transliteration": "תפשי",
+    "gematria": 790,
+    "english": "those who took part in"
+  },
+  {
+    "hebrew": "תמשילהו",
+    "transliteration": "תמשילהו",
+    "gematria": 791,
+    "english": "You made him to have dominion"
   },
   {
     "hebrew": "תשבץ",
     "transliteration": "תשבץ",
-    "gematria": 792
+    "gematria": 792,
+    "english": "skillfully woven"
+  },
+  {
+    "hebrew": "עשיתיו",
+    "transliteration": "עשיתיו",
+    "gematria": 796,
+    "english": "I have made him"
   },
   {
     "hebrew": "ושמתים",
     "transliteration": "ושמתים",
-    "gematria": 796
+    "gematria": 796,
+    "english": "so I will make them"
   },
   {
     "hebrew": "ושבצת",
     "transliteration": "ושבצת",
-    "gematria": 798
+    "gematria": 798,
+    "english": "And You shall skillfully weave"
+  },
+  {
+    "hebrew": "שמתני",
+    "transliteration": "שמתני",
+    "gematria": 800,
+    "english": "had made me"
   },
   {
     "hebrew": "קרצתי",
     "transliteration": "קרצתי",
-    "gematria": 800
+    "gematria": 800,
+    "english": "Have been formed"
   },
   {
     "hebrew": "ועשיתיו",
     "transliteration": "ועשיתיו",
-    "gematria": 802
+    "gematria": 802,
+    "english": "and perform it"
   },
   {
     "hebrew": "ושמחתים",
     "transliteration": "ושמחתים",
-    "gematria": 804
+    "gematria": 804,
+    "english": "and make them joyful"
   },
   {
     "hebrew": "משתולל",
     "transliteration": "משתולל",
-    "gematria": 806
+    "gematria": 806,
+    "english": "makes himself a prey"
+  },
+  {
+    "hebrew": "תשימנו",
+    "transliteration": "תשימנו",
+    "gematria": 806,
+    "english": "You have made us"
+  },
+  {
+    "hebrew": "יתשמון",
+    "transliteration": "יתשמון",
+    "gematria": 806,
+    "english": "shall be made"
   },
   {
     "hebrew": "השבעתיך",
     "transliteration": "השבעתיך",
-    "gematria": 807
+    "gematria": 807,
+    "english": "I make you swear"
+  },
+  {
+    "hebrew": "שמחתני",
+    "transliteration": "שמחתני",
+    "gematria": 808,
+    "english": "You have made me glad"
   },
   {
     "hebrew": "תשימני",
     "transliteration": "תשימני",
-    "gematria": 810
+    "gematria": 810,
+    "english": "do make me"
   },
   {
     "hebrew": "ולעשות",
     "transliteration": "ולעשות",
-    "gematria": 812
+    "gematria": 812,
+    "english": "and [some] to make"
+  },
+  {
+    "hebrew": "תותח",
+    "transliteration": "תותח",
+    "gematria": 814,
+    "english": "Darts"
+  },
+  {
+    "hebrew": "מעשות",
+    "transliteration": "מעשות",
+    "gematria": 816,
+    "english": "from doing"
   },
   {
     "hebrew": "הגתית",
     "transliteration": "הגתית",
-    "gematria": 818
+    "gematria": 818,
+    "english": "the instrument of Gath"
+  },
+  {
+    "hebrew": "עשיתם",
+    "transliteration": "עשיתם",
+    "gematria": 820,
+    "english": "You made"
   },
   {
     "hebrew": "ועשיתם",
     "transliteration": "ועשיתם",
-    "gematria": 826
+    "gematria": 826,
+    "english": "Therefore you shall make"
   },
   {
     "hebrew": "תשמיעו",
     "transliteration": "תשמיעו",
-    "gematria": 826
+    "gematria": 826,
+    "english": "make any noise"
   },
   {
     "hebrew": "תעשנו",
     "transliteration": "תעשנו",
-    "gematria": 826
+    "gematria": 826,
+    "english": "you shall make it"
+  },
+  {
+    "hebrew": "פשטתם",
+    "transliteration": "פשטתם",
+    "gematria": 829,
+    "english": "have you made a raid"
+  },
+  {
+    "hebrew": "עשתני",
+    "transliteration": "עשתני",
+    "gematria": 830,
+    "english": "has made me"
+  },
+  {
+    "hebrew": "השבעתנו",
+    "transliteration": "השבעתנו",
+    "gematria": 833,
+    "english": "you have made us swear"
   },
   {
     "hebrew": "תשלימני",
     "transliteration": "תשלימני",
-    "gematria": 840
+    "gematria": 840,
+    "english": "You make an end of me"
+  },
+  {
+    "hebrew": "עשיתני",
+    "transliteration": "עשיתני",
+    "gematria": 840,
+    "english": "have made [it] for myself"
   },
   {
     "hebrew": "והשקתים",
     "transliteration": "והשקתים",
-    "gematria": 861
+    "gematria": 861,
+    "english": "and make them drink"
+  },
+  {
+    "hebrew": "ותשקין",
+    "transliteration": "ותשקין",
+    "gematria": 866,
+    "english": "So they made drink"
+  },
+  {
+    "hebrew": "השקיתנו",
+    "transliteration": "השקיתנו",
+    "gematria": 871,
+    "english": "You have made us drink"
   },
   {
     "hebrew": "ובתבונות",
     "transliteration": "ובתבונות",
-    "gematria": 872
+    "gematria": 872,
+    "english": "and by the skillfulness"
   },
   {
     "hebrew": "תבעת",
     "transliteration": "תבעת",
-    "gematria": 872
+    "gematria": 872,
+    "english": "make afraid"
+  },
+  {
+    "hebrew": "ויתחתן",
+    "transliteration": "ויתחתן",
+    "gematria": 874,
+    "english": "And made a treaty"
   },
   {
     "hebrew": "והתחתנו",
     "transliteration": "והתחתנו",
-    "gematria": 875
+    "gematria": 875,
+    "english": "And make marriages"
   },
   {
     "hebrew": "נתתיך",
     "transliteration": "נתתיך",
-    "gematria": 880
+    "gematria": 880,
+    "english": "I will make you"
   },
   {
     "hebrew": "תשמיעני",
     "transliteration": "תשמיעני",
-    "gematria": 880
+    "gematria": 880,
+    "english": "Make me hear"
+  },
+  {
+    "hebrew": "ותתעבי",
+    "transliteration": "ותתעבי",
+    "gematria": 888,
+    "english": "and made to be abhorred"
   },
   {
     "hebrew": "תמונת",
     "transliteration": "תמונת",
-    "gematria": 896
+    "gematria": 896,
+    "english": "the form"
   },
   {
     "hebrew": "ותמנת",
     "transliteration": "ותמנת",
-    "gematria": 896
+    "gematria": 896,
+    "english": "and the form"
+  },
+  {
+    "hebrew": "ולתבנית",
+    "transliteration": "ולתבנית",
+    "gematria": 898,
+    "english": "for the construction"
   },
   {
     "hebrew": "תתיפי",
     "transliteration": "תתיפי",
-    "gematria": 900
+    "gematria": 900,
+    "english": "you will make yourself fair"
   },
   {
     "hebrew": "הרשת",
     "transliteration": "הרשת",
-    "gematria": 905
+    "gematria": 905,
+    "english": "the network"
   },
   {
     "hebrew": "השרת",
     "transliteration": "השרת",
-    "gematria": 905
+    "gematria": 905,
+    "english": "of service"
   },
   {
     "hebrew": "תתהפך",
     "transliteration": "תתהפך",
-    "gematria": 905
+    "gematria": 905,
+    "english": "It takes on form"
   },
   {
     "hebrew": "תתחנן",
     "transliteration": "תתחנן",
-    "gematria": 908
+    "gematria": 908,
+    "english": "make your supplication"
+  },
+  {
+    "hebrew": "התחננתה",
+    "transliteration": "התחננתה",
+    "gematria": 918,
+    "english": "you have made"
   },
   {
     "hebrew": "והתבוננת",
     "transliteration": "והתבוננת",
-    "gematria": 919
+    "gematria": 919,
+    "english": "and indeed you will look carefully"
+  },
+  {
+    "hebrew": "התחננתי",
+    "transliteration": "התחננתי",
+    "gematria": 923,
+    "english": "I have made supplication"
+  },
+  {
+    "hebrew": "תתענו",
+    "transliteration": "תתענו",
+    "gematria": 926,
+    "english": "have You made us stray"
+  },
+  {
+    "hebrew": "לתפלת",
+    "transliteration": "לתפלת",
+    "gematria": 940,
+    "english": "to the prayer [made]"
   },
   {
     "hebrew": "והשכרתי",
     "transliteration": "והשכרתי",
-    "gematria": 941
+    "gematria": 941,
+    "english": "And I will make drunk"
   },
   {
     "hebrew": "משתדר",
     "transliteration": "משתדר",
-    "gematria": 944
+    "gematria": 944,
+    "english": "labored"
+  },
+  {
+    "hebrew": "כתועבתיהם",
+    "transliteration": "כתועבתיהם",
+    "gematria": 953,
+    "english": "[doing] with respect to the abominations"
   },
   {
     "hebrew": "ראשנות",
     "transliteration": "ראשנות",
-    "gematria": 957
+    "gematria": 957,
+    "english": "the former things"
+  },
+  {
+    "hebrew": "משכרת",
+    "transliteration": "משכרת",
+    "gematria": 960,
+    "english": "that made drunk"
   },
   {
     "hebrew": "הראשנות",
     "transliteration": "הראשנות",
-    "gematria": 962
+    "gematria": 962,
+    "english": "the former things"
   },
   {
     "hebrew": "וראשנות",
     "transliteration": "וראשנות",
-    "gematria": 963
+    "gematria": 963,
+    "english": "and former things"
+  },
+  {
+    "hebrew": "רשעתי",
+    "transliteration": "רשעתי",
+    "gematria": 980,
+    "english": "have departed wickedly"
   },
   {
     "hebrew": "תעשיר",
     "transliteration": "תעשיר",
-    "gematria": 980
+    "gematria": 980,
+    "english": "makes rich"
+  },
+  {
+    "hebrew": "הרעשתה",
+    "transliteration": "הרעשתה",
+    "gematria": 980,
+    "english": "You have made tremble"
   },
   {
     "hebrew": "והשכרתים",
     "transliteration": "והשכרתים",
-    "gematria": 981
+    "gematria": 981,
+    "english": "and I will make them drunk"
   },
   {
     "hebrew": "ותורישני",
     "transliteration": "ותורישני",
-    "gematria": 982
+    "gematria": 982,
+    "english": "and make me inherit"
+  },
+  {
+    "hebrew": "העשרתי",
+    "transliteration": "העשרתי",
+    "gematria": 985,
+    "english": "have made rich"
+  },
+  {
+    "hebrew": "הרעשתי",
+    "transliteration": "הרעשתי",
+    "gematria": 985,
+    "english": "I made shake"
   },
   {
     "hebrew": "מתעשר",
     "transliteration": "מתעשר",
-    "gematria": 1010
+    "gematria": 1010,
+    "english": "one who makes himself rich"
   },
   {
     "hebrew": "תשגשגי",
     "transliteration": "תשגשגי",
-    "gematria": 1016
+    "gematria": 1016,
+    "english": "you will make to grow"
+  },
+  {
+    "hebrew": "התחברות",
+    "transliteration": "התחברות",
+    "gematria": 1021,
+    "english": "the league [is made]"
+  },
+  {
+    "hebrew": "ותכרת",
+    "transliteration": "ותכרת",
+    "gematria": 1026,
+    "english": "and made [a covenant]"
   },
   {
     "hebrew": "משמרותם",
     "transliteration": "משמרותם",
-    "gematria": 1026
+    "gematria": 1026,
+    "english": "their services"
   },
   {
     "hebrew": "תכרתו",
     "transliteration": "תכרתו",
-    "gematria": 1026
+    "gematria": 1026,
+    "english": "shall make"
+  },
+  {
+    "hebrew": "ותכרתו",
+    "transliteration": "ותכרתו",
+    "gematria": 1032,
+    "english": "and you made"
   },
   {
     "hebrew": "במשמרותיהם",
     "transliteration": "במשמרותיהם",
-    "gematria": 1043
+    "gematria": 1043,
+    "english": "according to their work"
+  },
+  {
+    "hebrew": "תרתן",
+    "transliteration": "תרתן",
+    "gematria": 1050,
+    "english": "Tartan"
   },
   {
     "hebrew": "תתרע",
     "transliteration": "תתרע",
-    "gematria": 1070
+    "gematria": 1070,
+    "english": "Make friendship"
   },
   {
     "hebrew": "תעתיר",
     "transliteration": "תעתיר",
-    "gematria": 1080
+    "gematria": 1080,
+    "english": "You will make your prayer"
   },
   {
     "hebrew": "ותתערי",
     "transliteration": "ותתערי",
-    "gematria": 1086
+    "gematria": 1086,
+    "english": "and make yourself naked"
+  },
+  {
+    "hebrew": "מתרומת",
+    "transliteration": "מתרומת",
+    "gematria": 1086,
+    "english": "that is set apart"
+  },
+  {
+    "hebrew": "תרתק",
+    "transliteration": "תרתק",
+    "gematria": 1100,
+    "english": "Tartak"
+  },
+  {
+    "hebrew": "תשיתהו",
+    "transliteration": "תשיתהו",
+    "gematria": 1121,
+    "english": "You have made him"
   },
   {
     "hebrew": "תשיתמו",
     "transliteration": "תשיתמו",
-    "gematria": 1156
+    "gematria": 1156,
+    "english": "You shall make them"
   },
   {
     "hebrew": "תתפש",
     "transliteration": "תתפש",
-    "gematria": 1180
+    "gematria": 1180,
+    "english": "skillfully grasps"
+  },
+  {
+    "hebrew": "תחתיות",
+    "transliteration": "תחתיות",
+    "gematria": 1224,
+    "english": "you lower parts"
+  },
+  {
+    "hebrew": "בתחתיות",
+    "transliteration": "בתחתיות",
+    "gematria": 1226,
+    "english": "into the lower parts"
   },
   {
     "hebrew": "מתרושש",
     "transliteration": "מתרושש",
-    "gematria": 1246
+    "gematria": 1246,
+    "english": "[And] one who makes himself poor"
   },
   {
     "hebrew": "והתחתנתם",
     "transliteration": "והתחתנתם",
-    "gematria": 1309
+    "gematria": 1309,
+    "english": "and make marriages"
+  },
+  {
+    "hebrew": "ארתחשסתא",
+    "transliteration": "ארתחשסתא",
+    "gematria": 1370,
+    "english": "of Artaxerxes"
+  },
+  {
+    "hebrew": "לארתחשסתא",
+    "transliteration": "לארתחשסתא",
+    "gematria": 1400,
+    "english": "of Artaxerxes"
   },
   {
     "hebrew": "שרשרות",
     "transliteration": "שרשרות",
-    "gematria": 1406
+    "gematria": 1406,
+    "english": "chainwork"
   },
   {
     "hebrew": "בשרשרות",
     "transliteration": "בשרשרות",
-    "gematria": 1408
+    "gematria": 1408,
+    "english": "on the wreaths of chainwork"
   },
   {
     "hebrew": "ושרשרות",
     "transliteration": "ושרשרות",
-    "gematria": 1412
+    "gematria": 1412,
+    "english": "and chainwork"
+  },
+  {
+    "hebrew": "ארתחששת",
+    "transliteration": "ארתחששת",
+    "gematria": 1609,
+    "english": "Artaxerxes"
+  },
+  {
+    "hebrew": "ארתחששתא",
+    "transliteration": "ארתחששתא",
+    "gematria": 1610,
+    "english": "of Artaxerxes"
+  },
+  {
+    "hebrew": "וארתחששתא",
+    "transliteration": "וארתחששתא",
+    "gematria": 1616,
+    "english": "and Artaxerxes"
+  },
+  {
+    "hebrew": "לארתחששתא",
+    "transliteration": "לארתחששתא",
+    "gematria": 1640,
+    "english": "to Artaxerxes"
   }
 ]
