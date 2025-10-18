@@ -17,29 +17,35 @@ pip install -r requirements.txt
 
 ### 2. Running the Analysis (Conscious-Relativity Integration)
 
-This repository is used as a submodule within the `Conscious-Relativity` project. The entire workflow is managed from the parent repository's root directory.
+This repository serves as the analytical engine for the "word discovery" phase of the `Conscious-Relativity` project. Its primary purpose is to analyze the Hebrew Tanach and identify thematically relevant words to populate the various gematria libraries.
+
+The workflow is managed from the parent `Conscious-Relativity` repository.
 
 **Step 1: Generate the Corpus**
 
-First, ensure the individual book text files are created from the source JSON. Run this from the `Conscious-Relativity` root:
+First, ensure the individual book text files are created from the source JSON. This populates the `corpora/hebrew/` directory with the necessary `.txt` files for analysis. Run this command from the `Conscious-Relativity` root directory:
 
 ```bash
 python scripts/export_corpus.py
 ```
 
-This will populate the `vendor/voynich-attack/corpora/hebrew/` directory with the necessary `.txt` files.
+**Step 2: Run Thematic Analysis**
 
-**Step 2: Run the Analysis**
+Next, run the thematic analysis script. This script will:
+1.  Iterate through each book in the corpus.
+2.  Use the thematic keywords defined in the parent project's `AGENTS.md` and `docs/Thematic-Gematria Lexicon.md`.
+3.  Cross-reference findings with `reference_materials/word_gematria_ledger.json` to validate words and retrieve their data.
+4.  Generate detailed reports to assist in populating the gematria libraries.
 
-Next, run the main analysis script. This script will iterate through each book, perform a statistical analysis, and generate individual reports. Run this from the `Conscious-Relativity` root:
+Run the analysis from the `Conscious-Relativity` root directory:
 
 ```bash
-python run_voynich_analysis.py
+python scripts/run_thematic_analysis.py
 ```
 
-The results will be saved in the `analysis_results` directory within the `Conscious-Relativity` project.
+The results will be saved in the `analysis_reports` directory within the `Conscious-Relativity` project.
 
-**Important**: Do not use the `examples/hebrew_analysis_example.py` script. It is not configured for the current project workflow. For more details on the integrated workflow, see `AGENTS.md`.
+**Important**: Do not use the `examples/hebrew_analysis_example.py` script. It is not configured for the current project workflow. The authoritative guide for the thematic concepts is `AGENTS.md` in the parent repository.
 
 
 ## Table of Contents
