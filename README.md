@@ -15,20 +15,31 @@ Navigate to this directory and use `pip` to install the dependencies listed in `
 pip install -r requirements.txt
 ```
 
-### 2. Running an Example
+### 2. Running the Analysis (Conscious-Relativity Integration)
 
-This repository is integrated with the `Conscious-Relativity` project to analyze the Hebrew Bible. To run a sample analysis:
+This repository is used as a submodule within the `Conscious-Relativity` project. The entire workflow is managed from the parent repository's root directory.
+
+**Step 1: Generate the Corpus**
+
+First, ensure the individual book text files are created from the source JSON. Run this from the `Conscious-Relativity` root:
 
 ```bash
-# From the root of the Conscious-Relativity repository
-python scripts/export_hebrew_for_voynich.py
+python scripts/export_corpus.py
 ```
 
-Then, from this `vendor/voynich-attack` directory, run:
+This will populate the `vendor/voynich-attack/corpora/hebrew/` directory with the necessary `.txt` files.
+
+**Step 2: Run the Analysis**
+
+Next, run the main analysis script. This script will iterate through each book, perform a statistical analysis, and generate individual reports. Run this from the `Conscious-Relativity` root:
+
 ```bash
-PYTHONPATH=voynpy python examples/hebrew_analysis_example.py
+python run_voynich_analysis.py
 ```
-*Note for Windows PowerShell users: `$env:PYTHONPATH="voynpy"; python examples/hebrew_analysis_example.py`*
+
+The results will be saved in the `analysis_results` directory within the `Conscious-Relativity` project.
+
+**Important**: Do not use the `examples/hebrew_analysis_example.py` script. It is not configured for the current project workflow. For more details on the integrated workflow, see `AGENTS.md`.
 
 
 ## Table of Contents
