@@ -1,52 +1,1352 @@
 [
   {
-    "hebrew": "כן",
-    "transliteration": "ken",
-    "gematria": 20
+    "hebrew": "ההיטב",
+    "transliteration": "ההיטב",
+    "gematria": 31
   },
   {
-    "hebrew": "נאמן",
-    "transliteration": "neeman",
+    "hebrew": "ויבגדו",
+    "transliteration": "ויבגדו",
+    "gematria": 31
+  },
+  {
+    "hebrew": "זכו",
+    "transliteration": "זכו",
+    "gematria": 33
+  },
+  {
+    "hebrew": "הכי",
+    "transliteration": "הכי",
+    "gematria": 35
+  },
+  {
+    "hebrew": "כחזה",
+    "transliteration": "כחזה",
+    "gematria": 40
+  },
+  {
+    "hebrew": "כל",
+    "transliteration": "כל",
+    "gematria": 50
+  },
+  {
+    "hebrew": "וכל",
+    "transliteration": "וכל",
+    "gematria": 56
+  },
+  {
+    "hebrew": "ככחי",
+    "transliteration": "ככחי",
+    "gematria": 58
+  },
+  {
+    "hebrew": "הנגה",
+    "transliteration": "הנגה",
+    "gematria": 63
+  },
+  {
+    "hebrew": "הבין",
+    "transliteration": "הבין",
+    "gematria": 67
+  },
+  {
+    "hebrew": "ודין",
+    "transliteration": "ודין",
+    "gematria": 70
+  },
+  {
+    "hebrew": "היכלו",
+    "transliteration": "היכלו",
+    "gematria": 71
+  },
+  {
+    "hebrew": "ובוגדים",
+    "transliteration": "ובוגדים",
+    "gematria": 71
+  },
+  {
+    "hebrew": "מהבל",
+    "transliteration": "מהבל",
+    "gematria": 77
+  },
+  {
+    "hebrew": "כנגה",
+    "transliteration": "כנגה",
+    "gematria": 78
+  },
+  {
+    "hebrew": "והחסד",
+    "transliteration": "והחסד",
+    "gematria": 83
+  },
+  {
+    "hebrew": "נכחה",
+    "transliteration": "נכחה",
+    "gematria": 83
+  },
+  {
+    "hebrew": "נכחו",
+    "transliteration": "נכחו",
+    "gematria": 84
+  },
+  {
+    "hebrew": "לכלה",
+    "transliteration": "לכלה",
+    "gematria": 85
+  },
+  {
+    "hebrew": "כללו",
+    "transliteration": "כללו",
+    "gematria": 86
+  },
+  {
+    "hebrew": "לנגה",
+    "transliteration": "לנגה",
+    "gematria": 88
+  },
+  {
+    "hebrew": "גמולי",
+    "transliteration": "גמולי",
+    "gematria": 89
+  },
+  {
+    "hebrew": "אמן",
+    "transliteration": "אמן",
     "gematria": 91
   },
   {
+    "hebrew": "ולנגה",
+    "transliteration": "ולנגה",
+    "gematria": 94
+  },
+  {
+    "hebrew": "וכליל",
+    "transliteration": "וכליל",
+    "gematria": 96
+  },
+  {
+    "hebrew": "נגהם",
+    "transliteration": "נגהם",
+    "gematria": 98
+  },
+  {
+    "hebrew": "מנגה",
+    "transliteration": "מנגה",
+    "gematria": 98
+  },
+  {
     "hebrew": "אמונה",
-    "transliteration": "emunah",
+    "transliteration": "אמונה",
     "gematria": 102
   },
   {
+    "hebrew": "באמונה",
+    "transliteration": "באמונה",
+    "gematria": 104
+  },
+  {
+    "hebrew": "אמוני",
+    "transliteration": "אמוני",
+    "gematria": 107
+  },
+  {
+    "hebrew": "האמונה",
+    "transliteration": "האמונה",
+    "gematria": 107
+  },
+  {
+    "hebrew": "ואמונה",
+    "transliteration": "ואמונה",
+    "gematria": 108
+  },
+  {
+    "hebrew": "ימין",
+    "transliteration": "ימין",
+    "gematria": 110
+  },
+  {
+    "hebrew": "בימין",
+    "transliteration": "בימין",
+    "gematria": 112
+  },
+  {
+    "hebrew": "ואימנה",
+    "transliteration": "ואימנה",
+    "gematria": 112
+  },
+  {
+    "hebrew": "והאמונה",
+    "transliteration": "והאמונה",
+    "gematria": 113
+  },
+  {
+    "hebrew": "הימני",
+    "transliteration": "הימני",
+    "gematria": 115
+  },
+  {
+    "hebrew": "יעול",
+    "transliteration": "יעול",
+    "gematria": 116
+  },
+  {
+    "hebrew": "ימינו",
+    "transliteration": "ימינו",
+    "gematria": 116
+  },
+  {
+    "hebrew": "ועולה",
+    "transliteration": "ועולה",
+    "gematria": 117
+  },
+  {
+    "hebrew": "בימינה",
+    "transliteration": "בימינה",
+    "gematria": 117
+  },
+  {
+    "hebrew": "בימינו",
+    "transliteration": "בימינו",
+    "gematria": 118
+  },
+  {
+    "hebrew": "ויציבא",
+    "transliteration": "ויציבא",
+    "gematria": 119
+  },
+  {
+    "hebrew": "מכלל",
+    "transliteration": "מכלל",
+    "gematria": 120
+  },
+  {
+    "hebrew": "וימינה",
+    "transliteration": "וימינה",
+    "gematria": 121
+  },
+  {
+    "hebrew": "בימיני",
+    "transliteration": "בימיני",
+    "gematria": 122
+  },
+  {
+    "hebrew": "וימינו",
+    "transliteration": "וימינו",
+    "gematria": 122
+  },
+  {
+    "hebrew": "וימיני",
+    "transliteration": "וימיני",
+    "gematria": 126
+  },
+  {
+    "hebrew": "כעול",
+    "transliteration": "כעול",
+    "gematria": 126
+  },
+  {
+    "hebrew": "ימינך",
+    "transliteration": "ימינך",
+    "gematria": 130
+  },
+  {
+    "hebrew": "בימינך",
+    "transliteration": "בימינך",
+    "gematria": 132
+  },
+  {
+    "hebrew": "לאמונה",
+    "transliteration": "לאמונה",
+    "gematria": 132
+  },
+  {
+    "hebrew": "ליצבא",
+    "transliteration": "ליצבא",
+    "gematria": 133
+  },
+  {
+    "hebrew": "ונכחים",
+    "transliteration": "ונכחים",
+    "gematria": 134
+  },
+  {
+    "hebrew": "להמין",
+    "transliteration": "להמין",
+    "gematria": 135
+  },
+  {
+    "hebrew": "וימינך",
+    "transliteration": "וימינך",
+    "gematria": 136
+  },
+  {
+    "hebrew": "וחסדכם",
+    "transliteration": "וחסדכם",
+    "gematria": 138
+  },
+  {
+    "hebrew": "לימין",
+    "transliteration": "לימין",
+    "gematria": 140
+  },
+  {
+    "hebrew": "אמנים",
+    "transliteration": "אמנים",
+    "gematria": 141
+  },
+  {
+    "hebrew": "מהימן",
+    "transliteration": "מהימן",
+    "gematria": 145
+  },
+  {
+    "hebrew": "נאמנה",
+    "transliteration": "נאמנה",
+    "gematria": 146
+  },
+  {
+    "hebrew": "לימינו",
+    "transliteration": "לימינו",
+    "gematria": 146
+  },
+  {
+    "hebrew": "הנאמן",
+    "transliteration": "הנאמן",
+    "gematria": 146
+  },
+  {
+    "hebrew": "נצבה",
+    "transliteration": "נצבה",
+    "gematria": 147
+  },
+  {
+    "hebrew": "אמונים",
+    "transliteration": "אמונים",
+    "gematria": 147
+  },
+  {
+    "hebrew": "נאמנו",
+    "transliteration": "נאמנו",
+    "gematria": 147
+  },
+  {
+    "hebrew": "נצבו",
+    "transliteration": "נצבו",
+    "gematria": 148
+  },
+  {
+    "hebrew": "מימין",
+    "transliteration": "מימין",
+    "gematria": 150
+  },
+  {
+    "hebrew": "לימיני",
+    "transliteration": "לימיני",
+    "gematria": 150
+  },
+  {
+    "hebrew": "ימינם",
+    "transliteration": "ימינם",
+    "gematria": 150
+  },
+  {
+    "hebrew": "בנאמני",
+    "transliteration": "בנאמני",
+    "gematria": 153
+  },
+  {
+    "hebrew": "וימינם",
+    "transliteration": "וימינם",
+    "gematria": 156
+  },
+  {
+    "hebrew": "מימיני",
+    "transliteration": "מימיני",
+    "gematria": 160
+  },
+  {
+    "hebrew": "לימינך",
+    "transliteration": "לימינך",
+    "gematria": 160
+  },
+  {
+    "hebrew": "הבצע",
+    "transliteration": "הבצע",
+    "gematria": 167
+  },
+  {
+    "hebrew": "למעול",
+    "transliteration": "למעול",
+    "gematria": 176
+  },
+  {
+    "hebrew": "מעלם",
+    "transliteration": "מעלם",
+    "gematria": 180
+  },
+  {
+    "hebrew": "במעלם",
+    "transliteration": "במעלם",
+    "gematria": 182
+  },
+  {
+    "hebrew": "בצעך",
+    "transliteration": "בצעך",
+    "gematria": 182
+  },
+  {
+    "hebrew": "מימינם",
+    "transliteration": "מימינם",
+    "gematria": 190
+  },
+  {
+    "hebrew": "ולקדים",
+    "transliteration": "ולקדים",
+    "gematria": 190
+  },
+  {
+    "hebrew": "נאמנים",
+    "transliteration": "נאמנים",
+    "gematria": 191
+  },
+  {
     "hebrew": "צדק",
-    "transliteration": "tsedek",
+    "transliteration": "צדק",
     "gematria": 194
   },
   {
+    "hebrew": "אצדק",
+    "transliteration": "אצדק",
+    "gematria": 195
+  },
+  {
+    "hebrew": "בצדק",
+    "transliteration": "בצדק",
+    "gematria": 196
+  },
+  {
+    "hebrew": "הצדק",
+    "transliteration": "הצדק",
+    "gematria": 199
+  },
+  {
+    "hebrew": "צדקה",
+    "transliteration": "צדקה",
+    "gematria": 199
+  },
+  {
+    "hebrew": "צדקו",
+    "transliteration": "צדקו",
+    "gematria": 200
+  },
+  {
+    "hebrew": "נקים",
+    "transliteration": "נקים",
+    "gematria": 200
+  },
+  {
+    "hebrew": "וצדק",
+    "transliteration": "וצדק",
+    "gematria": 200
+  },
+  {
+    "hebrew": "מימינים",
+    "transliteration": "מימינים",
+    "gematria": 200
+  },
+  {
+    "hebrew": "בצדקה",
+    "transliteration": "בצדקה",
+    "gematria": 201
+  },
+  {
+    "hebrew": "בצדקו",
+    "transliteration": "בצדקו",
+    "gematria": 202
+  },
+  {
     "hebrew": "צדיק",
-    "transliteration": "tsaddik",
+    "transliteration": "צדיק",
     "gematria": 204
   },
   {
-    "hebrew": "שלם",
-    "transliteration": "shalem",
+    "hebrew": "הצדקה",
+    "transliteration": "הצדקה",
+    "gematria": 204
+  },
+  {
+    "hebrew": "צדקי",
+    "transliteration": "צדקי",
+    "gematria": 204
+  },
+  {
+    "hebrew": "יצדק",
+    "transliteration": "יצדק",
+    "gematria": 204
+  },
+  {
+    "hebrew": "וצדקה",
+    "transliteration": "וצדקה",
+    "gematria": 205
+  },
+  {
+    "hebrew": "אצדיק",
+    "transliteration": "אצדיק",
+    "gematria": 205
+  },
+  {
+    "hebrew": "ובצדקה",
+    "transliteration": "ובצדקה",
+    "gematria": 207
+  },
+  {
+    "hebrew": "ארו",
+    "transliteration": "ארו",
+    "gematria": 207
+  },
+  {
+    "hebrew": "הצדיק",
+    "transliteration": "הצדיק",
+    "gematria": 209
+  },
+  {
+    "hebrew": "יצדקו",
+    "transliteration": "יצדקו",
+    "gematria": 210
+  },
+  {
+    "hebrew": "וצדיק",
+    "transliteration": "וצדיק",
+    "gematria": 210
+  },
+  {
+    "hebrew": "נקיים",
+    "transliteration": "נקיים",
+    "gematria": 210
+  },
+  {
+    "hebrew": "זהר",
+    "transliteration": "זהר",
+    "gematria": 212
+  },
+  {
+    "hebrew": "יצדיק",
+    "transliteration": "יצדיק",
+    "gematria": 214
+  },
+  {
+    "hebrew": "צדקך",
+    "transliteration": "צדקך",
+    "gematria": 214
+  },
+  {
+    "hebrew": "הצדיקו",
+    "transliteration": "הצדיקו",
+    "gematria": 215
+  },
+  {
+    "hebrew": "ויצדקו",
+    "transliteration": "ויצדקו",
+    "gematria": 216
+  },
+  {
+    "hebrew": "בהיר",
+    "transliteration": "בהיר",
+    "gematria": 217
+  },
+  {
+    "hebrew": "כצדקו",
+    "transliteration": "כצדקו",
+    "gematria": 220
+  },
+  {
+    "hebrew": "והצדיקו",
+    "transliteration": "והצדיקו",
+    "gematria": 221
+  },
+  {
+    "hebrew": "לצדק",
+    "transliteration": "לצדק",
+    "gematria": 224
+  },
+  {
+    "hebrew": "כצדיק",
+    "transliteration": "כצדיק",
+    "gematria": 224
+  },
+  {
+    "hebrew": "כצדקי",
+    "transliteration": "כצדקי",
+    "gematria": 224
+  },
+  {
+    "hebrew": "בכרה",
+    "transliteration": "בכרה",
+    "gematria": 227
+  },
+  {
+    "hebrew": "לצדקה",
+    "transliteration": "לצדקה",
+    "gematria": 229
+  },
+  {
+    "hebrew": "כזהר",
+    "transliteration": "כזהר",
+    "gematria": 232
+  },
+  {
+    "hebrew": "ארוכה",
+    "transliteration": "ארוכה",
+    "gematria": 232
+  },
+  {
+    "hebrew": "ויחרגו",
+    "transliteration": "ויחרגו",
+    "gematria": 233
+  },
+  {
+    "hebrew": "לצדיק",
+    "transliteration": "לצדיק",
+    "gematria": 234
+  },
+  {
+    "hebrew": "כצדקך",
+    "transliteration": "כצדקך",
+    "gematria": 234
+  },
+  {
+    "hebrew": "כאזור",
+    "transliteration": "כאזור",
+    "gematria": 234
+  },
+  {
+    "hebrew": "והבכרה",
+    "transliteration": "והבכרה",
+    "gematria": 238
+  },
+  {
+    "hebrew": "מצדקה",
+    "transliteration": "מצדקה",
+    "gematria": 239
+  },
+  {
+    "hebrew": "מצדקו",
+    "transliteration": "מצדקו",
+    "gematria": 240
+  },
+  {
+    "hebrew": "צדקים",
+    "transliteration": "צדקים",
+    "gematria": 244
+  },
+  {
+    "hebrew": "צדיקם",
+    "transliteration": "צדיקם",
+    "gematria": 244
+  },
+  {
+    "hebrew": "מצדיק",
+    "transliteration": "מצדיק",
+    "gematria": 244
+  },
+  {
+    "hebrew": "ולהצדיק",
+    "transliteration": "ולהצדיק",
+    "gematria": 245
+  },
+  {
+    "hebrew": "הצדיקם",
+    "transliteration": "הצדיקם",
+    "gematria": 249
+  },
+  {
+    "hebrew": "וצדקים",
+    "transliteration": "וצדקים",
+    "gematria": 250
+  },
+  {
+    "hebrew": "צדקנו",
+    "transliteration": "צדקנו",
+    "gematria": 250
+  },
+  {
+    "hebrew": "גמיר",
+    "transliteration": "גמיר",
+    "gematria": 253
+  },
+  {
+    "hebrew": "מצדיקי",
+    "transliteration": "מצדיקי",
+    "gematria": 254
+  },
+  {
+    "hebrew": "צדיקים",
+    "transliteration": "צדיקים",
+    "gematria": 254
+  },
+  {
+    "hebrew": "לבכרה",
+    "transliteration": "לבכרה",
+    "gematria": 257
+  },
+  {
+    "hebrew": "הצדיקים",
+    "transliteration": "הצדיקים",
+    "gematria": 259
+  },
+  {
+    "hebrew": "ומצדיקי",
+    "transliteration": "ומצדיקי",
+    "gematria": 260
+  },
+  {
+    "hebrew": "וצדיקים",
+    "transliteration": "וצדיקים",
+    "gematria": 260
+  },
+  {
+    "hebrew": "ליראם",
+    "transliteration": "ליראם",
+    "gematria": 281
+  },
+  {
+    "hebrew": "ובארץ",
+    "transliteration": "ובארץ",
+    "gematria": 299
+  },
+  {
+    "hebrew": "ליראני",
+    "transliteration": "ליראני",
+    "gematria": 301
+  },
+  {
+    "hebrew": "כירק",
+    "transliteration": "כירק",
     "gematria": 330
   },
   {
+    "hebrew": "לברק",
+    "transliteration": "לברק",
+    "gematria": 332
+  },
+  {
+    "hebrew": "עצר",
+    "transliteration": "עצר",
+    "gematria": 360
+  },
+  {
+    "hebrew": "ושכללה",
+    "transliteration": "ושכללה",
+    "gematria": 391
+  },
+  {
+    "hebrew": "כאהבת",
+    "transliteration": "כאהבת",
+    "gematria": 428
+  },
+  {
     "hebrew": "משפט",
-    "transliteration": "mishpat",
+    "transliteration": "משפט",
     "gematria": 429
   },
   {
+    "hebrew": "כמשלם",
+    "transliteration": "כמשלם",
+    "gematria": 430
+  },
+  {
+    "hebrew": "במשפט",
+    "transliteration": "במשפט",
+    "gematria": 431
+  },
+  {
+    "hebrew": "תזכה",
+    "transliteration": "תזכה",
+    "gematria": 432
+  },
+  {
+    "hebrew": "ובמשפט",
+    "transliteration": "ובמשפט",
+    "gematria": 437
+  },
+  {
+    "hebrew": "משפטי",
+    "transliteration": "משפטי",
+    "gematria": 439
+  },
+  {
     "hebrew": "אמת",
-    "transliteration": "emet",
+    "transliteration": "אמת",
     "gematria": 441
   },
   {
+    "hebrew": "בתם",
+    "transliteration": "בתם",
+    "gematria": 442
+  },
+  {
+    "hebrew": "באמת",
+    "transliteration": "באמת",
+    "gematria": 443
+  },
+  {
+    "hebrew": "גאלתי",
+    "transliteration": "גאלתי",
+    "gematria": 444
+  },
+  {
+    "hebrew": "להטת",
+    "transliteration": "להטת",
+    "gematria": 444
+  },
+  {
+    "hebrew": "ומשפטי",
+    "transliteration": "ומשפטי",
+    "gematria": 445
+  },
+  {
+    "hebrew": "האמת",
+    "transliteration": "האמת",
+    "gematria": 446
+  },
+  {
+    "hebrew": "ואמת",
+    "transliteration": "ואמת",
+    "gematria": 447
+  },
+  {
+    "hebrew": "בתמו",
+    "transliteration": "בתמו",
+    "gematria": 448
+  },
+  {
+    "hebrew": "ובאמת",
+    "transliteration": "ובאמת",
+    "gematria": 449
+  },
+  {
+    "hebrew": "איתם",
+    "transliteration": "איתם",
+    "gematria": 451
+  },
+  {
+    "hebrew": "בתמי",
+    "transliteration": "בתמי",
+    "gematria": 452
+  },
+  {
+    "hebrew": "ומשפטך",
+    "transliteration": "ומשפטך",
+    "gematria": 455
+  },
+  {
+    "hebrew": "למשפט",
+    "transliteration": "למשפט",
+    "gematria": 459
+  },
+  {
+    "hebrew": "כתם",
+    "transliteration": "כתם",
+    "gematria": 460
+  },
+  {
+    "hebrew": "אמתך",
+    "transliteration": "אמתך",
+    "gematria": 461
+  },
+  {
+    "hebrew": "באמתך",
+    "transliteration": "באמתך",
+    "gematria": 463
+  },
+  {
+    "hebrew": "וכלית",
+    "transliteration": "וכלית",
+    "gematria": 466
+  },
+  {
+    "hebrew": "כמשפטך",
+    "transliteration": "כמשפטך",
+    "gematria": 469
+  },
+  {
+    "hebrew": "לתם",
+    "transliteration": "לתם",
+    "gematria": 470
+  },
+  {
+    "hebrew": "לאמת",
+    "transliteration": "לאמת",
+    "gematria": 471
+  },
+  {
+    "hebrew": "וכתמי",
+    "transliteration": "וכתמי",
+    "gematria": 476
+  },
+  {
+    "hebrew": "תבהלם",
+    "transliteration": "תבהלם",
+    "gematria": 477
+  },
+  {
+    "hebrew": "יתכן",
+    "transliteration": "יתכן",
+    "gematria": 480
+  },
+  {
+    "hebrew": "וככלות",
+    "transliteration": "וככלות",
+    "gematria": 482
+  },
+  {
+    "hebrew": "בעתהו",
+    "transliteration": "בעתהו",
+    "gematria": 483
+  },
+  {
+    "hebrew": "נכחות",
+    "transliteration": "נכחות",
+    "gematria": 484
+  },
+  {
+    "hebrew": "ובמלואת",
+    "transliteration": "ובמלואת",
+    "gematria": 485
+  },
+  {
+    "hebrew": "כלילת",
+    "transliteration": "כלילת",
+    "gematria": 490
+  },
+  {
     "hebrew": "תמים",
-    "transliteration": "tamim",
-    "gematria": 450
+    "transliteration": "תמים",
+    "gematria": 490
+  },
+  {
+    "hebrew": "לנגהות",
+    "transliteration": "לנגהות",
+    "gematria": 494
+  },
+  {
+    "hebrew": "אמנתו",
+    "transliteration": "אמנתו",
+    "gematria": 497
+  },
+  {
+    "hebrew": "כמלאות",
+    "transliteration": "כמלאות",
+    "gematria": 497
+  },
+  {
+    "hebrew": "תמימי",
+    "transliteration": "תמימי",
+    "gematria": 500
+  },
+  {
+    "hebrew": "אמונות",
+    "transliteration": "אמונות",
+    "gematria": 503
+  },
+  {
+    "hebrew": "אמונתו",
+    "transliteration": "אמונתו",
+    "gematria": 503
+  },
+  {
+    "hebrew": "באמונתו",
+    "transliteration": "באמונתו",
+    "gematria": 505
+  },
+  {
+    "hebrew": "באמונתי",
+    "transliteration": "באמונתי",
+    "gematria": 509
+  },
+  {
+    "hebrew": "ואמונתו",
+    "transliteration": "ואמונתו",
+    "gematria": 509
   },
   {
     "hebrew": "ישר",
-    "transliteration": "yashar",
+    "transliteration": "ישר",
     "gematria": 510
+  },
+  {
+    "hebrew": "בישר",
+    "transliteration": "בישר",
+    "gematria": 512
+  },
+  {
+    "hebrew": "ואמונתי",
+    "transliteration": "ואמונתי",
+    "gematria": 513
+  },
+  {
+    "hebrew": "באמנתך",
+    "transliteration": "באמנתך",
+    "gematria": 513
+  },
+  {
+    "hebrew": "הימנית",
+    "transliteration": "הימנית",
+    "gematria": 515
+  },
+  {
+    "hebrew": "הישר",
+    "transliteration": "הישר",
+    "gematria": 515
+  },
+  {
+    "hebrew": "אמונתך",
+    "transliteration": "אמונתך",
+    "gematria": 517
+  },
+  {
+    "hebrew": "ובישר",
+    "transliteration": "ובישר",
+    "gematria": 518
+  },
+  {
+    "hebrew": "בישרו",
+    "transliteration": "בישרו",
+    "gematria": 518
+  },
+  {
+    "hebrew": "באמונתך",
+    "transliteration": "באמונתך",
+    "gematria": 519
+  },
+  {
+    "hebrew": "והישר",
+    "transliteration": "והישר",
+    "gematria": 521
+  },
+  {
+    "hebrew": "ואמונתך",
+    "transliteration": "ואמונתך",
+    "gematria": 523
+  },
+  {
+    "hebrew": "והישרה",
+    "transliteration": "והישרה",
+    "gematria": 526
+  },
+  {
+    "hebrew": "וכשר",
+    "transliteration": "וכשר",
+    "gematria": 526
+  },
+  {
+    "hebrew": "יישרו",
+    "transliteration": "יישרו",
+    "gematria": 526
+  },
+  {
+    "hebrew": "וכישר",
+    "transliteration": "וכישר",
+    "gematria": 536
+  },
+  {
+    "hebrew": "באמונתם",
+    "transliteration": "באמונתם",
+    "gematria": 539
+  },
+  {
+    "hebrew": "תמעיטי",
+    "transliteration": "תמעיטי",
+    "gematria": 539
+  },
+  {
+    "hebrew": "ונתעודד",
+    "transliteration": "ונתעודד",
+    "gematria": 540
+  },
+  {
+    "hebrew": "תמעלו",
+    "transliteration": "תמעלו",
+    "gematria": 546
+  },
+  {
+    "hebrew": "ותמימים",
+    "transliteration": "ותמימים",
+    "gematria": 546
+  },
+  {
+    "hebrew": "לישרי",
+    "transliteration": "לישרי",
+    "gematria": 550
+  },
+  {
+    "hebrew": "ולישרי",
+    "transliteration": "ולישרי",
+    "gematria": 556
+  },
+  {
+    "hebrew": "ישרים",
+    "transliteration": "ישרים",
+    "gematria": 560
+  },
+  {
+    "hebrew": "וישרים",
+    "transliteration": "וישרים",
+    "gematria": 566
+  },
+  {
+    "hebrew": "עתיקי",
+    "transliteration": "עתיקי",
+    "gematria": 590
+  },
+  {
+    "hebrew": "לישרים",
+    "transliteration": "לישרים",
+    "gematria": 590
+  },
+  {
+    "hebrew": "צדקת",
+    "transliteration": "צדקת",
+    "gematria": 594
+  },
+  {
+    "hebrew": "ולישרים",
+    "transliteration": "ולישרים",
+    "gematria": 596
+  },
+  {
+    "hebrew": "וצדקת",
+    "transliteration": "וצדקת",
+    "gematria": 600
+  },
+  {
+    "hebrew": "מישרים",
+    "transliteration": "מישרים",
+    "gematria": 600
+  },
+  {
+    "hebrew": "צדקות",
+    "transliteration": "צדקות",
+    "gematria": 600
+  },
+  {
+    "hebrew": "צדקתו",
+    "transliteration": "צדקתו",
+    "gematria": 600
+  },
+  {
+    "hebrew": "בצדקתו",
+    "transliteration": "בצדקתו",
+    "gematria": 602
+  },
+  {
+    "hebrew": "קוממיות",
+    "transliteration": "קוממיות",
+    "gematria": 602
+  },
+  {
+    "hebrew": "צדקתי",
+    "transliteration": "צדקתי",
+    "gematria": 604
+  },
+  {
+    "hebrew": "וצדקתו",
+    "transliteration": "וצדקתו",
+    "gematria": 606
+  },
+  {
+    "hebrew": "בצדקתי",
+    "transliteration": "בצדקתי",
+    "gematria": 606
+  },
+  {
+    "hebrew": "בהרת",
+    "transliteration": "בהרת",
+    "gematria": 607
+  },
+  {
+    "hebrew": "בבהרת",
+    "transliteration": "בבהרת",
+    "gematria": 609
+  },
+  {
+    "hebrew": "וצדקתי",
+    "transliteration": "וצדקתי",
+    "gematria": 610
+  },
+  {
+    "hebrew": "ותצדקי",
+    "transliteration": "ותצדקי",
+    "gematria": 610
+  },
+  {
+    "hebrew": "צדקתיו",
+    "transliteration": "צדקתיו",
+    "gematria": 610
+  },
+  {
+    "hebrew": "הבהרת",
+    "transliteration": "הבהרת",
+    "gematria": 612
+  },
+  {
+    "hebrew": "צדקתך",
+    "transliteration": "צדקתך",
+    "gematria": 614
+  },
+  {
+    "hebrew": "בצדקתך",
+    "transliteration": "בצדקתך",
+    "gematria": 616
+  },
+  {
+    "hebrew": "וצדקתך",
+    "transliteration": "וצדקתך",
+    "gematria": 620
+  },
+  {
+    "hebrew": "כצדקתו",
+    "transliteration": "כצדקתו",
+    "gematria": 620
+  },
+  {
+    "hebrew": "והצדקתיו",
+    "transliteration": "והצדקתיו",
+    "gematria": 621
+  },
+  {
+    "hebrew": "ובצדקתך",
+    "transliteration": "ובצדקתך",
+    "gematria": 622
+  },
+  {
+    "hebrew": "כצדקתי",
+    "transliteration": "כצדקתי",
+    "gematria": 624
+  },
+  {
+    "hebrew": "בכרתו",
+    "transliteration": "בכרתו",
+    "gematria": 628
+  },
+  {
+    "hebrew": "בצדקתם",
+    "transliteration": "בצדקתם",
+    "gematria": 636
+  },
+  {
+    "hebrew": "וצדקתם",
+    "transliteration": "וצדקתם",
+    "gematria": 640
+  },
+  {
+    "hebrew": "מצדקתו",
+    "transliteration": "מצדקתו",
+    "gematria": 640
+  },
+  {
+    "hebrew": "בכרתך",
+    "transliteration": "בכרתך",
+    "gematria": 642
+  },
+  {
+    "hebrew": "ולבהרת",
+    "transliteration": "ולבהרת",
+    "gematria": 643
+  },
+  {
+    "hebrew": "כבכרתו",
+    "transliteration": "כבכרתו",
+    "gematria": 648
+  },
+  {
+    "hebrew": "תצדקנה",
+    "transliteration": "תצדקנה",
+    "gematria": 649
+  },
+  {
+    "hebrew": "צדקתינו",
+    "transliteration": "צדקתינו",
+    "gematria": 660
+  },
+  {
+    "hebrew": "ותארנה",
+    "transliteration": "ותארנה",
+    "gematria": 662
+  },
+  {
+    "hebrew": "תערוץ",
+    "transliteration": "תערוץ",
+    "gematria": 766
+  },
+  {
+    "hebrew": "שלמות",
+    "transliteration": "שלמות",
+    "gematria": 776
+  },
+  {
+    "hebrew": "ישתכללון",
+    "transliteration": "ישתכללון",
+    "gematria": 846
+  },
+  {
+    "hebrew": "בתמתו",
+    "transliteration": "בתמתו",
+    "gematria": 848
+  },
+  {
+    "hebrew": "תמתי",
+    "transliteration": "תמתי",
+    "gematria": 850
+  },
+  {
+    "hebrew": "והתמתי",
+    "transliteration": "והתמתי",
+    "gematria": 861
+  },
+  {
+    "hebrew": "בתמתך",
+    "transliteration": "בתמתך",
+    "gematria": 862
+  },
+  {
+    "hebrew": "תתמם",
+    "transliteration": "תתמם",
+    "gematria": 880
+  },
+  {
+    "hebrew": "תכנית",
+    "transliteration": "תכנית",
+    "gematria": 880
+  },
+  {
+    "hebrew": "תמימת",
+    "transliteration": "תמימת",
+    "gematria": 890
+  },
+  {
+    "hebrew": "תישר",
+    "transliteration": "תישר",
+    "gematria": 910
+  },
+  {
+    "hebrew": "ובישרת",
+    "transliteration": "ובישרת",
+    "gematria": 918
+  },
+  {
+    "hebrew": "ישרתי",
+    "transliteration": "ישרתי",
+    "gematria": 920
+  },
+  {
+    "hebrew": "בעתתני",
+    "transliteration": "בעתתני",
+    "gematria": 932
+  },
+  {
+    "hebrew": "התרעישנו",
+    "transliteration": "התרעישנו",
+    "gematria": 1041
   }
 ]
