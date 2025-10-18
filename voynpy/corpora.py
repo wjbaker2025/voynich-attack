@@ -114,6 +114,10 @@ latin.df = latin_df
 hebpath = '../corpora/hebrew/torah/torah.txt'
 heb = reftext.from_txt(hebpath, language = 'hebrew')
 
+# tanach: Full Hebrew Bible
+tanachpath = '../corpora/hebrew/tanach.txt'
+tanach = reftext.from_txt(tanachpath, language = 'hebrew')
+
 #----------
 # English
 #----------
