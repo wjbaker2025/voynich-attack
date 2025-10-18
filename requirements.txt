@@ -23,6 +23,7 @@ python-dateutil
 pytz
 setuptools-scm
 six
+tabulate
 tomli
 traitlets
 wcwidth

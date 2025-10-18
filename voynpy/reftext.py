@@ -58,7 +58,10 @@ def from_string(s, language):
     return reftext
 
 def from_txt(filepath, language):
-    with open(filepath, 'r') as f:
+    """
+    Instantiate a Reftext object from a .txt file
+    """
+    with open(filepath, 'r', encoding='utf-8') as f:
         s = f.read()
     reftext = from_string(s, language)
     return reftext
