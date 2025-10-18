@@ -12,7 +12,7 @@ import os
 import re
 from collections import defaultdict
 from typing import Dict, List, Tuple, Set
-from gematria_utils import GEMATRIA_VALUES, strip_diacritics, calculate_gematria
+from gematria_utils import GEMATRIA_VALUES, HEBREW_LETTERS, strip_diacritics, calculate_gematria
 
 def load_tanach_books() -> Dict[str, Dict]:
     """Load all Tanach books from JSON files."""

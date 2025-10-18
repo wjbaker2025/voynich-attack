@@ -13,6 +13,9 @@ GEMATRIA_VALUES = {
     'ק': 100, 'ר': 200, 'ש': 300, 'ת': 400
 }
 
+# Set of valid Hebrew letters (consonants only)
+HEBREW_LETTERS = set(GEMATRIA_VALUES.keys())
+
 def strip_diacritics(hebrew_text: str) -> str:
     """
     Remove vowel points, cantillation marks, and non-Hebrew characters from Hebrew text.
@@ -23,8 +26,7 @@ def strip_diacritics(hebrew_text: str) -> str:
     Returns:
         Clean Hebrew text with only consonant letters (א-ת)
     """
-    hebrew_letters = set('אבגדהוזחטיכךלמםנןסעפףצץקרשת')
-    return ''.join(char for char in hebrew_text if char in hebrew_letters)
+    return ''.join(char for char in hebrew_text if char in HEBREW_LETTERS)
 
 def calculate_gematria(hebrew_text: str) -> int:
     """
